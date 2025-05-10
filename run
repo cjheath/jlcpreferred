@@ -1,0 +1,5 @@
+while read id
+do
+	echo ======================== $id ======================
+	2>&1 easyeda2kicad --full --overwrite --lcsc_id=$id
+done < lcscPartNumbers.txt |tee -a jlcPreferred.log

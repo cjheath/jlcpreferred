@@ -1,0 +1,15 @@
+JLC Preferred parts Kicad library
+
+LCSC part ordering code scraped from JLC parts selector 9/May/2025
+1163 total Preferred parts at JLC
+1045 of these are available in EasyEDA, see Data/lcscPartNumbers-EasyEDA.txt
+118 parts not available in EasyEDA, see Data/lcscPartNumbers-notEasyEDA.txt
+
+The EasyEDA symbols, footprints and models were fetched using easyeda2kicad (see run script)
+
+Files renamed from ~/Documents/Kicad/easyeda2kicad/easyeda2kicad.* to jlcpreferred.*
+Edit the kicad_sym and .pretty files to change library references
+
+brew install easyeda2kicad
+easyeda2kicad --full --lcsc_id=
+

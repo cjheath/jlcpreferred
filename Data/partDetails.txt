@@ -1,0 +1,5814 @@
+SDFL1608Q4R7KTF
+C1034
+15mA 4.7uH ±10% 2.1Ω 0603 Inductors (SMD) ROHS
+Sunlord
+--
+SDFL2012Q1R0KTF
+C1042
+50mA 1uH ±10% 400mΩ 0805 Inductors (SMD) ROHS
+Sunlord
+--
+CMI201209U2R2KT
+C1043
+50mA 2.2uH ±10% 600mΩ 0805 Inductors (SMD) ROHS
+Fh (guangdong Fenghua Advanced tech)
+--
+CMI321609U4R7KT
+C1049
+25mA 4.7uH ±10% 650mΩ 1206 Inductors (SMD) ROHS
+Fh (guangdong Fenghua Advanced tech)
+--
+CMI321609X100KT
+C1051
+25mA 10uH ±10% 800mΩ 1206 Inductors (SMD) ROHS
+Fh (guangdong Fenghua Advanced tech)
+--
+0402B151K500NT
+C1527
+50V 150pF X7R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+Fh (guangdong Fenghua Advanced tech)
+--
+0402B222K500NT
+C1531
+50V 2.2nF X7R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+Fh (guangdong Fenghua Advanced tech)
+--
+0402B471K500NT
+C1537
+50V 470pF X7R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+Fh (guangdong Fenghua Advanced tech)
+--
+0402B682K500NT
+C1542
+50V 6.8nF X7R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+Fh (guangdong Fenghua Advanced tech)
+--
+0402CG1R0C500NT
+C1550
+50V 1pF C0G 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+Fh (guangdong Fenghua Advanced tech)
+--
+0402CG1R5C500NT
+C1552
+50V 1.5pF C0G 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+Fh (guangdong Fenghua Advanced tech)
+--
+0402CG270J500NT
+C1557
+50V 27pF C0G ±5% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+Fh (guangdong Fenghua Advanced tech)
+--
+0402CG2R2C500NT
+C1559
+50V 2.2pF C0G 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+Fh (guangdong Fenghua Advanced tech)
+--
+0402CG2R7C500NT
+C1561
+50V 2.7pF C0G 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+Fh (guangdong Fenghua Advanced tech)
+--
+0402CG3R3C500NT
+C1565
+50V 3.3pF C0G 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+Fh (guangdong Fenghua Advanced tech)
+--
+0402CG4R7C500NT
+C1569
+50V 4.7pF C0G 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+Fh (guangdong Fenghua Advanced tech)
+--
+0402CG300J500NT
+C1570
+50V 30pF C0G ±5% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+Fh (guangdong Fenghua Advanced tech)
+--
+0402CG6R8C500NT
+C1576
+50V 6.8pF C0G 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+Fh (guangdong Fenghua Advanced tech)
+--
+0402F333M500NT
+C1585
+50V 33nF Y5V ±20% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+Fh (guangdong Fenghua Advanced tech)
+--
+0603B152K500NT
+C1595
+50V 1.5nF X7R ±10% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+Fh (guangdong Fenghua Advanced tech)
+--
+0603B153K500NT
+C1596
+50V 15nF X7R ±10% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+Fh (guangdong Fenghua Advanced tech)
+--
+0603B201K500NT
+C1600
+50V 200pF X7R ±10% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+Fh (guangdong Fenghua Advanced tech)
+--
+0603B272K500NT
+C1609
+50V 2.7nF X7R ±10% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+Fh (guangdong Fenghua Advanced tech)
+--
+0603B334K250NT
+C1615
+25V 330nF X7R ±10% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+Fh (guangdong Fenghua Advanced tech)
+--
+0603B681K500NT
+C1630
+50V 680pF X7R ±10% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+Fh (guangdong Fenghua Advanced tech)
+--
+0603CG4R7C500NT
+C1669
+50V 4.7pF C0G 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+Fh (guangdong Fenghua Advanced tech)
+--
+0603CG6R8C500NT
+C1679
+50V 6.8pF C0G 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+Fh (guangdong Fenghua Advanced tech)
+--
+0603CG8R2C500NT
+C1685
+50V 8.2pF C0G 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+Fh (guangdong Fenghua Advanced tech)
+--
+0805B151K500NT
+C1716
+50V 150pF X7R ±10% 0805 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+Fh (guangdong Fenghua Advanced tech)
+--
+0805B152K500NT
+C1717
+50V 1.5nF X7R ±10% 0805 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+Fh (guangdong Fenghua Advanced tech)
+--
+0805B334K500NT
+C1740
+50V 330nF X7R ±10% 0805 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+Fh (guangdong Fenghua Advanced tech)
+--
+0805B682K500NT
+C1755
+50V 6.8nF X7R ±10% 0805 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+Fh (guangdong Fenghua Advanced tech)
+--
+0805CG120J500NT
+C1792
+50V 12pF C0G ±5% 0805 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+Fh (guangdong Fenghua Advanced tech)
+--
+0805CG180J500NT
+C1797
+50V 18pF C0G ±5% 0805 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+Fh (guangdong Fenghua Advanced tech)
+--
+1206B224K500NT
+C1857
+50V 220nF X7R ±10% 1206 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+Fh (guangdong Fenghua Advanced tech)
+--
+S9015(RANGE:300-400)
+C2149
+45V 200mW 300@1mA,5V 100mA PNP SOT-23 Bipolar (BJT) ROHS
+Jiangsu Changjing Electronics Technology co., ltd.
+--
+0603WAF1504T5E
+C4172
+100mW Thick Film Resistors 75V ±100ppm/℃ ±1% 1.5MΩ 0603 Chip Resistor - Surface Mount ROHS
+uni-royal(uniroyal elec)
+--
+0603WAF2403T5E
+C4197
+100mW Thick Film Resistors 75V ±100ppm/℃ ±1% 240kΩ 0603 Chip Resistor - Surface Mount ROHS
+uni-royal(uniroyal elec)
+--
+0805W8F3602T5E
+C4360
+125mW Thick Film Resistors 150V ±100ppm/℃ ±1% 36kΩ 0805 Chip Resistor - Surface Mount ROHS
+uni-royal(uniroyal elec)
+--
+DB107S
+C5377
+30A 1.1V@1A 1A 1kV DBS Bridge Rectifiers ROHS
+mdd(microdiode semiconductor)
+--
+74HC04D,653
+C5590
+6 14ns@6V,50pF 2uA 2V~6V SOIC-14 Inverters ROHS
+Nexperia
+--
+74HC08D,653
+C5593
+2V~6V 2uA 4 15ns@6V,50pF With Door SOIC-14 Logic Gates ROHS
+Nexperia
+--
+74HC165D,653
+C5613
+8 2V~6V 1 ParallelorSerialtoSerial SOIC-16 Shift Registers ROHS
+Nexperia
+--
+74HC245D,653
+C5625
+SOIC-20-300mil Buffers, Drivers, Receivers, Transceivers ROHS
+Nexperia
+--
+CL31A226KPHNNNE
+C5672
+10V 22uF X5R ±10% 1206 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+Samsung electro-mechanics
+--
+AT24C256C-SSHL-T
+C6482
+256Kbit I2C SOIC-8 EEPROM ROHS
+Microchip Tech
+--
+CD4052BM96
+C6521
+2 240Ω Single Pole Four Throw (SP4T) SOIC-16 Analog Switches, Multiplexers ROHS
+Texas Instruments
+--
+CP2102-GMR
+C6568
+12Mbps Transceiver USB WQFN-28-EP(5x5) USB Converters ROHS
+skyworks/silicon Labs
+--
+TJA1050T/CM,118
+C6952
+Transceiver SOP-8 CAN Transceivers ROHS
+Nxp Semicon
+--
+SN75176BDR
+C7063
+Transceiver 1/1 SOIC-8 RS-485 / RS-422 ICs ROHS
+Texas Instruments
+--
+MCP6002T-I/SN
+C7377
+Dual 1pA 0.6V/us 1MHz SOIC-8 Operational Amplifier ROHS
+Microchip Tech
+--
+PCF8563T/5,518
+C7440
+I2C SOIC-8 Real Time Clocks ROHS
+Nxp Semicon
+--
+HT1621B
+C7532
+60uA 3-wire serial interface 2.4V~5.2V LQFP-48(7x7) LCD Drivers ROHS
+Holtek Semicon
+--
+M24C02-WMN6TP
+C7562
+2Kbit I2C SOIC-8 EEPROM ROHS
+Stmicroelectronics
+--
+NE555DR
+C7593
+100kHz SOIC-8 Timers / Counters ROHS
+Texas Instruments
+--
+TPS61040DBVR
+C7722
+Boost type 28V 1.8V~6V 350mA SOT-23-5 DC-DC Converters ROHS
+Texas Instruments
+--
+SN74LVC4245APWR
+C7859
+2.7V~3.6V 1 8 4.5V~5.5V TSSOP-24 Translators, Level Shifters ROHS
+Texas Instruments
+--
+ICL7660AIBAZA-T
+C7881
+SOIC-8 Charge Pumps ROHS
+Renesas
+--
+LMV321IDBVR
+C7972
+Single 15nA 1V/us 1MHz SOT-23-5 Operational Amplifier ROHS
+Texas Instruments
+--
+STM8S105K6T6C
+C8254
+32KB 2.95V~5.5V STM8 2KB 16MHz FLASH 25 LQFP-32(7x7) Microcontrollers (MCU/MPU/SOC) ROHS
+Stmicroelectronics
+--
+LBSS84LT1G
+C8492
+50V 130mA 225mW 10Ω@5V,100mA 2V@250uA 1 Piece P-Channel SOT-23 MOSFETs ROHS
+Lrc
+--
+STM32F103C8T6
+C8734
+64KB 2V~3.6V ARM-M3 20KB 72MHz FLASH 37 LQFP-48(7x7) Microcontrollers (MCU/MPU/SOC) ROHS
+Stmicroelectronics
+--
+DS1302Z+T&R
+C8959
+SPI SOIC-8 Real Time Clocks ROHS
+Analog Devices inc./maxim Integrated
+--
+ADUM1201ARZ-RL7
+C9669
+SOIC-8 Digital Isolators ROHS
+Analog Devices
+--
+STM32L151C8T6
+C9861
+64KB 1.8V~3.6V ARM-M3 10KB 32MHz FLASH 37 LQFP-48(7x7) Microcontrollers (MCU/MPU/SOC) ROHS
+Stmicroelectronics
+--
+TPS54331DR
+C9865
+Step-down type Adjustable 800mV~25V 3A 3.5V~28V SOIC-8 DC-DC Converters ROHS
+Texas Instruments
+--
+LM2596SX-5.0/NOPB
+C10002
+Step-down type Fixed 5V 3A 4.5V~40V TO-263-5 DC-DC Converters ROHS
+Texas Instruments
+--
+0402WGF5103TCE
+C11616
+62.5mW Thick Film Resistors 50V ±100ppm/℃ ±1% 510kΩ 0402 Chip Resistor - Surface Mount ROHS
+uni-royal(uniroyal elec)
+--
+TP4057-42-SOT26-R
+C12044
+SOT-23-6 Battery Management ROHS
+toppower(nanjing Extension microelectronics)
+--
+SN65HVD230DR
+C12084
+1Mbps Transceiver SOIC-8 CAN Transceivers ROHS
+Texas Instruments
+--
+0603WAF4022T5E
+C12447
+100mW Thick Film Resistors 75V ±100ppm/℃ ±1% 40.2kΩ 0603 Chip Resistor - Surface Mount ROHS
+uni-royal(uniroyal elec)
+--
+0603WAF5104T5E
+C13320
+100mW Thick Film Resistors 75V ±100ppm/℃ ±1% 5.1MΩ 0603 Chip Resistor - Surface Mount ROHS
+uni-royal(uniroyal elec)
+--
+SDCL1608C68NJTDF
+C13415
+300mA 68nH ±5% 850mΩ 0603 Inductors (SMD) ROHS
+Sunlord
+--
+CL05C331JB5NNNC
+C13533
+50V 330pF C0G ±5% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+Samsung electro-mechanics
+--
+SDCL1005C3N9STDF
+C14033
+300mA 3.9nH 200mΩ 0402 Inductors (SMD) ROHS
+Sunlord
+--
+CL05C680JB5NNNC
+C14441
+50V 68pF C0G ±5% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+Samsung electro-mechanics
+--
+ATMEGA328P-AU
+C14877
+32KB 2KB FLASH 23 1.8V~5.5V AVR 20MHz TQFP-32(7x7) Microcontrollers (MCU/MPU/SOC) ROHS
+Microchip Tech
+--
+SMF05CT1G
+C15879
+100W 12.5V 6.2V 5V SOT-363-6 ESD and Surge Protection (TVS/ESD) ROHS
+Onsemi
+--
+HT7550-1
+C16106
+150mA Fixed 5V Positive electrode 30V SOT-89-3 Voltage Regulators - Linear, Low Drop Out (LDO) Regulators ROHS
+Holtek Semicon
+--
+TP4056-42-ESOP8
+C16581
+ESOP-8 Battery Management ROHS
+toppower(nanjing Extension microelectronics)
+--
+0805W8F1801T5E
+C17398
+125mW Thick Film Resistors 150V ±100ppm/℃ ±1% 1.8kΩ 0805 Chip Resistor - Surface Mount ROHS
+uni-royal(uniroyal elec)
+--
+0805W8F1102T5E
+C17429
+125mW Thick Film Resistors 150V ±100ppm/℃ ±1% 11kΩ 0805 Chip Resistor - Surface Mount ROHS
+uni-royal(uniroyal elec)
+--
+0805W8F1203T5E
+C17436
+125mW Thick Film Resistors 150V ±100ppm/℃ ±1% 120kΩ 0805 Chip Resistor - Surface Mount ROHS
+uni-royal(uniroyal elec)
+--
+0805W8F1302T5E
+C17455
+125mW Thick Film Resistors 150V ±100ppm/℃ ±1% 13kΩ 0805 Chip Resistor - Surface Mount ROHS
+uni-royal(uniroyal elec)
+--
+0805W8F150JT5E
+C17480
+125mW Thick Film Resistors 150V ±100ppm/℃ ±1% 15Ω 0805 Chip Resistor - Surface Mount ROHS
+uni-royal(uniroyal elec)
+--
+0805W8F1602T5E
+C17490
+125mW Thick Film Resistors 150V ±100ppm/℃ ±1% 16kΩ 0805 Chip Resistor - Surface Mount ROHS
+uni-royal(uniroyal elec)
+--
+0805W8F1803T5E
+C17501
+125mW Thick Film Resistors 150V ±100ppm/℃ ±1% 180kΩ 0805 Chip Resistor - Surface Mount ROHS
+uni-royal(uniroyal elec)
+--
+0805W8F1802T5E
+C17506
+125mW Thick Film Resistors 150V ±100ppm/℃ ±1% 18kΩ 0805 Chip Resistor - Surface Mount ROHS
+uni-royal(uniroyal elec)
+--
+0805W8F2400T5E
+C17572
+125mW Thick Film Resistors 150V ±100ppm/℃ ±1% 240Ω 0805 Chip Resistor - Surface Mount ROHS
+uni-royal(uniroyal elec)
+--
+0805W8F2703T5E
+C17589
+125mW Thick Film Resistors 150V ±100ppm/℃ ±1% 270kΩ 0805 Chip Resistor - Surface Mount ROHS
+uni-royal(uniroyal elec)
+--
+0805W8F2700T5E
+C17590
+125mW Thick Film Resistors 150V ±100ppm/℃ ±1% 270Ω 0805 Chip Resistor - Surface Mount ROHS
+uni-royal(uniroyal elec)
+--
+0805W8F270JT5E
+C17594
+125mW Thick Film Resistors 150V ±100ppm/℃ ±1% 27Ω 0805 Chip Resistor - Surface Mount ROHS
+uni-royal(uniroyal elec)
+--
+0805W8F200KT5E
+C17606
+125mW Thick Film Resistors 150V ±1% ±400ppm/℃ 2Ω 0805 Chip Resistor - Surface Mount ROHS
+uni-royal(uniroyal elec)
+--
+0805W8F3003T5E
+C17616
+125mW Thick Film Resistors 150V ±100ppm/℃ ±1% 300kΩ 0805 Chip Resistor - Surface Mount ROHS
+uni-royal(uniroyal elec)
+--
+0805W8F3303T5E
+C17629
+125mW Thick Film Resistors 150V ±100ppm/℃ ±1% 330kΩ 0805 Chip Resistor - Surface Mount ROHS
+uni-royal(uniroyal elec)
+--
+0805W8F3903T5E
+C17656
+125mW Thick Film Resistors 150V ±100ppm/℃ ±1% 390kΩ 0805 Chip Resistor - Surface Mount ROHS
+uni-royal(uniroyal elec)
+--
+0805W8F4301T5E
+C17667
+125mW Thick Film Resistors 150V ±100ppm/℃ ±1% 4.3kΩ 0805 Chip Resistor - Surface Mount ROHS
+uni-royal(uniroyal elec)
+--
+0805W8F4991T5E
+C17677
+125mW Thick Film Resistors 150V ±100ppm/℃ ±1% 4.99kΩ 0805 Chip Resistor - Surface Mount ROHS
+uni-royal(uniroyal elec)
+--
+0805W8F4302T5E
+C17695
+125mW Thick Film Resistors 150V ±100ppm/℃ ±1% 43kΩ 0805 Chip Resistor - Surface Mount ROHS
+uni-royal(uniroyal elec)
+--
+0805W8F4992T5E
+C17719
+125mW Thick Film Resistors 150V ±100ppm/℃ ±1% 49.9kΩ 0805 Chip Resistor - Surface Mount ROHS
+uni-royal(uniroyal elec)
+--
+0805W8F5103T5E
+C17733
+125mW Thick Film Resistors 150V ±100ppm/℃ ±1% 510kΩ 0805 Chip Resistor - Surface Mount ROHS
+uni-royal(uniroyal elec)
+--
+0805W8F5602T5E
+C17756
+125mW Thick Film Resistors 150V ±100ppm/℃ ±1% 56kΩ 0805 Chip Resistor - Surface Mount ROHS
+uni-royal(uniroyal elec)
+--
+0805W8F560JT5E
+C17757
+125mW Thick Film Resistors 150V ±100ppm/℃ ±1% 56Ω 0805 Chip Resistor - Surface Mount ROHS
+uni-royal(uniroyal elec)
+--
+0805W8F6201T5E
+C17767
+125mW Thick Film Resistors 150V ±100ppm/℃ ±1% 6.2kΩ 0805 Chip Resistor - Surface Mount ROHS
+uni-royal(uniroyal elec)
+--
+0805W8F6202T5E
+C17783
+125mW Thick Film Resistors 150V ±100ppm/℃ ±1% 62kΩ 0805 Chip Resistor - Surface Mount ROHS
+uni-royal(uniroyal elec)
+--
+0805W8F6803T5E
+C17797
+125mW Thick Film Resistors 150V ±100ppm/℃ ±1% 680kΩ 0805 Chip Resistor - Surface Mount ROHS
+uni-royal(uniroyal elec)
+--
+0805W8F680JT5E
+C17802
+125mW Thick Film Resistors 150V ±1% ±200ppm/℃ 68Ω 0805 Chip Resistor - Surface Mount ROHS
+uni-royal(uniroyal elec)
+--
+0805W8F7501T5E
+C17807
+125mW Thick Film Resistors 150V ±100ppm/℃ ±1% 7.5kΩ 0805 Chip Resistor - Surface Mount ROHS
+uni-royal(uniroyal elec)
+--
+0805W8F7500T5E
+C17818
+125mW Thick Film Resistors 150V ±100ppm/℃ ±1% 750Ω 0805 Chip Resistor - Surface Mount ROHS
+uni-royal(uniroyal elec)
+--
+0805W8F7502T5E
+C17819
+125mW Thick Film Resistors 150V ±100ppm/℃ ±1% 75kΩ 0805 Chip Resistor - Surface Mount ROHS
+uni-royal(uniroyal elec)
+--
+0805W8F8200T5E
+C17837
+125mW Thick Film Resistors 150V ±100ppm/℃ ±1% 820Ω 0805 Chip Resistor - Surface Mount ROHS
+uni-royal(uniroyal elec)
+--
+0805W8F8202T5E
+C17840
+125mW Thick Film Resistors 150V ±100ppm/℃ ±1% 82kΩ 0805 Chip Resistor - Surface Mount ROHS
+uni-royal(uniroyal elec)
+--
+0805W8F9101T5E
+C17855
+125mW Thick Film Resistors 150V ±100ppm/℃ ±1% 9.1kΩ 0805 Chip Resistor - Surface Mount ROHS
+uni-royal(uniroyal elec)
+--
+1206W4F1800T5E
+C17924
+250mW Thick Film Resistors 200V ±100ppm/℃ ±1% 180Ω 1206 Chip Resistor - Surface Mount ROHS
+uni-royal(uniroyal elec)
+--
+1206W4F7500T5E
+C17985
+250mW Thick Film Resistors 200V ±100ppm/℃ ±1% 750Ω 1206 Chip Resistor - Surface Mount ROHS
+uni-royal(uniroyal elec)
+--
+LM2904DR2G
+C18229
+Dual 45nA 1MHz SOIC-8 Operational Amplifier ROHS
+Onsemi
+--
+0805W8F3601T5E
+C18359
+125mW Thick Film Resistors 150V ±100ppm/℃ ±1% 3.6kΩ 0805 Chip Resistor - Surface Mount ROHS
+uni-royal(uniroyal elec)
+--
+0805W8F750JT5E (SMT业务专用)
+C20638
+0805 Chip Resistor - Surface Mount ROHS
+uni-royal(uniroyal elec)
+--
+1206W4F1204T5E
+C22107
+250mW Thick Film Resistors 200V ±100ppm/℃ ±1% 1.2MΩ 1206 Chip Resistor - Surface Mount ROHS
+uni-royal(uniroyal elec)
+--
+0603WAF1101T5E
+C22764
+100mW Thick Film Resistors 75V ±100ppm/℃ ±1% 1.1kΩ 0603 Chip Resistor - Surface Mount ROHS
+uni-royal(uniroyal elec)
+--
+0603WAF1303T5E
+C22795
+100mW Thick Film Resistors 75V ±100ppm/℃ ±1% 130kΩ 0603 Chip Resistor - Surface Mount ROHS
+uni-royal(uniroyal elec)
+--
+0603WAF150JT5E
+C22810
+100mW Thick Film Resistors 75V ±100ppm/℃ ±1% 15Ω 0603 Chip Resistor - Surface Mount ROHS
+uni-royal(uniroyal elec)
+--
+0603WAF1603T5E
+C22813
+100mW Thick Film Resistors 75V ±100ppm/℃ ±1% 160kΩ 0603 Chip Resistor - Surface Mount ROHS
+uni-royal(uniroyal elec)
+--
+0603WAF1602T5E (SMT业务专用)
+C22818
+0603 Chip Resistor - Surface Mount ROHS
+uni-royal(uniroyal elec)
+--
+0603WAF1803T5E
+C22827
+100mW Thick Film Resistors 75V ±100ppm/℃ ±1% 180kΩ 0603 Chip Resistor - Surface Mount ROHS
+uni-royal(uniroyal elec)
+--
+0603WAF1800T5E
+C22828
+100mW Thick Film Resistors 75V ±100ppm/℃ ±1% 180Ω 0603 Chip Resistor - Surface Mount ROHS
+uni-royal(uniroyal elec)
+--
+0603WAF2204T5E
+C22938
+100mW Thick Film Resistors 75V ±100ppm/℃ ±1% 2.2MΩ 0603 Chip Resistor - Surface Mount ROHS
+uni-royal(uniroyal elec)
+--
+0603WAF2703T5E
+C22965
+100mW Thick Film Resistors 75V ±100ppm/℃ ±1% 270kΩ 0603 Chip Resistor - Surface Mount ROHS
+uni-royal(uniroyal elec)
+--
+0603WAF3603T5E
+C23146
+100mW Thick Film Resistors 75V ±100ppm/℃ ±1% 360kΩ 0603 Chip Resistor - Surface Mount ROHS
+uni-royal(uniroyal elec)
+--
+0603WAF3602T5E
+C23147
+100mW Thick Film Resistors 75V ±100ppm/℃ ±1% 36kΩ 0603 Chip Resistor - Surface Mount ROHS
+uni-royal(uniroyal elec)
+--
+0603WAF3903T5E
+C23150
+100mW Thick Film Resistors 75V ±100ppm/℃ ±1% 390kΩ 0603 Chip Resistor - Surface Mount ROHS
+uni-royal(uniroyal elec)
+--
+0603WAF3004T5E
+C23156
+100mW Thick Film Resistors 75V ±100ppm/℃ ±1% 3MΩ 0603 Chip Resistor - Surface Mount ROHS
+uni-royal(uniroyal elec)
+--
+0603WAF4301T5E
+C23159
+100mW Thick Film Resistors 75V ±100ppm/℃ ±1% 4.3kΩ 0603 Chip Resistor - Surface Mount ROHS
+uni-royal(uniroyal elec)
+--
+0603WAF4704T5E
+C23163
+100mW Thick Film Resistors 75V ±100ppm/℃ ±1% 4.7MΩ 0603 Chip Resistor - Surface Mount ROHS
+uni-royal(uniroyal elec)
+--
+0603WAF4300T5E
+C23170
+100mW Thick Film Resistors 75V ±100ppm/℃ ±1% 430Ω 0603 Chip Resistor - Surface Mount ROHS
+uni-royal(uniroyal elec)
+--
+0603WAF4302T5E
+C23172
+100mW Thick Film Resistors 75V ±100ppm/℃ ±1% 43kΩ 0603 Chip Resistor - Surface Mount ROHS
+uni-royal(uniroyal elec)
+--
+0603WAF5603T5E
+C23203
+100mW Thick Film Resistors 75V ±100ppm/℃ ±1% 560kΩ 0603 Chip Resistor - Surface Mount ROHS
+uni-royal(uniroyal elec)
+--
+0603WAF6200T5E
+C23220
+100mW Thick Film Resistors 75V ±100ppm/℃ ±1% 620Ω 0603 Chip Resistor - Surface Mount ROHS
+uni-royal(uniroyal elec)
+--
+0603WAF6202T5E
+C23221
+100mW Thick Film Resistors 75V ±100ppm/℃ ±1% 62kΩ 0603 Chip Resistor - Surface Mount ROHS
+uni-royal(uniroyal elec)
+--
+0603WAF7503T5E
+C23240
+100mW Thick Film Resistors 75V ±100ppm/℃ ±1% 750kΩ 0603 Chip Resistor - Surface Mount ROHS
+uni-royal(uniroyal elec)
+--
+0603WAF7500T5E
+C23241
+100mW Thick Film Resistors 75V ±100ppm/℃ ±1% 750Ω 0603 Chip Resistor - Surface Mount ROHS
+uni-royal(uniroyal elec)
+--
+0603WAF820JT5E
+C23255
+100mW Thick Film Resistors 75V ±100ppm/℃ ±1% 82Ω 0603 Chip Resistor - Surface Mount ROHS
+uni-royal(uniroyal elec)
+--
+0603WAF9102T5E
+C23265
+100mW Thick Film Resistors 75V ±100ppm/℃ ±1% 91kΩ 0603 Chip Resistor - Surface Mount ROHS
+uni-royal(uniroyal elec)
+--
+0603WAF2400T5E
+C23350
+100mW Thick Film Resistors 75V ±100ppm/℃ ±1% 240Ω 0603 Chip Resistor - Surface Mount ROHS
+uni-royal(uniroyal elec)
+--
+STM32F030C8T6
+C23922
+64KB 2.4V~3.6V ARM-M0 8KB 48MHz FLASH 39 LQFP-48(7x7) Microcontrollers (MCU/MPU/SOC) ROHS
+Stmicroelectronics
+--
+MPU-6050
+C24112
+Accelerometer gyroscope QFN-24-EP(4x4) Accelerometers ROHS
+Tdk Invensense
+--
+B772(RANGE:160-320)
+C24278
+30V 500mW 3A PNP SOT-89-3 Bipolar (BJT) ROHS
+Jiangsu Changjing Electronics Technology co., ltd.
+--
+0402WGF1500TCE
+C25082
+62.5mW Thick Film Resistors 50V ±100ppm/℃ ±1% 150Ω 0402 Chip Resistor - Surface Mount ROHS
+uni-royal(uniroyal elec)
+--
+0402WGF100KTCE
+C25086
+62.5mW Thick Film Resistors 50V ±1% ±200ppm/℃ 1Ω 0402 Chip Resistor - Surface Mount ROHS
+uni-royal(uniroyal elec)
+--
+0402WGF3000TCE
+C25102
+62.5mW Thick Film Resistors 50V ±100ppm/℃ ±1% 300Ω 0402 Chip Resistor - Surface Mount ROHS
+uni-royal(uniroyal elec)
+--
+0402WGF470JTCE
+C25118
+62.5mW Thick Film Resistors 50V ±1% ±200ppm/℃ 47Ω 0402 Chip Resistor - Surface Mount ROHS
+uni-royal(uniroyal elec)
+--
+0402WGF510JTCE
+C25125
+62.5mW Thick Film Resistors 50V ±100ppm/℃ ±1% 51Ω 0402 Chip Resistor - Surface Mount ROHS
+uni-royal(uniroyal elec)
+--
+0402WGF6800TCE
+C25130
+62.5mW Thick Film Resistors 50V ±100ppm/℃ ±1% 680Ω 0402 Chip Resistor - Surface Mount ROHS
+uni-royal(uniroyal elec)
+--
+0402WGF750JTCE
+C25133
+62.5mW Thick Film Resistors 50V ±100ppm/℃ ±1% 75Ω 0402 Chip Resistor - Surface Mount ROHS
+uni-royal(uniroyal elec)
+--
+0603WAF270JT5E
+C25190
+100mW Thick Film Resistors 75V ±1% ±200ppm/℃ 27Ω 0603 Chip Resistor - Surface Mount ROHS
+uni-royal(uniroyal elec)
+--
+0603WAF3600T5E
+C25194
+100mW Thick Film Resistors 75V ±100ppm/℃ ±1% 360Ω 0603 Chip Resistor - Surface Mount ROHS
+uni-royal(uniroyal elec)
+--
+0603WAF560JT5E
+C25196
+100mW Thick Film Resistors 75V ±1% ±200ppm/℃ 56Ω 0603 Chip Resistor - Surface Mount ROHS
+uni-royal(uniroyal elec)
+--
+0805W8F1800T5E
+C25270
+125mW Thick Film Resistors 150V ±100ppm/℃ ±1% 180Ω 0805 Chip Resistor - Surface Mount ROHS
+uni-royal(uniroyal elec)
+--
+4D03WGJ0471T5E
+C25510
+4 ±5% 470Ω 62.5mW ±200ppm/℃ 0603x4 Resistor Networks, Arrays ROHS
+uni-royal(uniroyal elec)
+--
+4D02WGJ0103TCE
+C25725
+4 ±5% 10kΩ 62.5mW ±200ppm/℃ 0402x4 Resistor Networks, Arrays ROHS
+uni-royal(uniroyal elec)
+--
+0402WGF1203TCE
+C25750
+62.5mW Thick Film Resistors 50V ±100ppm/℃ ±1% 120kΩ 0402 Chip Resistor - Surface Mount ROHS
+uni-royal(uniroyal elec)
+--
+0402WGF1503TCE
+C25755
+62.5mW Thick Film Resistors 50V ±100ppm/℃ ±1% 150kΩ 0402 Chip Resistor - Surface Mount ROHS
+uni-royal(uniroyal elec)
+--
+0402WGF1802TCE
+C25762
+62.5mW Thick Film Resistors 50V ±100ppm/℃ ±1% 18kΩ 0402 Chip Resistor - Surface Mount ROHS
+uni-royal(uniroyal elec)
+--
+0402WGF2203TCE
+C25767
+62.5mW Thick Film Resistors 50V ±100ppm/℃ ±1% 220kΩ 0402 Chip Resistor - Surface Mount ROHS
+uni-royal(uniroyal elec)
+--
+0402WGF2402TCE
+C25769
+62.5mW Thick Film Resistors 50V ±100ppm/℃ ±1% 24kΩ 0402 Chip Resistor - Surface Mount ROHS
+uni-royal(uniroyal elec)
+--
+0402WGF2702TCE
+C25771
+62.5mW Thick Film Resistors 50V ±100ppm/℃ ±1% 27kΩ 0402 Chip Resistor - Surface Mount ROHS
+uni-royal(uniroyal elec)
+--
+0402WGF3003TCE
+C25774
+62.5mW Thick Film Resistors 50V ±100ppm/℃ ±1% 300kΩ 0402 Chip Resistor - Surface Mount ROHS
+uni-royal(uniroyal elec)
+--
+0402WGF3303TCE
+C25778
+62.5mW Thick Film Resistors 50V ±100ppm/℃ ±1% 330kΩ 0402 Chip Resistor - Surface Mount ROHS
+uni-royal(uniroyal elec)
+--
+0402WGF3902TCE
+C25783
+62.5mW Thick Film Resistors 50V ±100ppm/℃ ±1% 39kΩ 0402 Chip Resistor - Surface Mount ROHS
+uni-royal(uniroyal elec)
+--
+0402WGF4703TCE
+C25790
+62.5mW Thick Film Resistors 50V ±100ppm/℃ ±1% 470kΩ 0402 Chip Resistor - Surface Mount ROHS
+uni-royal(uniroyal elec)
+--
+0402WGF5602TCE
+C25796
+62.5mW Thick Film Resistors 50V ±100ppm/℃ ±1% 56kΩ 0402 Chip Resistor - Surface Mount ROHS
+uni-royal(uniroyal elec)
+--
+0402WGF7502TCE
+C25798
+62.5mW Thick Film Resistors 50V ±100ppm/℃ ±1% 75kΩ 0402 Chip Resistor - Surface Mount ROHS
+uni-royal(uniroyal elec)
+--
+0603WAF1103T5E
+C25805
+100mW Thick Film Resistors 75V ±100ppm/℃ ±1% 110kΩ 0603 Chip Resistor - Surface Mount ROHS
+uni-royal(uniroyal elec)
+--
+0603WAF6803T5E
+C25822
+100mW Thick Film Resistors 75V ±100ppm/℃ ±1% 680kΩ 0603 Chip Resistor - Surface Mount ROHS
+uni-royal(uniroyal elec)
+--
+0805W8F3902T5E
+C25826
+125mW Thick Film Resistors 150V ±100ppm/℃ ±1% 39kΩ 0805 Chip Resistor - Surface Mount ROHS
+uni-royal(uniroyal elec)
+--
+0402WGF1201TCE
+C25862
+62.5mW Thick Film Resistors 50V ±100ppm/℃ ±1% 1.2kΩ 0402 Chip Resistor - Surface Mount ROHS
+uni-royal(uniroyal elec)
+--
+0402WGF2401TCE
+C25882
+62.5mW Thick Film Resistors 50V ±100ppm/℃ ±1% 2.4kΩ 0402 Chip Resistor - Surface Mount ROHS
+uni-royal(uniroyal elec)
+--
+0402WGF4992TCE
+C25897
+62.5mW Thick Film Resistors 50V ±100ppm/℃ ±1% 49.9kΩ 0402 Chip Resistor - Surface Mount ROHS
+uni-royal(uniroyal elec)
+--
+0402WGF5601TCE
+C25908
+62.5mW Thick Film Resistors 50V ±100ppm/℃ ±1% 5.6kΩ 0402 Chip Resistor - Surface Mount ROHS
+uni-royal(uniroyal elec)
+--
+0402WGF6801TCE
+C25917
+62.5mW Thick Film Resistors 50V ±100ppm/℃ ±1% 6.8kΩ 0402 Chip Resistor - Surface Mount ROHS
+uni-royal(uniroyal elec)
+--
+0402WGF7501TCE
+C25918
+62.5mW Thick Film Resistors 50V ±100ppm/℃ ±1% 7.5kΩ 0402 Chip Resistor - Surface Mount ROHS
+uni-royal(uniroyal elec)
+--
+0402WGF8201TCE
+C25924
+62.5mW Thick Film Resistors 50V ±100ppm/℃ ±1% 8.2kΩ 0402 Chip Resistor - Surface Mount ROHS
+uni-royal(uniroyal elec)
+--
+0603WAF1102T5E
+C25950
+100mW Thick Film Resistors 75V ±100ppm/℃ ±1% 11kΩ 0603 Chip Resistor - Surface Mount ROHS
+uni-royal(uniroyal elec)
+--
+0603WAF4303T5E
+C25969
+100mW Thick Film Resistors 75V ±100ppm/℃ ±1% 430kΩ 0603 Chip Resistor - Surface Mount ROHS
+uni-royal(uniroyal elec)
+--
+0402WGF1005TCE
+C26082
+62.5mW Thick Film Resistors 50V ±1% ±200ppm/℃ 10MΩ 0402 Chip Resistor - Surface Mount ROHS
+uni-royal(uniroyal elec)
+--
+0805W8F1005T5E
+C26108
+125mW Thick Film Resistors 150V ±100ppm/℃ ±1% 10MΩ 0805 Chip Resistor - Surface Mount ROHS
+uni-royal(uniroyal elec)
+--
+0805W8F2004T5E
+C26112
+125mW Thick Film Resistors 150V ±100ppm/℃ ±1% 2MΩ 0805 Chip Resistor - Surface Mount ROHS
+uni-royal(uniroyal elec)
+--
+0805W8F2204T5E
+C26113
+125mW Thick Film Resistors 150V ±100ppm/℃ ±1% 2.2MΩ 0805 Chip Resistor - Surface Mount ROHS
+uni-royal(uniroyal elec)
+--
+CL05B332KB5NNNC
+C26404
+50V 3.3nF X7R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+Samsung electro-mechanics
+--
+MAX232ESE+T
+C26860
+120Kbps Transceiver 2/2 SOIC-16 RS232 ICs ROHS
+Analog Devices inc./maxim Integrated
+--
+SDCL1005C15NJTDF
+C27143
+8@100MHz ±5% 0402 Inductors (SMD)
+Sunlord
+--
+SDCL1005C10NJTDF
+C27147
+300mA 10nH ±5% 400mΩ 0402 Inductors (SMD) ROHS
+Sunlord
+--
+0603WAF680JT5E
+C27592
+100mW Thick Film Resistors 75V ±100ppm/℃ ±1% 68Ω 0603 Chip Resistor - Surface Mount ROHS
+uni-royal(uniroyal elec)
+--
+CL10B822KB8NNNC
+C27920
+50V 8.2nF X7R ±10% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+Samsung electro-mechanics
+--
+CL10C680JB8NNNC
+C28262
+50V 68pF C0G ±5% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+Samsung electro-mechanics
+--
+0402CG6R0C500NT (SMT业务专用)
+C30274
+±0.25pF 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+Fh (guangdong Fenghua Advanced tech)
+--
+CL10B683KB8NNNC
+C31658
+50V 68nF X7R ±10% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+Samsung electro-mechanics
+--
+MC34063ADR2G
+C32078
+Adjustable 1.25V~40V 3V~40V 1.5A SOIC-8 DC-DC Converters ROHS
+Onsemi
+--
+SDFL2012T220KTF
+C32375
+5mA 22uH ±10% 1.1Ω 0805 Inductors (SMD) ROHS
+Sunlord
+--
+TP4054-42-SOT25R
+C32574
+SOT-23-5 Battery Management ROHS
+toppower(nanjing Extension microelectronics)
+--
+LM2576SX-5.0/NOPB
+C34465
+Step-down type Fixed 5V 4V~40V 3A TO-263-5 DC-DC Converters ROHS
+Texas Instruments
+--
+CL31B102KGFNNNE
+C35216
+500V 1nF X7R ±10% 1206 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+Samsung electro-mechanics
+--
+SS36-E3/57T
+C35722
+60V 750mV@3A 3A SMC(DO-214AB) Schottky Diodes ROHS
+Vishay Intertech
+--
+0402WGF6802TCE
+C36871
+62.5mW Thick Film Resistors 50V ±100ppm/℃ ±1% 68kΩ 0402 Chip Resistor - Surface Mount ROHS
+uni-royal(uniroyal elec)
+--
+0603CG6R0C500NT
+C37474
+50V 6pF C0G 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+Fh (guangdong Fenghua Advanced tech)
+--
+BAT54C,215
+C37704
+30V 1 pair of common cathodes 800mV@100mA 200mA SOT-23 Schottky Diodes ROHS
+Nexperia
+--
+CL10C560JB8NNNC
+C39148
+50V 56pF C0G ±5% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+Samsung electro-mechanics
+--
+0603CG3R0C500NT
+C46219
+50V 3pF C0G 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+Fh (guangdong Fenghua Advanced tech)
+--
+CL05A474KP5NNNC
+C47339
+10V 470nF X5R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+Samsung electro-mechanics
+--
+0805F225M500NT
+C49217
+50V 2.2uF Y5V ±20% 0805 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+Fh (guangdong Fenghua Advanced tech)
+--
+0402WGF3901TCE
+C51721
+62.5mW Thick Film Resistors 50V ±100ppm/℃ ±1% 3.9kΩ 0402 Chip Resistor - Surface Mount ROHS
+uni-royal(uniroyal elec)
+--
+STM8S003F3P6TR
+C52717
+8KB 1KB FLASH 16 2.95V~5.5V STM8 16MHz TSSOP-20 Microcontrollers (MCU/MPU/SOC) ROHS
+Stmicroelectronics
+--
+B5819W
+C64885
+40V Independent Type 900mV@3A 1A SOD-123 Schottky Diodes ROHS
+mdd(microdiode semiconductor)
+--
+B5819WS
+C64886
+40V Independent Type 900mV@3A 1A SOD-323 Schottky Diodes ROHS
+mdd(microdiode semiconductor)
+--
+MLF2012C101KT000
+C68035
+2mA 100uH ±10% 2.5Ω 0805 Inductors (SMD) ROHS
+Tdk
+--
+XL1509-ADJE1
+C74192
+Step-down type 2A 4.5V~40V SOIC-8 DC-DC Converters ROHS
+Xlsemi
+--
+78L12G-AB3-R
+C75501
+100mA Fixed 12V Positive electrode 35V SOT-89-3 Voltage Regulators - Linear, Low Drop Out (LDO) Regulators ROHS
+utc(unisonic tech)
+--
+LM317AG-TN3-R
+C75510
+1.5A Adjustable 1.2V~37V Positive electrode 40V TO-252-2(DPAK) Voltage Regulators - Linear, Low Drop Out (LDO) Regulators ROHS
+utc(unisonic tech)
+--
+M24C64-RMN6TP
+C79988
+64Kbit I2C SOIC-8 EEPROM ROHS
+Stmicroelectronics
+--
+SRV05-4-P-T7
+C85364
+1A@8/20us 12V 6V 5V SOT-23-6 ESD and Surge Protection (TVS/ESD) ROHS
+Protek Devices
+--
+CC0603JRNPO9BN270
+C107045
+50V 27pF NP0 ±5% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+Yageo
+--
+CC0805JRNPO9BN150
+C107110
+50V 15pF NP0 ±5% 0805 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+Yageo
+--
+CC0805JRNPO9BN300
+C107114
+50V 30pF NP0 ±5% 0805 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+Yageo
+--
+CC0805JRNPO9BN330
+C107115
+50V 33pF NP0 ±5% 0805 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+Yageo
+--
+X5032110592MSB2GI
+C112574
+11.0592MHz Surface Mount Crystal 20pF ±10ppm ±20ppm SMD5032 Crystals ROHS
+Yxc Crystal Oscillators
+--
+MMBT3904-1AM(RANGE:100-300)
+C364310
+40V 200mW 100@10mA,1V 200mA NPN SOT-23 Bipolar (BJT) ROHS
+mdd(microdiode semiconductor)
+--
+S8050
+C364312
+25V 300mW 120@50mA,1V 500mA NPN SOT-23 Bipolar (BJT) ROHS
+mdd(microdiode semiconductor)
+--
+MMBT5551
+C408396
+160V 300mW 100@10mA,5V 600mA NPN SOT-23 Bipolar (BJT) ROHS
+mdd(microdiode semiconductor)
+--
+MDD3401
+C427383
+30V 4.2A 45mΩ@10V,4.1A 1.2W 800mV@250uA 1 Piece P-Channel SOT-23 MOSFETs ROHS
+mdd(microdiode semiconductor)
+--
+MDD2302
+C427390
+20V 3A 28mΩ@4.5V,3A 1.2W 600mV@250uA 1 N-Channel SOT-23 MOSFETs ROHS
+mdd(microdiode semiconductor)
+--
+MDD2301
+C427391
+20V 3A 70mΩ@4.5V,3A 1.2W 700mV@250uA 1 Piece P-Channel SOT-23 MOSFETs ROHS
+mdd(microdiode semiconductor)
+--
+SS8050
+C431710
+25V 300mW 120@100mA,1V 1.5A NPN SOT-23 Bipolar (BJT) ROHS
+mdd(microdiode semiconductor)
+--
+1N4148WS
+C437156
+100V Independent Type 1.25V@150mA 4ns 150mA SOD-323 Switching Diodes ROHS
+mdd(microdiode semiconductor)
+--
+SMBJ30CA
+C2925441
+12.4A 600W 48.4V 33.3V 30V SMB ESD and Surge Protection (TVS/ESD) ROHS
+Liown
+--
+SMAJ5.0A
+C2925443
+43.5A 400W 9.2V 6.4V 5V SMA(DO-214AC) ESD and Surge Protection (TVS/ESD) ROHS
+Liown
+--
+SMBJ6.0CA
+C2925451
+58.3A 600W 10.3V 6.67V 6V SMB ESD and Surge Protection (TVS/ESD) ROHS
+Liown
+--
+SMCJ6.5CA
+C2990124
+134A 11.2V 1.5kW 7.22V 6.5V SMC ESD and Surge Protection (TVS/ESD) ROHS
+Liown
+--
+SMDJ64CA
+C2990261
+29.1A 103V 3kW 71.1V 64V SMC ESD and Surge Protection (TVS/ESD) ROHS
+Liown
+--
+5.0SMDJ64CA
+C2990414
+48.6A 103V 5kW 71.1V 64V SMC ESD and Surge Protection (TVS/ESD) ROHS
+Liown
+--
+5.0SMDJ75CA
+C2990416
+41.4A 121V 5kW 83.3V 75V SMC ESD and Surge Protection (TVS/ESD) ROHS
+Liown
+--
+SMF6.0CA
+C2990473
+19.4A 10.3V 200W 6.67V 6V SOD-123FL ESD and Surge Protection (TVS/ESD) ROHS
+Liown
+--
+SMF30CA
+C2990493
+4.2A 48.4V 200W 33.3V 30V SOD-123FL ESD and Surge Protection (TVS/ESD) ROHS
+Liown
+--
+P6SMAJ33CA
+C3019524
+11.3A 600W 53.3V 36.7V 33V DO-214AC(SMA) ESD and Surge Protection (TVS/ESD) ROHS
+Liown
+--
+SS14
+C7420316
+40V Independent Type 1A 550mV@1.0A SMA(DO-214AC) Schottky Diodes ROHS
+Hongjiacheng
+--
+US1M
+C7420317
+1.7V@1A 75ns Independent Type 1A 1kV SMA(DO-214AC) Fast Recovery / High Efficiency Diodes ROHS
+Hongjiacheng
+--
+1N4148W
+C7420318
+100V Independent Type 1.25V@150mA 4ns 150mA SOD-123 Switching Diodes ROHS
+Hongjiacheng
+--
+1N4148WS
+C7420319
+100V Independent Type 1.25V@150mA 4ns 150mA SOD-323 Switching Diodes ROHS
+Hongjiacheng
+--
+1N4148WT
+C7420320
+100V Independent Type 1.25V@150mA 4ns 150mA SOD-523 Switching Diodes ROHS
+Hongjiacheng
+--
+2N7002
+C7420321
+60V 115mA 5Ω@10V,0.5A 225mW 2.5V@250uA 1PCSNChannel SOT-23 MOSFETs ROHS
+Hongjiacheng
+--
+2N7002W
+C7420322
+60V 115mA 5Ω@10V,0.5A 200mW 2.5V@250uA 1PCSNChannel SOT-323 MOSFETs ROHS
+Hongjiacheng
+--
+2SA812
+C7420323
+50V 200mW 90@1.0mA,6.0V 100mA PNP SOT-23 Bipolar (BJT) ROHS
+Hongjiacheng
+--
+2SC1623
+C7420324
+50V 200mW 135@1.0mA,6.0V 100mA NPN SOT-23 Bipolar (BJT) ROHS
+Hongjiacheng
+--
+B0540W
+C7420325
+40V Independent Type 500mA 510mV@500mA SOD-123 Schottky Diodes ROHS
+Hongjiacheng
+--
+B0540WS
+C7420326
+40V Independent Type 500mA 510mV@500mA SOD-323 Schottky Diodes ROHS
+Hongjiacheng
+--
+B16WS
+C7420327
+60V Independent Type 700mV@1A 1A SOD-323 Schottky Diodes ROHS
+Hongjiacheng
+--
+B5817W
+C7420328
+20V Independent Type 1A 450mV@1.0A SOD-123 Schottky Diodes ROHS
+Hongjiacheng
+--
+B5817WS
+C7420329
+20V Independent Type 1A 450mV@1.0A SOD-323 Schottky Diodes ROHS
+Hongjiacheng
+--
+B5819W
+C7420330
+40V Independent Type 1A 550mV@1.0A SOD-123 Schottky Diodes ROHS
+Hongjiacheng
+--
+B5819WS
+C7420331
+40V Independent Type 1A 600mV@1.0A SOD-323 Schottky Diodes ROHS
+Hongjiacheng
+--
+BAT46W
+C7420332
+100V Independent Type 150mA 450mV@10mA SOD-123 Schottky Diodes ROHS
+Hongjiacheng
+--
+BAT54S
+C7420333
+30V 1 pair in series 200mA 400mV@10mA SOT-23 Schottky Diodes ROHS
+Hongjiacheng
+--
+BAV21WS
+C7420334
+250V Independent Type 1.25V@200mA 50ns 200mA SOD-323 Switching Diodes ROHS
+Hongjiacheng
+--
+BAV70
+C7420335
+100V 1 pair of common cathodes 1.25V@150mA 4ns 200mA SOT-23 Switching Diodes ROHS
+Hongjiacheng
+--
+BAV99
+C7420336
+70V 1 pair in series 1.25V@150mA 4ns 200mA SOT-23 Switching Diodes ROHS
+Hongjiacheng
+--
+BC847C
+C7420337
+45V 200mW 420@2mA,5.0V 100mA NPN SOT-23 Bipolar (BJT) ROHS
+Hongjiacheng
+--
+BSS123
+C7420338
+100V 200mA 5Ω@10V,0.2A 350mW 2.5V@250uA 1PCSNChannel SOT-23 MOSFETs ROHS
+Hongjiacheng
+--
+BSS138
+C7420339
+50V 340mA 2.5Ω@10V,0.34A 350mW 1.6V@250uA 1PCSNChannel SOT-23 MOSFETs ROHS
+Hongjiacheng
+--
+BSS84
+C7420340
+60V 170mA 8Ω@10V,0.17A 225mW 2V@250uA 1PCSPChannel SOT-23 MOSFETs ROHS
+Hongjiacheng
+--
+ES2J
+C7420341
+1.7V@2A 35ns Independent Type 2A 600V SMA(DO-214AC) Fast Recovery / High Efficiency Diodes ROHS
+Hongjiacheng
+--
+ES2JF
+C7420342
+1.7V@2A 35ns Independent Type 2A 600V SMAF Fast Recovery / High Efficiency Diodes ROHS
+Hongjiacheng
+--
+HL2300
+C7420343
+20V 4.5A 25mΩ@4.5V,4.5A 1W 1V@250uA 1PCSNChannel SOT-23 MOSFETs ROHS
+Hongjiacheng
+--
+HL2301A
+C7420344
+20V 2.3A 700mW 112mΩ@4.5V,2.3A 1V@250uA 1PCSPChannel SOT-23 MOSFETs ROHS
+Hongjiacheng
+--
+HL2303
+C7420345
+30V 1.9A 350mW 190mΩ@10V,1.9A 3V@250uA 1PCSPChannel SOT-23 MOSFETs ROHS
+Hongjiacheng
+--
+HL2304
+C7420346
+30V 3.6A 60mΩ@10V,3.6A 1W 2.2V@250uA 1PCSNChannel SOT-23 MOSFETs ROHS
+Hongjiacheng
+--
+HL2310A
+C7420347
+60V 3A 1.2W 105mΩ@10V,3.0A 2V@250uA 1 N-Channel SOT-23 MOSFETs ROHS
+Hongjiacheng
+--
+HL3400A
+C7420348
+30V 5.8A 350mW 35mΩ@10V,5.6A 1.5V@250uA 1PCSNChannel SOT-23 MOSFETs ROHS
+Hongjiacheng
+--
+HL3401A
+C7420349
+30V 4.2A 350mW 55mΩ@10V,4.2A 1.4V@250uA 1PCSPChannel SOT-23 MOSFETs ROHS
+Hongjiacheng
+--
+M7
+C7420350
+1A Independent Type 1kV 1.1V@1A SMA(DO-214AC) Diodes - General Purpose ROHS
+Hongjiacheng
+--
+MMBT2222A
+C7420351
+40V 300mW 100@150mA,10V 600mA NPN SOT-23 Bipolar (BJT) ROHS
+Hongjiacheng
+--
+MMBT2907A
+C7420352
+60V 300mW 100@10mA,10V 600mA PNP SOT-23 Bipolar (BJT) ROHS
+Hongjiacheng
+--
+MMBT3904
+C7420353
+40V 200mW 100@10mA,1.0V 200mA NPN SOT-23 Bipolar (BJT) ROHS
+Hongjiacheng
+--
+MMBT3906
+C7420354
+40V 300mW 100@10mA,1.0V 200mA PNP SOT-23 Bipolar (BJT) ROHS
+Hongjiacheng
+--
+MMBT4401
+C7420355
+40V 300mW 100@150mA,1.0V 600mA NPN SOT-23 Bipolar (BJT) ROHS
+Hongjiacheng
+--
+MMBT5401
+C7420356
+160V 300mW 100@10mA,5.0V 600mA PNP SOT-23 Bipolar (BJT) ROHS
+Hongjiacheng
+--
+MMBT5551
+C7420357
+160V 300mW 100@10mA,5.0V 600mA NPN SOT-23 Bipolar (BJT) ROHS
+Hongjiacheng
+--
+RS1M
+C7420358
+1.3V@1.0A 500ns Independent Type 1A 1kV SMA(DO-214AC) Fast Recovery / High Efficiency Diodes ROHS
+Hongjiacheng
+--
+RS2M
+C7420359
+1.3V@2.0A 500ns Independent Type 2A 1kV SMA(DO-214AC) Fast Recovery / High Efficiency Diodes ROHS
+Hongjiacheng
+--
+SD103AWS
+C7420360
+40V Independent Type 350mA 370mV@20mA SOD-323 Schottky Diodes ROHS
+Hongjiacheng
+--
+SS220
+C7420361
+200V Independent Type 950mV@2A 2A SMA(DO-214AC) Schottky Diodes ROHS
+Hongjiacheng
+--
+SS24
+C7420362
+40V Independent Type 550mV@1.0A 2A SMA(DO-214AC) Schottky Diodes ROHS
+Hongjiacheng
+--
+SS26
+C7420363
+60V Independent Type 700mV@2A 2A SMA(DO-214AC) Schottky Diodes ROHS
+Hongjiacheng
+--
+SS310
+C7420364
+100V Independent Type 850mV@3A 3A SMA(DO-214AC) Schottky Diodes ROHS
+Hongjiacheng
+--
+SS34
+C7420365
+40V Independent Type 550mV@3.0A 3A SMA(DO-214AC) Schottky Diodes ROHS
+Hongjiacheng
+--
+SS34B
+C7420366
+40V Independent Type 550mV@3.0A 3A SMB Schottky Diodes ROHS
+Hongjiacheng
+--
+SS36
+C7420367
+60V Independent Type 3A 700mV@3.0A SMA(DO-214AC) Schottky Diodes ROHS
+Hongjiacheng
+--
+SS510B
+C7420368
+100V Independent Type 850mV@5A 5A SMB Schottky Diodes ROHS
+Hongjiacheng
+--
+SS54
+C7420369
+40V Independent Type 550mV@5.0A 5A SMA(DO-214AC) Schottky Diodes ROHS
+Hongjiacheng
+--
+SS8050
+C7420370
+25V 300mW 120@100mA,1.0V 1.5A NPN SOT-23 Bipolar (BJT) ROHS
+Hongjiacheng
+--
+SS8550
+C7420371
+25V 300mW 120@100mA,1.0V 1.5A PNP SOT-23 Bipolar (BJT) ROHS
+Hongjiacheng
+--
+H5VL10B
+C7420372
+5A 50W 10V 5.6V Bidirectional 5V DFN1006-2L ESD and Surge Protection (TVS/ESD) ROHS
+Hongjiacheng
+--
+H5VL06B
+C7420373
+8A 10V 80W 5.6V Bidirectional 5V DFN0603-2L ESD and Surge Protection (TVS/ESD) ROHS
+Hongjiacheng
+--
+H5VU25U
+C7420374
+4A 14V 56W 6V Unidirectional 5V DFN2510-10L ESD and Surge Protection (TVS/ESD) ROHS
+Hongjiacheng
+--
+SM712
+C7420375
+12A 15V 300W Bidirectional SOT-23 ESD and Surge Protection (TVS/ESD) ROHS
+Hongjiacheng
+--
+SRV05-4
+C7420376
+5A 75W 12.5V 6V Bidirectional 5V SOT-23-6 ESD and Surge Protection (TVS/ESD) ROHS
+Hongjiacheng
+--
+SMBJ6.5CA
+C7420377
+53.57A 600W 11.2V 7.22V Bidirectional 6.5V SMB ESD and Surge Protection (TVS/ESD) ROHS
+Hongjiacheng
+--
+BAS40
+C7502685
+40V Independent Type 200mA 1V@40mA SOT-23 Schottky Diodes ROHS
+Hongjiacheng
+--
+BAS70-04
+C7502687
+70V 1 pair in series 1V@15mA 70mA SOT-23 Schottky Diodes ROHS
+Hongjiacheng
+--
+BAS40-04
+C7502688
+40V Independent Type 200mA 1V@40mA SOT-23 Schottky Diodes ROHS
+Hongjiacheng
+--
+RB751V-40
+C7502691
+40V Independent Type 30mA 370mV@1mA SOD-323 Schottky Diodes ROHS
+Hongjiacheng
+--
+BAT46WS
+C7502692
+100V Independent Type 150mA 1V@250mA SOD-323 Schottky Diodes ROHS
+Hongjiacheng
+--
+BAT43WS
+C7502693
+30V Independent Type 200mA 1V@0.2A SOD-323 Schottky Diodes ROHS
+Hongjiacheng
+--
+BAT54WS
+C7502694
+30V Independent Type 200mA 1V@100mA SOD-323 Schottky Diodes ROHS
+Hongjiacheng
+--
+BAT60B
+C7502695
+10V Independent Type 600mV@1A 3A SOD-323 Schottky Diodes ROHS
+Hongjiacheng
+--
+B0530WS
+C7502697
+30V Independent Type 450mV@0.5A 500mA SOD-323 Schottky Diodes ROHS
+Hongjiacheng
+--
+RB551V-40
+C7502699
+40V Independent Type 470mV@500mA 500mA SOD-323 Schottky Diodes ROHS
+Hongjiacheng
+--
+RB751S-40
+C7502700
+40V Independent Type 30mA 370mV@1mA SOD-523 Schottky Diodes ROHS
+Hongjiacheng
+--
+RB520S-30
+C7502701
+30V Independent Type 200mA 600mV@200mA SOD-523 Schottky Diodes ROHS
+Hongjiacheng
+--
+RB521S-30
+C7502702
+30V Independent Type 200mA 500mV@200mA SOD-523 Schottky Diodes ROHS
+Hongjiacheng
+--
+B0520W
+C7502707
+20V Independent Type 385mV@500mA 500mA SOD-123 Schottky Diodes ROHS
+Hongjiacheng
+--
+B0530W
+C7502708
+30V Independent Type 500mA 430mV@500mA SOD-123 Schottky Diodes ROHS
+Hongjiacheng
+--
+B16W
+C7502710
+60V Independent Type 700mV@1A 1A SOD-123 Schottky Diodes ROHS
+Hongjiacheng
+--
+DSK26
+C7502712
+60V Independent Type 700mV@2A 2A SOD-123FL Schottky Diodes ROHS
+Hongjiacheng
+--
+DSK210
+C7502713
+100V Independent Type 850mV@2A 2A SOD-123FL Schottky Diodes ROHS
+Hongjiacheng
+--
+B5819WT
+C7502714
+40V Independent Type 600mV@200mA 350mA SOD-523 Schottky Diodes ROHS
+Hongjiacheng
+--
+RB160M-30
+C7502715
+30V Independent Type 480mV@1A 1A SOD-123 Schottky Diodes ROHS
+Hongjiacheng
+--
+BAS70WS
+C7502716
+70V Independent Type 1V@15mA 70mA SOD-323 Schottky Diodes ROHS
+Hongjiacheng
+--
+RB501V-40
+C7502717
+40V Independent Type 550mV@100mA 100mA SOD-323 Schottky Diodes ROHS
+Hongjiacheng
+--
+1SS355
+C7502718
+80V Independent Type 1.2V@100mA 4ns 100mA SOD-323 Switching Diodes ROHS
+Hongjiacheng
+--
+BAS416
+C7502719
+85V Independent Type 1.25V@150mA 3us 200mA SOD-323 Switching Diodes ROHS
+Hongjiacheng
+--
+BAS316
+C7502720
+100V Independent Type 1.25V@150mA 4ns 250mA SOD-323 Switching Diodes ROHS
+Hongjiacheng
+--
+BAS21S
+C7502726
+250V 1 pair in series 1.25V@200mA 50ns 200mA SOT-23 Switching Diodes ROHS
+Hongjiacheng
+--
+BAW56
+C7502729
+100V 1 pair common anode 1.25V@150mA 4ns 200mA SOT-23 Switching Diodes ROHS
+Hongjiacheng
+--
+1SS181
+C7502730
+80V 1 pair common anode 1.2V@100mA 4ns 100mA SOT-23 Switching Diodes ROHS
+Hongjiacheng
+--
+MMBD4148CC
+C17179589
+100V 1 pair of common cathodes 1V@10mA 4ns 200mA SOT-23 Switching Diodes ROHS
+Hongjiacheng
+--
+1N4002W
+C18199086
+Independent Type 1A 100V 1V@1.0A SOD-123FL Diodes - General Purpose ROHS
+Hongjiacheng
+--
+1N4004W
+C18199087
+Independent Type 1A 400V 1V@1.0A SOD-123FL Diodes - General Purpose ROHS
+Hongjiacheng
+--
+1N4007W
+C18199088
+Independent Type 1A 1kV 1V@1.0A SOD-123FL Diodes - General Purpose ROHS
+Hongjiacheng
+--
+M7F
+C18199090
+Independent Type 1A 1kV 1V@1.0A SMAF Diodes - General Purpose ROHS
+Hongjiacheng
+--
+M1
+C18199093
+Independent Type 1A 1V@1A 50V SMA(DO-214AC) Diodes - General Purpose ROHS
+Hongjiacheng
+--
+M4
+C18199095
+Independent Type 1A 1V@1A 400V SMA(DO-214AC) Diodes - General Purpose ROHS
+Hongjiacheng
+--
+M6
+C18199098
+Independent Type 1A 1V@1A 800V SMA(DO-214AC) Diodes - General Purpose ROHS
+Hongjiacheng
+--
+S2M
+C18199100
+Independent Type 2A 1kV 1V@2A SMA(DO-214AC) Diodes - General Purpose ROHS
+Hongjiacheng
+--
+S2MB
+C18199101
+Independent Type 2A 1kV 1V@2A SMB Diodes - General Purpose ROHS
+Hongjiacheng
+--
+S3MB
+C18199102
+Independent Type 3A 1V@3A 1kV SMB Diodes - General Purpose ROHS
+Hongjiacheng
+--
+S3MC
+C18199103
+Independent Type 3A 1V@3A 1kV SMC Diodes - General Purpose ROHS
+Hongjiacheng
+--
+S5JB
+C18199104
+Independent Type 5A 1V@5A 600V SMB Diodes - General Purpose ROHS
+Hongjiacheng
+--
+S5MB
+C18199105
+Independent Type 5A 1kV 1V@5A SMB Diodes - General Purpose ROHS
+Hongjiacheng
+--
+S5MC
+C18199106
+Independent Type 5A 1kV 1V@5A SMC Diodes - General Purpose ROHS
+Hongjiacheng
+--
+S6MC
+C18199107
+Independent Type 6A 1kV 1.1V@6A SMC Diodes - General Purpose ROHS
+Hongjiacheng
+--
+S8KC
+C18199108
+Independent Type 8A 1V@8A 800V SMC Diodes - General Purpose ROHS
+Hongjiacheng
+--
+S8MC
+C18199109
+Independent Type 8A 1kV 1V@8A SMC Diodes - General Purpose ROHS
+Hongjiacheng
+--
+S10JC
+C18199110
+Independent Type 10A 600V 1V@10A SMC Diodes - General Purpose ROHS
+Hongjiacheng
+--
+S10MC
+C18199111
+Independent Type 10A 1kV 1V@10A SMC Diodes - General Purpose ROHS
+Hongjiacheng
+--
+S5BBF
+C18199112
+Independent Type 5A 100V 1V@5A SMBF Diodes - General Purpose ROHS
+Hongjiacheng
+--
+FR107W
+C18199114
+1.3V@1.0A 500ns Independent Type 1A 1kV SOD-123FL Fast Recovery / High Efficiency Diodes ROHS
+Hongjiacheng
+--
+RS3MF
+C18199116
+1.3V@3.0A 500ns Independent Type 3A 1kV SMAF Fast Recovery / High Efficiency Diodes ROHS
+Hongjiacheng
+--
+RS1G
+C18199117
+1.3V@1.0A 150ns Independent Type 1A 400V SMA(DO-214AC) Fast Recovery / High Efficiency Diodes ROHS
+Hongjiacheng
+--
+RS1J
+C18199118
+1.3V@1.0A 250ns Independent Type 1A 600V SMA(DO-214AC) Fast Recovery / High Efficiency Diodes ROHS
+Hongjiacheng
+--
+RS3MB
+C18199119
+1.3V@3.0A 500ns Independent Type 3A 1kV SMB Fast Recovery / High Efficiency Diodes ROHS
+Hongjiacheng
+--
+RS3MC
+C18199120
+1.3V@3.0A 500ns Independent Type 3A 1kV SMC Fast Recovery / High Efficiency Diodes ROHS
+Hongjiacheng
+--
+RS5MC
+C18199121
+1.3V@5.0A 500ns Independent Type 5A 1kV SMC Fast Recovery / High Efficiency Diodes ROHS
+Hongjiacheng
+--
+US1DW
+C18199122
+1V@1A 50ns Independent Type 1A 200V SOD-123FL Fast Recovery / High Efficiency Diodes ROHS
+Hongjiacheng
+--
+US1MW
+C18199123
+1.7V@1A 75ns Independent Type 1A 1kV SOD-123FL Fast Recovery / High Efficiency Diodes ROHS
+Hongjiacheng
+--
+US1MF
+C18199124
+1.7V@1A 75ns Independent Type 1A 1kV SMAF Fast Recovery / High Efficiency Diodes ROHS
+Hongjiacheng
+--
+US1A
+C18199125
+1V@1A 50ns Independent Type 1A 50V SMA(DO-214AC) Fast Recovery / High Efficiency Diodes ROHS
+Hongjiacheng
+--
+US1B
+C18199126
+1V@1A 50ns Independent Type 1A 100V SMA(DO-214AC) Fast Recovery / High Efficiency Diodes ROHS
+Hongjiacheng
+--
+US1G
+C18199127
+1.4V@1A 50ns Independent Type 1A 400V SMA(DO-214AC) Fast Recovery / High Efficiency Diodes ROHS
+Hongjiacheng
+--
+US1J
+C18199128
+1.7V@1A 75ns Independent Type 1A 600V SMA(DO-214AC) Fast Recovery / High Efficiency Diodes ROHS
+Hongjiacheng
+--
+US2M
+C18199132
+1.7V@2A 75ns Independent Type 2A 1kV SMA(DO-214AC) Fast Recovery / High Efficiency Diodes ROHS
+Hongjiacheng
+--
+US2D
+C18199133
+1V@2A 50ns Independent Type 2A 200V SMA(DO-214AC) Fast Recovery / High Efficiency Diodes ROHS
+Hongjiacheng
+--
+US2MB
+C18199134
+1.7V@2A 75ns Independent Type 2A 1kV SMB Fast Recovery / High Efficiency Diodes ROHS
+Hongjiacheng
+--
+US8MC
+C18199136
+SMC Fast Recovery / High Efficiency Diodes ROHS
+Hongjiacheng
+--
+ES1JW
+C18199137
+1.7V@1A 35ns Independent Type 1A 600V SOD-123FL Fast Recovery / High Efficiency Diodes ROHS
+Hongjiacheng
+--
+ES1G
+C18199138
+1.3V@1A 35ns Independent Type 1A 400V SMA(DO-214AC) Fast Recovery / High Efficiency Diodes ROHS
+Hongjiacheng
+--
+ES2A
+C18199139
+1V@2A 35ns Independent Type 2A 50V SMA(DO-214AC) Fast Recovery / High Efficiency Diodes ROHS
+Hongjiacheng
+--
+ES2G
+C18199140
+1.3V@2A 35ns Independent Type 2A 400V SMA(DO-214AC) Fast Recovery / High Efficiency Diodes ROHS
+Hongjiacheng
+--
+ES2JB
+C18199141
+1.7V@2A 35ns Independent Type 2A 600V SMB Fast Recovery / High Efficiency Diodes ROHS
+Hongjiacheng
+--
+ES5DC
+C18199144
+1V@5.0A 35ns Independent Type 5A 200V SMC Fast Recovery / High Efficiency Diodes ROHS
+Hongjiacheng
+--
+ES5JBF
+C18199154
+1.7V@5.0A 35ns Independent Type 5A 600V SMBF Fast Recovery / High Efficiency Diodes ROHS
+Hongjiacheng
+--
+ES1DW
+C18199155
+1V@1A 35ns Independent Type 1A 200V SOD-123FL Fast Recovery / High Efficiency Diodes ROHS
+Hongjiacheng
+--
+ES2JW
+C18199156
+SOD-123FL Fast Recovery / High Efficiency Diodes ROHS
+Hongjiacheng
+--
+ES1B
+C18199157
+1V@1A 35ns Independent Type 1A 100V SMA(DO-214AC) Fast Recovery / High Efficiency Diodes ROHS
+Hongjiacheng
+--
+ES1D
+C18199158
+1V@1A 35ns Independent Type 1A 200V SMA(DO-214AC) Fast Recovery / High Efficiency Diodes ROHS
+Hongjiacheng
+--
+ES1J
+C18199159
+1.7V@1A 35ns Independent Type 1A 600V SMA(DO-214AC) Fast Recovery / High Efficiency Diodes ROHS
+Hongjiacheng
+--
+ES1M
+C18199160
+SMA(DO-214AC) Fast Recovery / High Efficiency Diodes ROHS
+Hongjiacheng
+--
+ES2D
+C18199161
+1V@2A 35ns Independent Type 2A 200V SMA(DO-214AC) Fast Recovery / High Efficiency Diodes ROHS
+Hongjiacheng
+--
+ES3DC
+C18199164
+1V@3.0A 35ns Independent Type 3A 200V SMC Fast Recovery / High Efficiency Diodes ROHS
+Hongjiacheng
+--
+SS58
+C18199168
+80V Independent Type 850mV@5.0A 5A SMA(DO-214AC) Schottky Diodes ROHS
+Hongjiacheng
+--
+SS56
+C18199169
+60V Independent Type 700mV@5.0A 5A SMA(DO-214AC) Schottky Diodes ROHS
+Hongjiacheng
+--
+SS520
+C18199170
+200V Independent Type 950mV@5.0A 5A SMA(DO-214AC) Schottky Diodes ROHS
+Hongjiacheng
+--
+SS510
+C18199171
+100V Independent Type 850mV@5A 5A SMA(DO-214AC) Schottky Diodes ROHS
+Hongjiacheng
+--
+SS320
+C18199172
+200V Independent Type 3A 950mV@3.0A SMA(DO-214AC) Schottky Diodes ROHS
+Hongjiacheng
+--
+SS32
+C18199173
+20V Independent Type 550mV@3.0A 3A SMA(DO-214AC) Schottky Diodes ROHS
+Hongjiacheng
+--
+SS315
+C18199174
+150V Independent Type 3A 950mV@3.0A SMA(DO-214AC) Schottky Diodes ROHS
+Hongjiacheng
+--
+SS210
+C18199175
+100V Independent Type 850mV@2A 2A SMA(DO-214AC) Schottky Diodes ROHS
+Hongjiacheng
+--
+SS16
+C18199176
+60V Independent Type 700mV@1A 1A SMA(DO-214AC) Schottky Diodes ROHS
+Hongjiacheng
+--
+SS12
+C18199177
+20V Independent Type 1A 550mV@1.0A SMA(DO-214AC) Schottky Diodes ROHS
+Hongjiacheng
+--
+SS110
+C18199178
+100V Independent Type 1A 850mV@1A SMA(DO-214AC) Schottky Diodes ROHS
+Hongjiacheng
+--
+SS54B
+C18199181
+40V Independent Type 550mV@5.0A 5A SMB Schottky Diodes ROHS
+Hongjiacheng
+--
+SS310B
+C18199183
+100V Independent Type 850mV@3A 3A SMB Schottky Diodes ROHS
+Hongjiacheng
+--
+SS26B
+C18199184
+60V Independent Type 700mV@2A 2A SMB Schottky Diodes ROHS
+Hongjiacheng
+--
+SS56C
+C18199187
+60V Independent Type 680mV@5A 5A SMC Schottky Diodes ROHS
+Hongjiacheng
+--
+SS520C
+C18199189
+200V Independent Type 950mV@5.0A 5A SMC Schottky Diodes ROHS
+Hongjiacheng
+--
+SS510C
+C18199190
+100V Independent Type 850mV@5A 5A SMC Schottky Diodes ROHS
+Hongjiacheng
+--
+SS34C
+C18199192
+40V Independent Type 550mV@3.0A 3A SMC Schottky Diodes ROHS
+Hongjiacheng
+--
+SK1010C
+C18199193
+100V Independent Type 10A 850mV@10A SMC Schottky Diodes ROHS
+Hongjiacheng
+--
+SS56BF
+C18199194
+60V Independent Type 700mV@5A 5A SMBF Schottky Diodes ROHS
+Hongjiacheng
+--
+SS54BF
+C18199195
+40V Independent Type 550mV@5.0A 5A SMBF Schottky Diodes ROHS
+Hongjiacheng
+--
+SS38
+C18199196
+80V Independent Type 850mV@3A 3A SMA(DO-214AC) Schottky Diodes ROHS
+Hongjiacheng
+--
+SS120
+C18199197
+200V Independent Type 1A 950mV@1A SMA(DO-214AC) Schottky Diodes ROHS
+Hongjiacheng
+--
+SS115
+C18199198
+150V Independent Type 1A 950mV@1A SMA(DO-214AC) Schottky Diodes ROHS
+Hongjiacheng
+--
+SS24F
+C18199202
+40V Independent Type 550mV@2.0A 2A SMAF Schottky Diodes ROHS
+Hongjiacheng
+--
+SS14F
+C18199203
+40V Independent Type 1A 550mV@1.0A SMAF Schottky Diodes ROHS
+Hongjiacheng
+--
+SS320B
+C18199206
+200V Independent Type 3A 950mV@3.0A SMB Schottky Diodes ROHS
+Hongjiacheng
+--
+SK86C
+C18199209
+60V Independent Type 8A 700mV@8.0A SMC Schottky Diodes ROHS
+Hongjiacheng
+--
+SK104C
+C18199211
+40V Independent Type 10A 550mV@10A SMC Schottky Diodes ROHS
+Hongjiacheng
+--
+BZT52B3V3
+C19077392
+Independent Type 3.23V~3.37V 500mW 3.3V SOD-123 Zener Diodes ROHS
+Hongjiacheng
+--
+BZT52B5V1
+C19077393
+Independent Type 5V~5.2V 500mW 5.1V SOD-123 Zener Diodes ROHS
+Hongjiacheng
+--
+BZT52C2V7
+C19077394
+Independent Type 2.57V~2.84V 300mW 2.7V SOD-123 Zener Diodes ROHS
+Hongjiacheng
+--
+BZT52C3V0
+C19077395
+Independent Type 2.85V~3.15V 500mW 3V SOD-123 Zener Diodes ROHS
+Hongjiacheng
+--
+BZT52C3V3
+C19077396
+Independent Type 3.14V~3.47V 500mW 3.3V SOD-123 Zener Diodes ROHS
+Hongjiacheng
+--
+BZT52C3V6
+C19077397
+Independent Type 3.42V~3.78V 500mW 3.6V SOD-123 Zener Diodes ROHS
+Hongjiacheng
+--
+BZT52C3V9
+C19077398
+Independent Type 3.71V~4.1V 500mW 3.9V SOD-123 Zener Diodes ROHS
+Hongjiacheng
+--
+BZT52C4V3
+C19077399
+Independent Type 500mW 4.09V~4.52V 4.3V SOD-123 Zener Diodes ROHS
+Hongjiacheng
+--
+BZT52C4V7
+C19077400
+Independent Type 4.47V~4.94V 500mW 4.7V SOD-123 Zener Diodes ROHS
+Hongjiacheng
+--
+BZT52C5V1
+C19077401
+Independent Type 500mW 4.85V~5.36V 5.1V SOD-123 Zener Diodes ROHS
+Hongjiacheng
+--
+BZT52C5V6
+C19077402
+Independent Type 5.32V~5.88V 500mW 5.6V SOD-123 Zener Diodes ROHS
+Hongjiacheng
+--
+BZT52C6V2
+C19077403
+Independent Type 500mW 5.89V~6.51V 6.2V SOD-123 Zener Diodes ROHS
+Hongjiacheng
+--
+BZT52C6V8
+C19077404
+Independent Type 6.46V~7.14V 500mW 6.8V SOD-123 Zener Diodes ROHS
+Hongjiacheng
+--
+BZT52C7V5
+C19077405
+Independent Type 7.13V~7.88V 500mW 7.5V SOD-123 Zener Diodes ROHS
+Hongjiacheng
+--
+BZT52C8V2
+C19077406
+Independent Type 7.79V~8.61V 500mW 8.2V SOD-123 Zener Diodes ROHS
+Hongjiacheng
+--
+BZT52C9V1
+C19077407
+Independent Type 8.65V~9.56V 500mW 9.1V SOD-123 Zener Diodes ROHS
+Hongjiacheng
+--
+BZT52C10
+C19077408
+Independent Type 9.5V~10.5V 500mW 10V SOD-123 Zener Diodes ROHS
+Hongjiacheng
+--
+BZT52C11
+C19077409
+Independent Type 500mW 10.45V~11.55V 11V SOD-123 Zener Diodes ROHS
+Hongjiacheng
+--
+BZT52C12
+C19077410
+Independent Type 11.4V~12.6V 500mW 12V SOD-123 Zener Diodes ROHS
+Hongjiacheng
+--
+BZT52C13
+C19077411
+Independent Type 12.35V~13.65V 500mW 13V SOD-123 Zener Diodes ROHS
+Hongjiacheng
+--
+BZT52C15
+C19077412
+Independent Type 14.25V~15.75V 500mW 15V SOD-123 Zener Diodes ROHS
+Hongjiacheng
+--
+BZT52C16
+C19077413
+Independent Type 500mW 15.2V~16.8V 16V SOD-123 Zener Diodes ROHS
+Hongjiacheng
+--
+BZT52C18
+C19077414
+Independent Type 500mW 17.1V~18.9V 18V SOD-123 Zener Diodes ROHS
+Hongjiacheng
+--
+BZT52C20
+C19077415
+Independent Type 19V~21V 500mW 20V SOD-123 Zener Diodes ROHS
+Hongjiacheng
+--
+BZT52C24
+C19077416
+Independent Type 22.8V~25.2V 500mW 24V SOD-123 Zener Diodes ROHS
+Hongjiacheng
+--
+BZT52C27
+C19077417
+Independent Type 25.65V~28.35V 300mW 27V SOD-123 Zener Diodes ROHS
+Hongjiacheng
+--
+BZT52C30
+C19077418
+Independent Type 28.5V~31.5V 500mW 30V SOD-123 Zener Diodes ROHS
+Hongjiacheng
+--
+BZT52C33
+C19077419
+Independent Type 500mW 31.35V~34.65V 33V SOD-123 Zener Diodes ROHS
+Hongjiacheng
+--
+BZT52C36
+C19077420
+Independent Type 34.2V~37.8V 500mW 36V SOD-123 Zener Diodes ROHS
+Hongjiacheng
+--
+MMSZ5226B
+C19077421
+Independent Type 3.14V~3.47V 500mW 3.3V SOD-123 Zener Diodes ROHS
+Hongjiacheng
+--
+MMSZ5231B
+C19077422
+Independent Type 500mW 4.85V~5.36V 5.1V SOD-123 Zener Diodes ROHS
+Hongjiacheng
+--
+MMSZ5232B
+C19077423
+Independent Type 5.32V~5.88V 500mW 5.6V SOD-123 Zener Diodes ROHS
+Hongjiacheng
+--
+MMSZ5235B
+C19077424
+Independent Type 6.46V~7.14V 300mW 6.8V SOD-123 Zener Diodes ROHS
+Hongjiacheng
+--
+MMSZ5240B
+C19077425
+Independent Type 9.5V~10.5V 500mW 10V SOD-123 Zener Diodes ROHS
+Hongjiacheng
+--
+MMSZ5242B
+C19077426
+Independent Type 11.4V~12.6V 500mW 12V SOD-123 Zener Diodes ROHS
+Hongjiacheng
+--
+MMSZ5243B
+C19077427
+Independent Type 12.35V~13.65V 500mW 13V SOD-123 Zener Diodes ROHS
+Hongjiacheng
+--
+MMSZ5245B
+C19077428
+Independent Type 14.25V~15.75V 500mW 15V SOD-123 Zener Diodes ROHS
+Hongjiacheng
+--
+MMSZ5246B
+C19077429
+Independent Type 500mW 15.2V~16.8V 16V SOD-123 Zener Diodes ROHS
+Hongjiacheng
+--
+MMSZ5248B
+C19077430
+Independent Type 500mW 17.1V~18.9V 18V SOD-123 Zener Diodes ROHS
+Hongjiacheng
+--
+MMSZ5250B
+C19077431
+Independent Type 19V~21V 500mW 20V SOD-123 Zener Diodes ROHS
+Hongjiacheng
+--
+MMSZ5252B
+C19077432
+Independent Type 22.8V~25.2V 500mW 24V SOD-123 Zener Diodes ROHS
+Hongjiacheng
+--
+MMSZ5256B
+C19077433
+Independent Type 28.5V~31.5V 500mW 30V SOD-123 Zener Diodes ROHS
+Hongjiacheng
+--
+BZT52B5V1S
+C19077434
+Independent Type 5V~5.2V 200mW 5.1V SOD-323 Zener Diodes ROHS
+Hongjiacheng
+--
+BZT52B5V6S
+C19077435
+Independent Type 200mW 5.49V~5.71V 5.6V SOD-323 Zener Diodes ROHS
+Hongjiacheng
+--
+BZT52C3V0S
+C19077436
+Independent Type 200mW 2.8V~3.2V 3V SOD-323 Zener Diodes ROHS
+Hongjiacheng
+--
+BZT52C3V3S
+C19077437
+Independent Type 200mW 3.1V~3.5V 3.3V SOD-323 Zener Diodes ROHS
+Hongjiacheng
+--
+BZT52C3V6S
+C19077438
+Independent Type 200mW 3.4V~3.8V 3.6V SOD-323 Zener Diodes ROHS
+Hongjiacheng
+--
+BZT52C4V7S
+C19077439
+Independent Type 200mW 4.4V~5V 4.7V SOD-323 Zener Diodes ROHS
+Hongjiacheng
+--
+BZT52C5V1S
+C19077440
+Independent Type 4.8V~5.4V 200mW 5.1V SOD-323 Zener Diodes ROHS
+Hongjiacheng
+--
+BZT52C5V6S
+C19077441
+Independent Type 5.2V~6V 200mW 5.6V SOD-323 Zener Diodes ROHS
+Hongjiacheng
+--
+BZT52C6V2S
+C19077442
+Independent Type 200mW 5.8V~6.2V 6.2V SOD-323 Zener Diodes ROHS
+Hongjiacheng
+--
+BZT52C6V8S
+C19077443
+Independent Type 6.4V~7.2V 200mW 6.8V SOD-323 Zener Diodes ROHS
+Hongjiacheng
+--
+BZT52C7V5S
+C19077444
+Independent Type 200mW 7V~7.9V 7.5V SOD-323 Zener Diodes ROHS
+Hongjiacheng
+--
+BZT52C9V1S
+C19077445
+Independent Type 8.5V~9.6V 200mW 9.1V SOD-323 Zener Diodes ROHS
+Hongjiacheng
+--
+BZT52C10S
+C19077446
+Independent Type 200mW 9.4V~10.6V 10V SOD-323 Zener Diodes ROHS
+Hongjiacheng
+--
+BZT52C12S
+C19077447
+Independent Type 11.4V~12.7V 200mW 12V SOD-323 Zener Diodes ROHS
+Hongjiacheng
+--
+BZT52C15S
+C19077448
+Independent Type 200mW 13.8V~15.6V 15V SOD-323 Zener Diodes ROHS
+Hongjiacheng
+--
+BZT52C16S
+C19077449
+Independent Type 200mW 15.3V~17.1V 16V SOD-323 Zener Diodes ROHS
+Hongjiacheng
+--
+BZT52C18S
+C19077450
+Independent Type 16.8V~19.1V 200mW 18V SOD-323 Zener Diodes ROHS
+Hongjiacheng
+--
+BZT52C20S
+C19077451
+Independent Type 200mW 18.8V~21.2V 20V SOD-323 Zener Diodes ROHS
+Hongjiacheng
+--
+MM3Z3V0
+C19077452
+Independent Type 200mW 2.8V~3.2V 3V SOD-323 Zener Diodes ROHS
+Hongjiacheng
+--
+MM3Z3V3
+C19077453
+Independent Type 200mW 3.1V~3.5V 3.3V SOD-323 Zener Diodes ROHS
+Hongjiacheng
+--
+MM3Z3V6
+C19077454
+Independent Type 200mW 3.4V~3.8V 3.6V SOD-323 Zener Diodes ROHS
+Hongjiacheng
+--
+MM3Z5V1
+C19077455
+Independent Type 4.8V~5.4V 200mW 5.1V SOD-323 Zener Diodes ROHS
+Hongjiacheng
+--
+MM3Z5V6
+C19077456
+Independent Type 5.2V~6V 200mW 5.6V SOD-323 Zener Diodes ROHS
+Hongjiacheng
+--
+MM3Z6V2
+C19077457
+Independent Type 200mW 5.8V~6.2V 6.2V SOD-323 Zener Diodes ROHS
+Hongjiacheng
+--
+MM3Z6V8
+C19077458
+Independent Type 6.4V~7.2V 200mW 6.8V SOD-323 Zener Diodes ROHS
+Hongjiacheng
+--
+MM3Z10
+C19077459
+Independent Type 200mW 9.4V~10.6V 10V SOD-323 Zener Diodes ROHS
+Hongjiacheng
+--
+MM3Z12
+C19077460
+Independent Type 11.4V~12.7V 200mW 12V SOD-323 Zener Diodes ROHS
+Hongjiacheng
+--
+MM3Z18
+C19077461
+Independent Type 16.8V~19.1V 200mW 18V SOD-323 Zener Diodes ROHS
+Hongjiacheng
+--
+BZX584C3V3
+C19077462
+Independent Type 3.1V~3.5V 150mW 3.3V SOD-523 Zener Diodes ROHS
+Hongjiacheng
+--
+BZX584C5V1
+C19077463
+Independent Type 4.8V~5.4V 150mW 5.1V SOD-523 Zener Diodes ROHS
+Hongjiacheng
+--
+BZX584C5V6
+C19077464
+Independent Type 5.2V~6V 150mW 5.6V SOD-523 Zener Diodes ROHS
+Hongjiacheng
+--
+BZX584C9V1
+C19077465
+Independent Type 8.5V~9.6V 150mW 9.1V SOD-523 Zener Diodes ROHS
+Hongjiacheng
+--
+BZX584C15
+C19077466
+Independent Type 14.3V~15.8V 150mW 15V SOD-523 Zener Diodes ROHS
+Hongjiacheng
+--
+BZX84C3V3
+C19077467
+Independent Type 300mW 3.1V~3.5V 3.3V SOT-23 Zener Diodes ROHS
+Hongjiacheng
+--
+BZX84C5V1
+C19077468
+Independent Type 4.8V~5.4V 300mW 5.1V SOT-23 Zener Diodes ROHS
+Hongjiacheng
+--
+BZX84C5V6
+C19077469
+Independent Type 5.2V~6V 300mW 5.6V SOT-23 Zener Diodes ROHS
+Hongjiacheng
+--
+BZX84C10
+C19077470
+Independent Type 300mW 9.4V~10.6V 10V SOT-23 Zener Diodes ROHS
+Hongjiacheng
+--
+BZX84C12
+C19077471
+Independent Type 11.4V~12.7V 300mW 12V SOT-23 Zener Diodes ROHS
+Hongjiacheng
+--
+BZX84C15
+C19077472
+Independent Type 300mW 13.8V~15.6V 5.6V SOT-23 Zener Diodes ROHS
+Hongjiacheng
+--
+BZX84C18
+C19077473
+Independent Type 16.8V~19.1V 300mW 18V SOT-23 Zener Diodes ROHS
+Hongjiacheng
+--
+1SMA4728A
+C19077474
+Independent Type 3.14V~3.47V 1W 3.3V SMA(DO-214AC) Zener Diodes ROHS
+Hongjiacheng
+--
+1SMA4729A
+C19077475
+Independent Type 3.42V~3.78V 1W 3.6V SMA(DO-214AC) Zener Diodes ROHS
+Hongjiacheng
+--
+1SMA4733A
+C19077476
+Independent Type 1W 4.85V~5.36V 5.1V SMA(DO-214AC) Zener Diodes ROHS
+Hongjiacheng
+--
+1SMA4734A
+C19077477
+Independent Type 5.32V~5.88V 1W 5.6V SMA(DO-214AC) Zener Diodes ROHS
+Hongjiacheng
+--
+1SMA4737A
+C19077478
+Independent Type 7.125V~7.875V 1W 7.5V SMA(DO-214AC) Zener Diodes ROHS
+Hongjiacheng
+--
+1SMA4740A
+C19077479
+Independent Type 9.5V~10.5V 1W 10V SMA(DO-214AC) Zener Diodes ROHS
+Hongjiacheng
+--
+1SMA4742A
+C19077480
+Independent Type 11.4V~12.6V 1W 12V SMA(DO-214AC) Zener Diodes ROHS
+Hongjiacheng
+--
+1SMA4743A
+C19077481
+Independent Type 12.35V~13.65V 1W 13V SMA(DO-214AC) Zener Diodes ROHS
+Hongjiacheng
+--
+1SMA4744A
+C19077482
+Independent Type 14.25V~15.75V 1W 15V SMA(DO-214AC) Zener Diodes ROHS
+Hongjiacheng
+--
+1SMA4746A
+C19077483
+Independent Type 1W 17.1V~18.9V 18V SMA(DO-214AC) Zener Diodes ROHS
+Hongjiacheng
+--
+1SMA4747A
+C19077484
+Independent Type 19V~21V 1W 20V SMA(DO-214AC) Zener Diodes ROHS
+Hongjiacheng
+--
+1SMA4749A
+C19077485
+Independent Type 22.8V~25.2V 1W 24V SMA(DO-214AC) Zener Diodes ROHS
+Hongjiacheng
+--
+1SMA5913A
+C19077486
+Independent Type 3.13V~3.47V 1.5W 3.3V SMA(DO-214AC) Zener Diodes ROHS
+Hongjiacheng
+--
+1SMA5918A
+C19077487
+Independent Type 4.84V~5.36V 1.5W 5.1V SMA(DO-214AC) Zener Diodes ROHS
+Hongjiacheng
+--
+1SMA5919A
+C19077488
+Independent Type 5.32V~5.88V 1.5W 5.6V SMA(DO-214AC) Zener Diodes ROHS
+Hongjiacheng
+--
+1SMA5927A
+C19077489
+Independent Type 11.4V~12.6V 1.5W 12V SMA(DO-214AC) Zener Diodes ROHS
+Hongjiacheng
+--
+1SMA5928A
+C19077490
+Independent Type 12.35V~13.65V 1.5W 13V SMA(DO-214AC) Zener Diodes ROHS
+Hongjiacheng
+--
+1SMA5929A
+C19077491
+Independent Type 14.25V~15.75V 1.5W 15V SMA(DO-214AC) Zener Diodes ROHS
+Hongjiacheng
+--
+1SMA5930A
+C19077492
+Independent Type 1.5W 15.2V~16.8V 16V SMA(DO-214AC) Zener Diodes ROHS
+Hongjiacheng
+--
+SMBJ5338B
+C19077493
+Independent Type 5W 4.85V~5.36V 5.1V SMB Zener Diodes ROHS
+Hongjiacheng
+--
+SMBJ5339B
+C19077494
+Independent Type 5.32V~5.88V 5W 5.6V SMB Zener Diodes ROHS
+Hongjiacheng
+--
+SMBJ5349B
+C19077495
+Independent Type 5W 11.4V~12.6V 12V SMB Zener Diodes ROHS
+Hongjiacheng
+--
+SMF5.0A
+C19077497
+27.4A 7.3V 200W 6.4V Unidirectional 5V SOD-123FL ESD and Surge Protection (TVS/ESD) ROHS
+Hongjiacheng
+--
+SMF5.0CA
+C19077498
+27.4A 7.3V 200W 6.4V Bidirectional 5V SOD-123FL ESD and Surge Protection (TVS/ESD) ROHS
+Hongjiacheng
+--
+SMF6.0A
+C19077499
+19.4A 10.3V 200W 6.67V Unidirectional 6V SOD-123FL ESD and Surge Protection (TVS/ESD) ROHS
+Hongjiacheng
+--
+SMF6.5CA
+C19077501
+17.9A 11.2V 200W 7.22V Bidirectional 6.5V SOD-123FL ESD and Surge Protection (TVS/ESD) ROHS
+Hongjiacheng
+--
+SMF7.0CA
+C19077502
+16.7A 12V 200W 8.6V Bidirectional 7V SOD-123FL ESD and Surge Protection (TVS/ESD) ROHS
+Hongjiacheng
+--
+SMF7.5CA
+C19077503
+15.5A 12.9V 200W 9.21V Bidirectional 7.5V SOD-123FL ESD and Surge Protection (TVS/ESD) ROHS
+Hongjiacheng
+--
+SMF9.0CA
+C19077504
+13A 15.4V 200W 11.1V Bidirectional 9V SOD-123FL ESD and Surge Protection (TVS/ESD) ROHS
+Hongjiacheng
+--
+SMF10CA
+C19077505
+11.8A 17V 200W 12.3V Bidirectional 10V SOD-123FL ESD and Surge Protection (TVS/ESD) ROHS
+Hongjiacheng
+--
+SMF12A
+C19077506
+10.1A 19.9V 200W 14.7V Unidirectional 12V SOD-123FL ESD and Surge Protection (TVS/ESD) ROHS
+Hongjiacheng
+--
+SMF12CA
+C19077507
+10.1A 19.9V 200W 14.7V Bidirectional 12V SOD-123FL ESD and Surge Protection (TVS/ESD) ROHS
+Hongjiacheng
+--
+SMF13CA
+C19077508
+9.3A 21.5V 200W 15.9V Bidirectional 13V SOD-123FL ESD and Surge Protection (TVS/ESD) ROHS
+Hongjiacheng
+--
+SMF15A
+C19077509
+8.2A 24.4V 200W 16.7V Unidirectional 15V SOD-123FL ESD and Surge Protection (TVS/ESD) ROHS
+Hongjiacheng
+--
+SMF15CA
+C19077510
+3.4A 58.1V 200W 40V Bidirectional 36V SOD-123FL ESD and Surge Protection (TVS/ESD) ROHS
+Hongjiacheng
+--
+SMF18A
+C19077512
+6.8A 29.2V 200W 22.1V Unidirectional 18V SOD-123FL ESD and Surge Protection (TVS/ESD) ROHS
+Hongjiacheng
+--
+SMF18CA
+C19077513
+6.8A 29.2V 200W 20V Bidirectional 18V SOD-123FL ESD and Surge Protection (TVS/ESD) ROHS
+Hongjiacheng
+--
+SMF24A
+C19077514
+5.1A 38.9V 200W 26.7V Unidirectional 24V SOD-123FL ESD and Surge Protection (TVS/ESD) ROHS
+Hongjiacheng
+--
+SMF24CA
+C19077515
+5.1A 38.9V 200W 29.5V Bidirectional 24V SOD-123FL ESD and Surge Protection (TVS/ESD) ROHS
+Hongjiacheng
+--
+SMF26CA
+C19077516
+4.8A 42.1V 200W 31.9V Bidirectional 26V SOD-123FL ESD and Surge Protection (TVS/ESD) ROHS
+Hongjiacheng
+--
+SMF28CA
+C19077517
+4.4A 45.4V 200W 34.4V Bidirectional 28V SOD-123FL ESD and Surge Protection (TVS/ESD) ROHS
+Hongjiacheng
+--
+SMF30A
+C19077518
+4.1A 48.4V 200W 33.3V Unidirectional 30V SOD-123FL ESD and Surge Protection (TVS/ESD) ROHS
+Hongjiacheng
+--
+SMF30CA
+C19077519
+4.1A 48.4V 200W 36.8V Bidirectional 30V SOD-123FL ESD and Surge Protection (TVS/ESD) ROHS
+Hongjiacheng
+--
+SMF33CA
+C19077520
+3.8A 53.3V 200W 40.6V Unidirectional 33V SOD-123FL ESD and Surge Protection (TVS/ESD) ROHS
+Hongjiacheng
+--
+SMF36CA
+C19077521
+3.4A 58.1V 200W 44.2V Bidirectional 36V SOD-123FL ESD and Surge Protection (TVS/ESD) ROHS
+Hongjiacheng
+--
+SMAJ5.0CA
+C19077524
+43.5A 400W 9.2V 6.4V Bidirectional 5V SMA ESD and Surge Protection (TVS/ESD) ROHS
+Hongjiacheng
+--
+SMAJ6.0A
+C19077525
+38.8A 10.3V 400W 7.37V Unidirectional 6V SMA ESD and Surge Protection (TVS/ESD) ROHS
+Hongjiacheng
+--
+SMAJ6.0CA
+C19077526
+38.8A 10.3V 400W 7.22V Bidirectional 6V SMA ESD and Surge Protection (TVS/ESD) ROHS
+Hongjiacheng
+--
+SMAJ7.0CA
+C19077529
+33.3A 400W 12V 8.6V Bidirectional 7V SMA ESD and Surge Protection (TVS/ESD) ROHS
+Hongjiacheng
+--
+SMAJ10CA
+C19077530
+23.5A 17V 400W 12.3V Bidirectional 10V SMA ESD and Surge Protection (TVS/ESD) ROHS
+Hongjiacheng
+--
+SMAJ12A
+C19077531
+20.1A 19.9V 400W 13.3V Unidirectional 12V SMA ESD and Surge Protection (TVS/ESD) ROHS
+Hongjiacheng
+--
+SMAJ12CA
+C19077532
+20.1A 19.9V 400W 13.3V Bidirectional 12V SMA ESD and Surge Protection (TVS/ESD) ROHS
+Hongjiacheng
+--
+SMAJ13A
+C19077533
+18.6A 400W 21.5V 15.9V Unidirectional 13V SMA ESD and Surge Protection (TVS/ESD) ROHS
+Hongjiacheng
+--
+SMAJ13CA
+C19077534
+18.6A 400W 21.5V 15.9V Bidirectional 13V SMA ESD and Surge Protection (TVS/ESD) ROHS
+Hongjiacheng
+--
+SMAJ15A
+C19077535
+16.4A 400W 24.4V 16.7V Unidirectional 15V SMA ESD and Surge Protection (TVS/ESD) ROHS
+Hongjiacheng
+--
+SMAJ15CA
+C19077536
+16.4A 400W 24.4V 16.7V Bidirectional 15V SMA ESD and Surge Protection (TVS/ESD) ROHS
+Hongjiacheng
+--
+SMAJ16CA
+C19077537
+15.4A 26V 400W 19.7V Bidirectional 16V SMA ESD and Surge Protection (TVS/ESD) ROHS
+Hongjiacheng
+--
+SMAJ18CA
+C19077539
+13.7A 29.2V 400W 22.1V Bidirectional 18V SMA ESD and Surge Protection (TVS/ESD) ROHS
+Hongjiacheng
+--
+SMAJ20CA
+C19077540
+12.3A 400W 32.4V 24.5V Bidirectional 20V SMA ESD and Surge Protection (TVS/ESD) ROHS
+Hongjiacheng
+--
+SMAJ24A
+C19077541
+10.3A 400W 38.9V 29.5V Unidirectional 24V SMA ESD and Surge Protection (TVS/ESD) ROHS
+Hongjiacheng
+--
+SMAJ26A
+C19077543
+9.5A 42.1V 400W 28.9V Unidirectional 26V SMA ESD and Surge Protection (TVS/ESD) ROHS
+Hongjiacheng
+--
+SMAJ28A
+C19077545
+8.8A 45.4V 400W 31.1V Unidirectional 28V SMA ESD and Surge Protection (TVS/ESD) ROHS
+Hongjiacheng
+--
+SMAJ28CA
+C19077546
+8.8A 45.4V 400W 34.4V Bidirectional 28V SMA ESD and Surge Protection (TVS/ESD) ROHS
+Hongjiacheng
+--
+SMAJ30CA
+C19077548
+8.3A 48.4V 400W 36.8V Bidirectional 30V SMA ESD and Surge Protection (TVS/ESD) ROHS
+Hongjiacheng
+--
+SMAJ33CA
+C19077549
+7.5A 400W 53.3V 40.6V Bidirectional 33V SMA ESD and Surge Protection (TVS/ESD) ROHS
+Hongjiacheng
+--
+SMAJ40CA
+C19077552
+6.2A 400W 64.5V 44.4V Bidirectional 40V SMA ESD and Surge Protection (TVS/ESD) ROHS
+Hongjiacheng
+--
+SMAJ48CA
+C19077553
+5.2A 77.4V 400W 58.9V Bidirectional 48V SMA ESD and Surge Protection (TVS/ESD) ROHS
+Hongjiacheng
+--
+SMAJ58A
+C19077554
+4.3A 93.6V 400W 71.2V Unidirectional 58V SMA ESD and Surge Protection (TVS/ESD) ROHS
+Hongjiacheng
+--
+P4SMA6.8CA
+C19077555
+38.1A 10.5V 400W 7.14V Bidirectional 5.8V SMA ESD and Surge Protection (TVS/ESD) ROHS
+Hongjiacheng
+--
+SMBJ3.3A
+C19077556
+75A 600W 8V 6.5V Unidirectional 3.3V SMB ESD and Surge Protection (TVS/ESD) ROHS
+Hongjiacheng
+--
+SMBJ3.3CA
+C19077557
+75A 600W 8V 6.5V Bidirectional 3.3V SMB ESD and Surge Protection (TVS/ESD) ROHS
+Hongjiacheng
+--
+SMBJ5.0A
+C19077558
+65.22A 600W 9.2V 6.4V Unidirectional 5V SMB ESD and Surge Protection (TVS/ESD) ROHS
+Hongjiacheng
+--
+SMBJ5.0CA
+C19077559
+65.22A 600W 9.2V 7V Bidirectional 5V SMB ESD and Surge Protection (TVS/ESD) ROHS
+Hongjiacheng
+--
+SMBJ6.0A
+C19077560
+58.25A 600W 10.3V 7.37V Unidirectional 6V SMB ESD and Surge Protection (TVS/ESD) ROHS
+Hongjiacheng
+--
+SMBJ6.0CA
+C19077561
+58.25A 600W 10.3V 6.67V Bidirectional 6V SMB ESD and Surge Protection (TVS/ESD) ROHS
+Hongjiacheng
+--
+SMBJ7.0A
+C19077563
+50A 600W 12V 8.6V Unidirectional 7V SMB ESD and Surge Protection (TVS/ESD) ROHS
+Hongjiacheng
+--
+SMBJ7.0CA
+C19077564
+50A 600W 12V 8.6V Bidirectional 7V SMB ESD and Surge Protection (TVS/ESD) ROHS
+Hongjiacheng
+--
+SMBJ12A
+C19077565
+30.15A 600W 19.9V 14.7V Unidirectional 12V SMB ESD and Surge Protection (TVS/ESD) ROHS
+Hongjiacheng
+--
+SMBJ12CA
+C19077566
+30.15A 600W 19.9V 13.3V Bidirectional 12V SMB ESD and Surge Protection (TVS/ESD) ROHS
+Hongjiacheng
+--
+SMBJ13A
+C19077567
+27.91A 600W 21.5V 15.9V Unidirectional 13V SMB ESD and Surge Protection (TVS/ESD) ROHS
+Hongjiacheng
+--
+SMBJ13CA
+C19077568
+27.91A 600W 21.5V 15.9V Bidirectional 13V SMB ESD and Surge Protection (TVS/ESD) ROHS
+Hongjiacheng
+--
+SMBJ15A
+C19077569
+24.59A 600W 24.4V 18.5V Unidirectional 15V SMB ESD and Surge Protection (TVS/ESD) ROHS
+Hongjiacheng
+--
+SMBJ15CA
+C19077570
+24.59A 600W 24.4V 18.5V Bidirectional 15V SMB ESD and Surge Protection (TVS/ESD) ROHS
+Hongjiacheng
+--
+SMBJ16A
+C19077571
+23.08A 600W 26V 19.7V Unidirectional 16V SMB ESD and Surge Protection (TVS/ESD) ROHS
+Hongjiacheng
+--
+SMBJ16CA
+C19077572
+23.08A 600W 26V 19.7V Bidirectional 16V SMB ESD and Surge Protection (TVS/ESD) ROHS
+Hongjiacheng
+--
+SMBJ18A
+C19077573
+20.55A 600W 29.2V 22.1V Unidirectional 18V SMB ESD and Surge Protection (TVS/ESD) ROHS
+Hongjiacheng
+--
+SMBJ18CA
+C19077574
+20.55A 600W 29.2V 22.1V Bidirectional 18V SMB ESD and Surge Protection (TVS/ESD) ROHS
+Hongjiacheng
+--
+SMBJ20A
+C19077575
+18.52A 600W 32.4V 24.5V Unidirectional 20V SMB ESD and Surge Protection (TVS/ESD) ROHS
+Hongjiacheng
+--
+SMBJ20CA
+C19077576
+18.52A 600W 32.4V 24.5V Bidirectional 20V SMB ESD and Surge Protection (TVS/ESD) ROHS
+Hongjiacheng
+--
+SMBJ22CA
+C19077577
+16.9A 600W 35.5V 26.9V Bidirectional 22V SMB ESD and Surge Protection (TVS/ESD) ROHS
+Hongjiacheng
+--
+SMBJ24A
+C19077578
+15.42A 600W 38.9V 29.5V Unidirectional 24V SMB ESD and Surge Protection (TVS/ESD) ROHS
+Hongjiacheng
+--
+SMBJ24CA
+C19077579
+15.42A 600W 38.9V 26.7V Bidirectional 24V SMB ESD and Surge Protection (TVS/ESD) ROHS
+Hongjiacheng
+--
+SMBJ26A
+C19077580
+14.25A 600W 42.1V 31.9V Unidirectional 26V SMB ESD and Surge Protection (TVS/ESD) ROHS
+Hongjiacheng
+--
+SMBJ28A
+C19077582
+13.22A 600W 45.4V 31.1V Unidirectional 28V SMB ESD and Surge Protection (TVS/ESD) ROHS
+Hongjiacheng
+--
+SMBJ28CA
+C19077583
+13.22A 600W 45.4V 34.4V Bidirectional 28V SMB ESD and Surge Protection (TVS/ESD) ROHS
+Hongjiacheng
+--
+SMBJ30A
+C19077584
+12.4A 48.4V 600W 33.3V Unidirectional 30V SMB ESD and Surge Protection (TVS/ESD) ROHS
+Hongjiacheng
+--
+SMBJ33A
+C19077586
+11.26A 600W 53.3V 36.7V Unidirectional 33V SMB ESD and Surge Protection (TVS/ESD) ROHS
+Hongjiacheng
+--
+SMBJ33CA
+C19077587
+11.26A 600W 53.3V 36.7V Bidirectional 33V SMB ESD and Surge Protection (TVS/ESD) ROHS
+Hongjiacheng
+--
+SMBJ36CA
+C19077589
+10.33A 58.1V 600W 40V Bidirectional 36V SMB ESD and Surge Protection (TVS/ESD) ROHS
+Hongjiacheng
+--
+SMBJ40CA
+C19077590
+9.3A 600W 64.5V 49.1V Bidirectional 40V SMB ESD and Surge Protection (TVS/ESD) ROHS
+Hongjiacheng
+--
+SMBJ58CA
+C19077592
+6.41A 600W 93.6V 71.2V Bidirectional 58V SMB ESD and Surge Protection (TVS/ESD) ROHS
+Hongjiacheng
+--
+SMBJ60CA
+C19077593
+6.2A 600W 96.8V 73.7V Bidirectional 60V SMB ESD and Surge Protection (TVS/ESD) ROHS
+Hongjiacheng
+--
+SMBJ64A
+C19077594
+5.83A 600W 103V 78.6V Unidirectional 64V SMB ESD and Surge Protection (TVS/ESD) ROHS
+Hongjiacheng
+--
+P6SMB6.8A
+C19077595
+57.1A 600W 10.5V 7.14V Unidirectional 5.8V SMB ESD and Surge Protection (TVS/ESD) ROHS
+Hongjiacheng
+--
+P6SMB15CA
+C19077597
+28.3A 600W 21.2V 15.75V Bidirectional 12.8V SMB ESD and Surge Protection (TVS/ESD) ROHS
+Hongjiacheng
+--
+P6SMB16CA
+C19077598
+26.6A 22.5V 600W 16.8V Bidirectional 13.6V SMB ESD and Surge Protection (TVS/ESD) ROHS
+Hongjiacheng
+--
+P6SMB18CA
+C19077599
+23.8A 600W 25.2V 18.9V Bidirectional 15.3V SMB ESD and Surge Protection (TVS/ESD) ROHS
+Hongjiacheng
+--
+P6SMB30A
+C19077600
+14.5A 600W 41.4V 31.5V Unidirectional 25.6V SMB ESD and Surge Protection (TVS/ESD) ROHS
+Hongjiacheng
+--
+P6SMB30CA
+C19077601
+14.5A 600W 41.4V 31.5V Bidirectional 25.6V SMB ESD and Surge Protection (TVS/ESD) ROHS
+Hongjiacheng
+--
+SMCJ15CA
+C19077603
+61.5A 24.4V 1.5kW 18.5V Bidirectional 15V SMC ESD and Surge Protection (TVS/ESD) ROHS
+Hongjiacheng
+--
+SMCJ24A
+C19077604
+38.6A 1.5kW 38.9V 29.5V Unidirectional 24V SMC ESD and Surge Protection (TVS/ESD) ROHS
+Hongjiacheng
+--
+SMCJ26CA
+C19077605
+35.7A 42.1V 1.5kW 28.9V Bidirectional 26V SMC ESD and Surge Protection (TVS/ESD) ROHS
+Hongjiacheng
+--
+SMCJ28CA
+C19077606
+33.1A 45.4V 1.5kW 34.4V Bidirectional 28V SMC ESD and Surge Protection (TVS/ESD) ROHS
+Hongjiacheng
+--
+SMCJ30CA
+C19077607
+31A 48.4V 1.5kW 36.8V Bidirectional 30V SMC ESD and Surge Protection (TVS/ESD) ROHS
+Hongjiacheng
+--
+SMCJ33CA
+C19077608
+28.2A 53.3V 1.5kW 40.6V Bidirectional 33V SMC ESD and Surge Protection (TVS/ESD) ROHS
+Hongjiacheng
+--
+SMCJ36CA
+C19077609
+25.9A 58.1V 1.5kW 44.2V Bidirectional 36V SMC ESD and Surge Protection (TVS/ESD) ROHS
+Hongjiacheng
+--
+SMCJ40CA
+C19077610
+23.3A 1.5kW 64.5V 49.1V Bidirectional 40V SMC ESD and Surge Protection (TVS/ESD) ROHS
+Hongjiacheng
+--
+SMCJ48A
+C19077611
+19.4A 77.4V 1.5kW 58.9V Unidirectional 48V SMC ESD and Surge Protection (TVS/ESD) ROHS
+Hongjiacheng
+--
+S8050
+C20069125
+25V 300mW 120@50mA,1.0V 500mA NPN SOT-23 Bipolar (BJT) ROHS
+Hongjiacheng
+--
+S8550
+C20069126
+25V 300mW 120@500mA,1.0V 500mA PNP SOT-23 Bipolar (BJT) ROHS
+Hongjiacheng
+--
+S9013
+C20069127
+25V 300mW 120@50mA,1.0V 500mA NPN SOT-23 Bipolar (BJT) ROHS
+Hongjiacheng
+--
+D882
+C20069128
+30V 500mW 60@1.0mA,2.0V 3A NPN SOT-89 Bipolar (BJT) ROHS
+Hongjiacheng
+--
+S9012
+C20069129
+25V 300mW 120@500mA,1.0V 500mA PNP SOT-23 Bipolar (BJT) ROHS
+Hongjiacheng
+--
+S9014
+C20069130
+45V 200mW 200@1.0mA,5.0V 100mA NPN SOT-23 Bipolar (BJT) ROHS
+Hongjiacheng
+--
+S9015
+C20069131
+45V 200mW 200@1.0mA,5.0V 100mA PNP SOT-23 Bipolar (BJT) ROHS
+Hongjiacheng
+--
+BC817-16
+C20069132
+45V 300mW 100@100mA,1.0V 500mA NPN SOT-23 Bipolar (BJT) ROHS
+Hongjiacheng
+--
+BCX56-16
+C20069133
+80V 500mW 40@500mA,2.0V 1A NPN SOT-89 Bipolar (BJT) ROHS
+Hongjiacheng
+--
+BC846B
+C20069134
+65V 200mW 200@2.0mA,5.0V 100mA NPN SOT-23 Bipolar (BJT) ROHS
+Hongjiacheng
+--
+BC847B
+C20069135
+45V 200mW 200@2.0mA,5.0V 100mA NPN SOT-23 Bipolar (BJT) ROHS
+Hongjiacheng
+--
+BC856B
+C20069136
+65V 200mW 220@2.0mA,5.0V 100mA PNP SOT-23 Bipolar (BJT) ROHS
+Hongjiacheng
+--
+BC857C
+C20069137
+45V 200mW 420@2.0mA,5.0V 100mA PNP SOT-23 Bipolar (BJT) ROHS
+Hongjiacheng
+--
+MMBTA42
+C20069138
+300V 350mW 100@10mA,10V 500mA NPN SOT-23 Bipolar (BJT) ROHS
+Hongjiacheng
+--
+MMBTA06
+C20069139
+80V 300mW 100@100mA,1.0V 500mA NPN SOT-23 Bipolar (BJT) ROHS
+Hongjiacheng
+--
+MMBT4403
+C20069140
+40V 300mW 100@10mA,1.0V 600mA PNP SOT-23 Bipolar (BJT) ROHS
+Hongjiacheng
+--
+MMBTA44
+C20069141
+400V 350mW 50@1.0mA,10V 200mA NPN SOT-23 Bipolar (BJT) ROHS
+Hongjiacheng
+--
+BC807-40
+C20069142
+45V 300mW 40@500mA,1.0V 500mA PNP SOT-23 Bipolar (BJT) ROHS
+Hongjiacheng
+--
+2SC1815
+C20069143
+50V 200mW 130@2.0mA,6.0V 150mA NPN SOT-23 Bipolar (BJT) ROHS
+Hongjiacheng
+--
+2SA1213
+C20069144
+50V 500mW 70@500mmA,2.0V 2A PNP SOT-89 Bipolar (BJT) ROHS
+Hongjiacheng
+--
+2SC2873
+C20069145
+50V 500mW 70@500mmA,2.0V 2A NPN SOT-89 Bipolar (BJT) ROHS
+Hongjiacheng
+--
+MMBTA92
+C20069146
+300V 350mW 60@1.0mA,10V 500mA PNP SOT-23 Bipolar (BJT) ROHS
+Hongjiacheng
+--
+MMBTA56
+C20069147
+80V 225mW 100@10mA,1.0V 500mA PNP SOT-23 Bipolar (BJT) ROHS
+Hongjiacheng
+--
+2SK3018
+C20069148
+30V 100mA 8Ω@4.0V,10mA 200mW 1.5V 1PCSNChannel SOT-23 MOSFETs ROHS
+Hongjiacheng
+--
+2SK3018W
+C20069149
+30V 100mA 8Ω@4.0V,10mA 200mW 1.5V 1PCSNChannel SOT-323 MOSFETs ROHS
+Hongjiacheng
+--
+HJ8205
+C20069150
+20V 4.3A 1.25W 0.3Ω@4.0V,4.3A 1V 1PCSNChannel SOT-23-6L MOSFETs ROHS
+Hongjiacheng
+--
+FDV301N
+C20069151
+25V 220mA 4Ω@4.5V,0.2A 350mW 800mV 1PCSNChannel SOT-23 MOSFETs ROHS
+Hongjiacheng
+--
+BC817-25
+C20069154
+45V 300mW 100@100mA,1.0V 500mA NPN SOT-23 Bipolar (BJT) ROHS
+Hongjiacheng
+--
+BC817-40
+C20069155
+45V 300mW 100@100mA,1.0V 500mA NPN SOT-23 Bipolar (BJT) ROHS
+Hongjiacheng
+--
+BCX56-10
+C20069156
+80V 500mW 40@500mA,2.0V 1A NPN SOT-89 Bipolar (BJT) ROHS
+Hongjiacheng
+--
+H3V3L06B
+C20615778
+8A 10V 80W 6V Bidirectional 3.3V DFN0603-2L ESD and Surge Protection (TVS/ESD) ROHS
+Hongjiacheng
+--
+H5VN06B
+C20615779
+8A 100W 12.5V 9V Bidirectional 5V DFN0603-2L ESD and Surge Protection (TVS/ESD) ROHS
+Hongjiacheng
+--
+H5VU06B
+C20615780
+5A 25V 125W 9V Bidirectional 5V DFN0603-2L ESD and Surge Protection (TVS/ESD) ROHS
+Hongjiacheng
+--
+H3V3L10B
+C20615781
+8A 11V 85W 5.5V Bidirectional 3.3V DFN1006-2L ESD and Surge Protection (TVS/ESD) ROHS
+Hongjiacheng
+--
+H3V3U10B
+C20615782
+5A 25V 125W 9V Bidirectional 3.3V DFN1006-2L ESD and Surge Protection (TVS/ESD) ROHS
+Hongjiacheng
+--
+H4V5N10B
+C20615783
+45A 11V 560W 7.5V Bidirectional 4.5V DFN1006-2L ESD and Surge Protection (TVS/ESD) ROHS
+Hongjiacheng
+--
+H5VL10BC
+C20615784
+8A 95W 12V 9V Bidirectional 5V DFN1006-2L ESD and Surge Protection (TVS/ESD) ROHS
+Hongjiacheng
+--
+H5VS10BC
+C20615785
+2A 12V 25W 10V Bidirectional 5V DFN1006-2L ESD and Surge Protection (TVS/ESD) ROHS
+Hongjiacheng
+--
+H5VU10BB
+C20615786
+5A 120W 24V 10V Bidirectional 5V DFN1006-2L ESD and Surge Protection (TVS/ESD) ROHS
+Hongjiacheng
+--
+H7VL10B
+C20615787
+12A 16.7V 200W 10V Bidirectional 7V DFN1006-2L ESD and Surge Protection (TVS/ESD) ROHS
+Hongjiacheng
+--
+H7VN10B
+C20615788
+6A 14V 80W 9.6V Bidirectional 7V DFN1006-2L ESD and Surge Protection (TVS/ESD) ROHS
+Hongjiacheng
+--
+H12VL10B
+C20615790
+8A 25.5V 200W 15.8V Bidirectional 12V DFN1006-2L ESD and Surge Protection (TVS/ESD) ROHS
+Hongjiacheng
+--
+H15VL10B
+C20615791
+8A 320W 40V 19.5V Bidirectional 15V DFN1006-2L ESD and Surge Protection (TVS/ESD) ROHS
+Hongjiacheng
+--
+H15VU10B
+C20615792
+2.5A 90W 35V 21.5V Bidirectional 15V DFN1006-2L ESD and Surge Protection (TVS/ESD) ROHS
+Hongjiacheng
+--
+H5VU13U
+C20615795
+5A 75W 15V 9V Unidirectional 5V DFN1006-3L ESD and Surge Protection (TVS/ESD) ROHS
+Hongjiacheng
+--
+H7VH16U
+C20615796
+115A 2300W 20V 10V Unidirectional 7V DFN1610-2L ESD and Surge Protection (TVS/ESD) ROHS
+Hongjiacheng
+--
+H10VH16U
+C20615797
+72A 1580W 22V 13.5V Unidirectional 10V DFN1610-2L ESD and Surge Protection (TVS/ESD) ROHS
+Hongjiacheng
+--
+H12VH16U
+C20615798
+100A 2.5kW 25V 17.8V Unidirectional 12V DFN1610-2L ESD and Surge Protection (TVS/ESD) ROHS
+Hongjiacheng
+--
+H12VH22U
+C20615799
+210A 6kW 30V 16.5V Unidirectional 12V DFN2020-3L ESD and Surge Protection (TVS/ESD) ROHS
+Hongjiacheng
+--
+H5VU25UC
+C20615800
+5A 75W 15V 10V Unidirectional 5V DFN2510-10L ESD and Surge Protection (TVS/ESD) ROHS
+Hongjiacheng
+--
+H3V3HD3U
+C20615801
+20A 14V 300W 7V Unidirectional 3.3V SOD-323 ESD and Surge Protection (TVS/ESD) ROHS
+Hongjiacheng
+--
+H3V3SD3B
+C20615802
+20A 19V 380W 8V Bidirectional 3.3V SOD-323 ESD and Surge Protection (TVS/ESD) ROHS
+Hongjiacheng
+--
+H4V5HD3B
+C20615803
+40A 400W 10V 7V Bidirectional 4.5V SOD-323 ESD and Surge Protection (TVS/ESD) ROHS
+Hongjiacheng
+--
+H5VHD3BC
+C20615804
+25A 16V 400W 9V Bidirectional 5V SOD-323 ESD and Surge Protection (TVS/ESD) ROHS
+Hongjiacheng
+--
+H5VLD3B
+C20615805
+8A 95W 12V 9V Bidirectional 5V SOD-323 ESD and Surge Protection (TVS/ESD) ROHS
+Hongjiacheng
+--
+H5VSD3B
+C20615806
+25A 20V 500W 9V Bidirectional 5V SOD-323 ESD and Surge Protection (TVS/ESD) ROHS
+Hongjiacheng
+--
+H7VHD3UA
+C20615807
+130A 18V 2340W 9V Unidirectional 7V SOD-323 ESD and Surge Protection (TVS/ESD) ROHS
+Hongjiacheng
+--
+H8VHD3B
+C20615808
+20A 25V 500W 11.5V Bidirectional 8V SOD-323 ESD and Surge Protection (TVS/ESD) ROHS
+Hongjiacheng
+--
+H8VSD3B
+C20615809
+15A 350W 27V 9V Bidirectional 8V SOD-323 ESD and Surge Protection (TVS/ESD) ROHS
+Hongjiacheng
+--
+H12VHD3UA
+C20615810
+100A 2.5kW 25V 16V Unidirectional 12V SOD-323 ESD and Surge Protection (TVS/ESD) ROHS
+Hongjiacheng
+--
+H12VSD3B
+C20615811
+20A 32V 640W 16.5V Bidirectional 12V SOD-323 ESD and Surge Protection (TVS/ESD) ROHS
+Hongjiacheng
+--
+H15VHD3U
+C20615812
+120A 4320W 36V 19.3V Unidirectional 15V SOD-323 ESD and Surge Protection (TVS/ESD) ROHS
+Hongjiacheng
+--
+H15VND3B
+C20615813
+8A 304W 38V 20V Bidirectional 15V SOD-323 ESD and Surge Protection (TVS/ESD) ROHS
+Hongjiacheng
+--
+H15VSD3B
+C20615814
+12A 32V 385W 19.5V Bidirectional 15V SOD-323 ESD and Surge Protection (TVS/ESD) ROHS
+Hongjiacheng
+--
+H24VND3BA
+C20615815
+7A 50V 350W 31V Bidirectional 24V SOD-323 ESD and Surge Protection (TVS/ESD) ROHS
+Hongjiacheng
+--
+H36VND3B
+C20615816
+5A 65V 325W 45V Bidirectional 36V SOD-323 ESD and Surge Protection (TVS/ESD) ROHS
+Hongjiacheng
+--
+H3V3LD5B
+C20615817
+8A 100W 12V 6.5V Bidirectional 3.3V SOD-523 ESD and Surge Protection (TVS/ESD) ROHS
+Hongjiacheng
+--
+H5VND5B
+C20615818
+8A 120W 15V 8V Bidirectional 5V SOD-523 ESD and Surge Protection (TVS/ESD) ROHS
+Hongjiacheng
+--
+H5VND5UB
+C20615819
+9A 165W 18.6V 9V Unidirectional 5V SOD-523 ESD and Surge Protection (TVS/ESD) ROHS
+Hongjiacheng
+--
+H5VUD5BB
+C20615820
+5A 25V 125W 10V Bidirectional 5V SOD-523 ESD and Surge Protection (TVS/ESD) ROHS
+Hongjiacheng
+--
+H7VND5U
+C20615821
+8A 22V 175W 9.5V Unidirectional 7V SOD-523 ESD and Surge Protection (TVS/ESD) ROHS
+Hongjiacheng
+--
+H36VND5U
+C20615822
+4A 65V 260W 45V Unidirectional 36V SOD-523 ESD and Surge Protection (TVS/ESD) ROHS
+Hongjiacheng
+--
+H5VHT2U
+C20615823
+25A 14V 350W 9V Unidirectional 5V SOT-23 ESD and Surge Protection (TVS/ESD) ROHS
+Hongjiacheng
+--
+H5VUT2U
+C20615824
+5A 16V 80W 9V Unidirectional 5V SOT-23 ESD and Surge Protection (TVS/ESD) ROHS
+Hongjiacheng
+--
+H8VNT2B
+C20615825
+20A 25V 500W 12V Bidirectional 8V SOT-23 ESD and Surge Protection (TVS/ESD) ROHS
+Hongjiacheng
+--
+H12VNT2U
+C20615826
+35A 1.26kW 36V 16V Unidirectional 12V SOT-23 ESD and Surge Protection (TVS/ESD) ROHS
+Hongjiacheng
+--
+H24VNT2B
+C20615827
+7A 55V 385W 30V Bidirectional 24V SOT-23 ESD and Surge Protection (TVS/ESD) ROHS
+Hongjiacheng
+--
+H36VLT2B
+C20615828
+4A 75V 300W 45V Bidirectional 36V SOT-23 ESD and Surge Protection (TVS/ESD) ROHS
+Hongjiacheng
+--
+SRV05-4A
+C20615829
+4A 15V 80W 6V Unidirectional 5V SOT-23-6 ESD and Surge Protection (TVS/ESD) ROHS
+Hongjiacheng
+--
+H5VUT3UA
+C20615830
+5A 75W 15V 6V Unidirectional 5V SOT-363 ESD and Surge Protection (TVS/ESD) ROHS
+Hongjiacheng
+--
+H3V3U06B
+C20617908
+5A 25V 125W 9V Bidirectional 3.3V DFN0603-2L ESD and Surge Protection (TVS/ESD) ROHS
+Hongjiacheng
+--
+H3V3N10B
+C20617909
+8A 10V 80W 6V Bidirectional 3.3V DFN1006-2L ESD and Surge Protection (TVS/ESD) ROHS
+Hongjiacheng
+--
+H4S5N10B
+C20617910
+55A 11V 825W 8.5V Bidirectional 4.5V DFN1006-2L ESD and Surge Protection (TVS/ESD) ROHS
+Hongjiacheng
+--
+H5VS10BA
+C20617911
+3.5A 35W 10V 8V Bidirectional 5V DFN1006-2L ESD and Surge Protection (TVS/ESD) ROHS
+Hongjiacheng
+--
+H24VL10B
+C20617912
+8A 60V 480W 31V Bidirectional 24V DFN1006-2L ESD and Surge Protection (TVS/ESD) ROHS
+Hongjiacheng
+--
+H5VH16U
+C20617913
+130A 1950W 15V 9V Unidirectional 5V DFN1610-2L ESD and Surge Protection (TVS/ESD) ROHS
+Hongjiacheng
+--
+H20VH16U
+C20617914
+32A 38V 1200W 25.2V Unidirectional 20V DFN1610-2L ESD and Surge Protection (TVS/ESD) ROHS
+Hongjiacheng
+--
+H3V3HD3B
+C20617915
+25A 375W 15V 8V Bidirectional 3.3V SOD-323 ESD and Surge Protection (TVS/ESD) ROHS
+Hongjiacheng
+--
+H4V5HD3U
+C20617916
+185A 2775W 15V 7V Unidirectional 4.5V SOD-323 ESD and Surge Protection (TVS/ESD) ROHS
+Hongjiacheng
+--
+H5VHD3UA
+C20617917
+130A 2080W 16V 9V Unidirectional 5V SOD-323 ESD and Surge Protection (TVS/ESD) ROHS
+Hongjiacheng
+--
+H5VHD3U
+C20617918
+25A 14V 350W 9V Unidirectional 5V SOD-323 ESD and Surge Protection (TVS/ESD) ROHS
+Hongjiacheng
+--
+H12VHD3U
+C20617919
+35A 1.26kW 36V 15V Unidirectional 12V SOD-323 ESD and Surge Protection (TVS/ESD) ROHS
+Hongjiacheng
+--
+H12VND3B
+C20617920
+35A 1.26kW 36V 16.5V Bidirectional 12V SOD-323 ESD and Surge Protection (TVS/ESD) ROHS
+Hongjiacheng
+--
+H5VUD5U
+C20617921
+5A 75W 15V 9V Unidirectional 5V SOD-523 ESD and Surge Protection (TVS/ESD) ROHS
+Hongjiacheng
+--
+H12VND5U
+C20617922
+15A 24V 360W 16V Unidirectional 12V SOD-523 ESD and Surge Protection (TVS/ESD) ROHS
+Hongjiacheng
+--
+H3V3HT2B
+C20617923
+25A 15V 350W 7V Bidirectional 3.3V SOT-23 ESD and Surge Protection (TVS/ESD) ROHS
+Hongjiacheng
+--
+H3V3HT2U
+C20617924
+25A 280W 14V 7V Unidirectional 3.3V SOT-23 ESD and Surge Protection (TVS/ESD) ROHS
+Hongjiacheng
+--
+H5VNT2B
+C20617925
+8A 95W 12V 8V Bidirectional 5V SOT-23 ESD and Surge Protection (TVS/ESD) ROHS
+Hongjiacheng
+--
+H5VHT2B
+C20617926
+25A 415W 16.7V 8V Bidirectional 5V SOT-23 ESD and Surge Protection (TVS/ESD) ROHS
+Hongjiacheng
+--
+H12VNT2B
+C20617927
+35A 1.26kW 36V 16.5V Bidirectional 12V SOT-23 ESD and Surge Protection (TVS/ESD) ROHS
+Hongjiacheng
+--
+H15VNT2B
+C20617928
+8A 38.5V 300W 19V Bidirectional 15V SOT-23 ESD and Surge Protection (TVS/ESD) ROHS
+Hongjiacheng
+--
+BZT52C11S
+C22375287
+Independent Type 10.4V~11.6V 200mW 11V SOD-323 Zener Diodes ROHS
+Hongjiacheng
+--
+BZT52C22S
+C22375288
+Independent Type 20.8V~23.3V 200mW 22V SOD-323 Zener Diodes ROHS
+Hongjiacheng
+--
+BZT52C24S
+C22375289
+Independent Type 22.8V~25.6V 200mW 24V SOD-323 Zener Diodes ROHS
+Hongjiacheng
+--
+BZT52C2V4S
+C22375290
+Independent Type 200mW 2.2V~2.6V 2.4V SOD-323 Zener Diodes ROHS
+Hongjiacheng
+--
+BZT52C30S
+C22375291
+Independent Type 200mW 28V~32V 30V SOD-323 Zener Diodes ROHS
+Hongjiacheng
+--
+BZT52C33S
+C22375292
+Independent Type 200mW 31V~35V 33V SOD-323 Zener Diodes ROHS
+Hongjiacheng
+--
+BZT52C36S
+C22375293
+Independent Type 200mW 34.2V~37.8V 36V SOD-323 Zener Diodes ROHS
+Hongjiacheng
+--
+BZT52C8V2S
+C22375294
+Independent Type 200mW 7.7V~8.7V 8.2V SOD-323 Zener Diodes ROHS
+Hongjiacheng
+--
+BZT52C22
+C22375295
+Independent Type 20.8V~23.3V 350mW 22V SOD-123 Zener Diodes ROHS
+Hongjiacheng
+--
+BZT52C2V4
+C22375296
+Independent Type 2.2V~2.6V 350mW 2.4V SOD-123 Zener Diodes ROHS
+Hongjiacheng
+--
+BZT52C75
+C22375297
+Independent Type 71.25V~78.75V 350mW 75V SOD-123 Zener Diodes ROHS
+Hongjiacheng
+--
+BZT52C2V7S
+C22375298
+Independent Type 200mW 2.5V~2.9V 2.7V SOD-323 Zener Diodes ROHS
+Hongjiacheng
+--
+BZT52C3V9S
+C22375299
+Independent Type 200mW 3.7V~4.1V 3.9V SOD-323 Zener Diodes ROHS
+Hongjiacheng
+--
+BZT52C27S
+C22375300
+Independent Type 25.1V~28.9V 200mW 27V SOD-323 Zener Diodes ROHS
+Hongjiacheng
+--
+MM3Z5V1B
+C22379454
+Independent Type 5V~5.2V 300mW 5.1V SOD-323 Zener Diodes ROHS
+Hongjiacheng
+--
+MM1Z18B
+C22379455
+Independent Type 17.64V~18.36V 500mW 18V SOD-123 Zener Diodes ROHS
+Hongjiacheng
+--
+MM1Z3V3
+C22379456
+Independent Type 3.1V~3.5V 500mW 3.3V SOD-123 Zener Diodes ROHS
+Hongjiacheng
+--
+MM1Z3V6
+C22379457
+Independent Type 500mW 3.4V~3.8V 3.6V SOD-123 Zener Diodes ROHS
+Hongjiacheng
+--
+MM1Z4V7
+C22379458
+Independent Type 500mW 4.4V~5V 4.7V SOD-123 Zener Diodes ROHS
+Hongjiacheng
+--
+MM1Z12
+C22379459
+Independent Type 11.4V~12.7V 500mW 12V SOD-123 Zener Diodes ROHS
+Hongjiacheng
+--
+MM1Z6V8
+C22379460
+Independent Type 6.4V~7.2V 500mW 6.8V SOD-123 Zener Diodes ROHS
+Hongjiacheng
+--
+MM1Z16
+C22379461
+Independent Type 15.3V~17.1V 500mW 16V SOD-123 Zener Diodes ROHS
+Hongjiacheng
+--
+MM1Z15
+C22379462
+Independent Type 13.8V~15.6V 500mW 15V SOD-123 Zener Diodes ROHS
+Hongjiacheng
+--
+MM1Z3V0
+C22379463
+Independent Type 500mW 2.8V~3.2V 3V SOD-123 Zener Diodes ROHS
+Hongjiacheng
+--
+MM1Z6V2
+C22379464
+Independent Type 500mW 5.8V~6.6V 6.2V SOD-123 Zener Diodes ROHS
+Hongjiacheng
+--
+MM1Z24
+C22379465
+Independent Type 22.8V~25.6V 500mW 24V SOD-123 Zener Diodes ROHS
+Hongjiacheng
+--
+MM1Z18
+C22379466
+Independent Type 17.64V~18.36V 500mW 18V SOD-123 Zener Diodes ROHS
+Hongjiacheng
+--
+MM1Z20
+C22379467
+Independent Type 500mW 18.8V~21.2V 20V SOD-123 Zener Diodes ROHS
+Hongjiacheng
+--
+MM1Z2V7
+C22379468
+Independent Type 2.5V~2.9V 500mW 2.7V SOD-123 Zener Diodes ROHS
+Hongjiacheng
+--
+MM1Z27
+C22379469
+Independent Type 25.1V~28.9V 500mW 27V SOD-123 Zener Diodes ROHS
+Hongjiacheng
+--
+BZX84C7V5
+C22379470
+Independent Type 300mW 7V~7.9V 7.5V SOT-23 Zener Diodes ROHS
+Hongjiacheng
+--
+BZX84C16
+C22379471
+Independent Type 300mW 15.3V~17.1V 16V SOT-23 Zener Diodes ROHS
+Hongjiacheng
+--
+BZX84C30
+C22379472
+Independent Type 300mW 28V~32V 30V SOT-23 Zener Diodes ROHS
+Hongjiacheng
+--
+BZX84C6V8
+C22379473
+Independent Type 6.4V~7.2V 300mW 6.8V SOT-23 Zener Diodes ROHS
+Hongjiacheng
+--
+BZX84C33
+C22379474
+Independent Type 300mW 31V~35V 33V SOT-23 Zener Diodes ROHS
+Hongjiacheng
+--
+2N7002K
+C22379475
+60V 340mA 350mW 900mΩ@10V,500mA 2.5V@1mA 1PCSNChannel SOT-23 MOSFETs ROHS
+Hongjiacheng
+--
+MMST3904
+C22388837
+40V 200mW 40@0.1mA,1.0V 200mA NPN SOT-323 Bipolar (BJT) ROHS
+Hongjiacheng
+--
+BAT54CW
+C22392482
+30V 1 pair of common cathodes 200mA 1V@100mA SOT-323 Schottky Diodes ROHS
+Hongjiacheng
+--
+H12VS06B
+C22395515
+3.5A 85W 24V 12V Bidirectional 12V DFN0603-2L ESD and Surge Protection (TVS/ESD) ROHS
+Hongjiacheng
+--
+H24VN10U
+C22395516
+5A 220W 44V 30V Unidirectional 24V DFN1006-2L ESD and Surge Protection (TVS/ESD) ROHS
+Hongjiacheng
+--
+H4V5H16U
+C22395517
+185A 2775W 15V 7V Unidirectional 4.5V DFN1610-2L ESD and Surge Protection (TVS/ESD) ROHS
+Hongjiacheng
+--
+H4V5H22B
+C22395518
+280A 5880W 21V 6V Bidirectional 4.5V DFN2020-3L ESD and Surge Protection (TVS/ESD) ROHS
+Hongjiacheng
+--
+H5VU10U
+C22395519
+5A 55W 16V 9V Unidirectional 5V DFN1006-2L ESD and Surge Protection (TVS/ESD) ROHS
+Hongjiacheng
+--
+H5VUT1B
+C22395520
+5A 75W 15V 6V Bidirectional 5V SOT-143 ESD and Surge Protection (TVS/ESD) ROHS
+Hongjiacheng
+--
+BZX84C4V7
+C22395521
+Independent Type 300mW 4.4V~5V 4.7V SOT-23 Zener Diodes ROHS
+Hongjiacheng
+--
+BZX84C8V2
+C22395522
+Independent Type 300mW 7.7V~8.7V 8.2V SOT-23 Zener Diodes ROHS
+Hongjiacheng
+--
+MM1W3V3
+C22395523
+Independent Type 3.1V~3.5V 1W 3.3V SOD-123 Zener Diodes ROHS
+Hongjiacheng
+--
+MM1W3V6
+C22395524
+Independent Type 1W 3.4V~3.8V 3.6V SOD-123 Zener Diodes ROHS
+Hongjiacheng
+--
+MM1W3V9
+C22395525
+Independent Type 1W 3.7V~4.1V 3.9V SOD-123 Zener Diodes ROHS
+Hongjiacheng
+--
+MM1W5V1
+C22395526
+Independent Type 4.84V~5.36V 1W 5.1V SOD-123 Zener Diodes ROHS
+Hongjiacheng
+--
+MM1W10
+C22395527
+Independent Type 9.5V~10.5V 1W 10V SOD-123 Zener Diodes ROHS
+Hongjiacheng
+--
+MM1W11
+C22395528
+Independent Type 10.4V~11.6V 1W 11V SOD-123 Zener Diodes ROHS
+Hongjiacheng
+--
+MM1W18
+C22395529
+Independent Type 16.8V~19.2V 1W 18V SOD-123 Zener Diodes ROHS
+Hongjiacheng
+--
+MM1W22
+C22395530
+Independent Type 20.8V~23.3V 1W 22V SOD-123 Zener Diodes ROHS
+Hongjiacheng
+--
+MM1W24
+C22395531
+Independent Type 22.8V~26V 1W 24V SOD-123 Zener Diodes ROHS
+Hongjiacheng
+--
+MM1W30
+C22395532
+Independent Type 28.2V~32V 1W 30V SOD-123 Zener Diodes ROHS
+Hongjiacheng
+--
+MM1W82
+C22395533
+Independent Type 77.9V~87V 1W 82V SOD-123 Zener Diodes ROHS
+Hongjiacheng
+--
+MM1Z2V0B
+C22395534
+Independent Type 500mW 1.96V~2.04V 2V SOD-123 Zener Diodes ROHS
+Hongjiacheng
+--
+MM1Z2V7B
+C22395535
+Independent Type 2.16V~2.24V 500mW 2.7V SOD-123 Zener Diodes ROHS
+Hongjiacheng
+--
+MM1Z5V6B
+C22395536
+Independent Type 500mW 5.49V~5.71V 5.6V SOD-123 Zener Diodes ROHS
+Hongjiacheng
+--
+MM1Z7V5B
+C22395537
+Independent Type 7.35V~7.65V 500mW 7.5V SOD-123 Zener Diodes ROHS
+Hongjiacheng
+--
+MM1Z5V1
+C22395538
+Independent Type 4.8V~5.4V 500mW 5.1V SOD-123 Zener Diodes ROHS
+Hongjiacheng
+--
+MM1Z5V6
+C22395539
+Independent Type 5.2V~6V 500mW 5.6V SOD-123 Zener Diodes ROHS
+Hongjiacheng
+--
+MM1Z62
+C22395540
+Independent Type 58V~66V 500mW 62V SOD-123 Zener Diodes ROHS
+Hongjiacheng
+--
+MM1W75
+C22395541
+Independent Type 71.2V~78.8V 1W 75V SOD-123 Zener Diodes ROHS
+Hongjiacheng
+--
+MM3Z51
+C22395542
+Independent Type 48V~54V 200mW 51V SOD-323 Zener Diodes ROHS
+Hongjiacheng
+--
+MMBZ5226B
+C22395543
+Independent Type 3.14V~3.47V 300mW 3.3V SOT-23 Zener Diodes ROHS
+Hongjiacheng
+--
+MMSZ4685
+C22395546
+Independent Type 3.42V~3.78V 350mW 3.6V SOD-123 Zener Diodes ROHS
+Hongjiacheng
+--
+MMSZ4688
+C22395547
+Independent Type 4.47V~4.94V 350mW 4.7V SOD-123 Zener Diodes ROHS
+Hongjiacheng
+--
+MMSZ4691
+C22395549
+Independent Type 5.89V~6.51V 350mW 6.2V SOD-123 Zener Diodes ROHS
+Hongjiacheng
+--
+MMSZ4692
+C22395550
+Independent Type 6.46V~7.14V 350mW 6.8V SOD-123 Zener Diodes ROHS
+Hongjiacheng
+--
+MMSZ4699
+C22395551
+Independent Type 11.4V~12.6V 350mW 12V SOD-123 Zener Diodes ROHS
+Hongjiacheng
+--
+MMSZ5227B
+C22395553
+Independent Type 3.42V~3.78V 500mW 3.6V SOD-123 Zener Diodes ROHS
+Hongjiacheng
+--
+MMSZ5230B
+C22395554
+Independent Type 4.47V~4.94V 500mW 4.7V SOD-123 Zener Diodes ROHS
+Hongjiacheng
+--
+MMSZ5234B
+C22395555
+Independent Type 500mW 5.89V~6.51V 6.2V SOD-123 Zener Diodes ROHS
+Hongjiacheng
+--
+MMSZ5236B
+C22395556
+Independent Type 7.13V~7.88V 500mW 7.5V SOD-123 Zener Diodes ROHS
+Hongjiacheng
+--
+MMSZ5237B
+C22395557
+Independent Type 7.79V~8.61V 500mW 8.2V SOD-123 Zener Diodes ROHS
+Hongjiacheng
+--
+MMSZ5239B
+C22395558
+Independent Type 8.65V~9.56V 500mW 9.1V SOD-123 Zener Diodes ROHS
+Hongjiacheng
+--
+MMSZ5241B
+C22395559
+Independent Type 500mW 10.45V~11.55V 11V SOD-123 Zener Diodes ROHS
+Hongjiacheng
+--
+MMSZ5251B
+C22395560
+Independent Type 500mW 20.9V~23.1V 22V SOD-123 Zener Diodes ROHS
+Hongjiacheng
+--
+MMSZ5254B
+C22395561
+Independent Type 25.65V~28.35V 500mW 27V SOD-123 Zener Diodes ROHS
+Hongjiacheng
+--
+MMSZ5231BS
+C22395562
+Independent Type 200mW 4.85V~5.36V 5.1V SOD-323 Zener Diodes ROHS
+Hongjiacheng
+--
+MMSZ5232BS
+C22395563
+Independent Type 5.32V~5.88V 200mW 5.6V SOD-323 Zener Diodes ROHS
+Hongjiacheng
+--
+MMSZ5239BS
+C22395564
+Independent Type 200mW 8.65V~9.56V 9.1V SOD-323 Zener Diodes ROHS
+Hongjiacheng
+--
+MMSZ5246BS
+C22395565
+Independent Type 200mW 15.2V~16.8V 16V SOD-323 Zener Diodes ROHS
+Hongjiacheng
+--
+MMSZ5248BS
+C22395566
+Independent Type 200mW 17.1V~18.9V 18V SOD-323 Zener Diodes ROHS
+Hongjiacheng
+--
+MMSZ5250BS
+C22395567
+Independent Type 19V~21V 200mW 20V SOD-323 Zener Diodes ROHS
+Hongjiacheng
+--
+BZT52B10
+C22395568
+Independent Type 9.8V~10.2V 500mW 10V SOD-123 Zener Diodes ROHS
+Hongjiacheng
+--
+BZT52B12
+C22395569
+Independent Type 11.76V~12.24V 500mW 12V SOD-123 Zener Diodes ROHS
+Hongjiacheng
+--
+BZT52B15
+C22395570
+Independent Type 14.7V~15.3V 500mW 15V SOD-123 Zener Diodes ROHS
+Hongjiacheng
+--
+BZT52C43
+C22395571
+Independent Type 40.85V~45.15V 350mW 43V SOD-123 Zener Diodes ROHS
+Hongjiacheng
+--
+BZT52B12S
+C22395572
+Independent Type 200mW 11.76V~12.24V 12V SOD-323 Zener Diodes ROHS
+Hongjiacheng
+--
+BZX584C2V4
+C22395573
+Independent Type 2.2V~2.6V 150mW 2.4V SOD-523 Zener Diodes ROHS
+Hongjiacheng
+--
+BZX584C3V6
+C22395574
+Independent Type 150mW 3.4V~3.8V 3.6V SOD-523 Zener Diodes ROHS
+Hongjiacheng
+--
+BZX584C3V9
+C22395575
+Independent Type 150mW 3.7V~4.1V 3.9V SOD-523 Zener Diodes ROHS
+Hongjiacheng
+--
+BZX584C4V3
+C22395576
+Independent Type 4V~4.6V 150mW 4.3V SOD-523 Zener Diodes ROHS
+Hongjiacheng
+--
+BZX584C10
+C22395577
+Independent Type 9.4V~10.6V 150mW 10V SOD-523 Zener Diodes ROHS
+Hongjiacheng
+--
+BZX584C11
+C22395578
+Independent Type 10.4V~11.6V 150mW 11V SOD-523 Zener Diodes ROHS
+Hongjiacheng
+--
+BZX584C12
+C22395579
+Independent Type 11.4V~12.7V 150mW 12V SOD-523 Zener Diodes ROHS
+Hongjiacheng
+--
+BZX584C13
+C22395580
+Independent Type 12.4V~14.1V 150mW 13V SOD-523 Zener Diodes ROHS
+Hongjiacheng
+--
+BZX584C18
+C22395581
+Independent Type 16.8V~19.1V 150mW 18V SOD-523 Zener Diodes ROHS
+Hongjiacheng
+--
+BZX584C39
+C22395582
+Independent Type 37V~41V 150mW 39V SOD-523 Zener Diodes ROHS
+Hongjiacheng
+--
+BZT52B5V6
+C22399881
+Independent Type 500mW 5.49V~5.71V 5.6V SOD-123 Zener Diodes ROHS
+Hongjiacheng
+--
+BZT52B8V2
+C22399882
+Independent Type 8.04V~8.36V 500mW 8.2V SOD-123 Zener Diodes ROHS
+Hongjiacheng
+--
+BZT52B13
+C22399883
+Independent Type 12.74V~13.26V 500mW 13V SOD-123 Zener Diodes ROHS
+Hongjiacheng
+--
+BZT52B8V2S
+C22399884
+Independent Type 200mW 8.04V~8.36V 8.2V SOD-323 Zener Diodes ROHS
+Hongjiacheng
+--
+BZT52B9V1S
+C22399885
+Independent Type 8.92V~9.28V 200mW 9.1V SOD-323 Zener Diodes ROHS
+Hongjiacheng
+--
+BZT52B10S
+C22399886
+Independent Type 9.8V~10.2V 200mW 10V SOD-323 Zener Diodes ROHS
+Hongjiacheng
+--
+BZT52C47
+C22399887
+Independent Type 44.65V~49.35V 350mW 47V SOD-123 Zener Diodes ROHS
+Hongjiacheng
+--
+BZT52C4V3S
+C22399888
+Independent Type 200mW 4V~4.6V 4.3V SOD-323 Zener Diodes ROHS
+Hongjiacheng
+--
+BZT52C13S
+C22399889
+Independent Type 200mW 12.4V~14.1V 13V SOD-323 Zener Diodes ROHS
+Hongjiacheng
+--
+MM3Z15
+C22399890
+Independent Type 200mW 13.8V~15.6V 15V SOD-323 Zener Diodes ROHS
+Hongjiacheng
+--
+MM3Z4V7
+C22399891
+Independent Type 200mW 4.4V~5V 4.7V SOD-323 Zener Diodes ROHS
+Hongjiacheng
+--
+MM3Z56
+C22399892
+Independent Type 52V~60V 200mW 56V SOD-323 Zener Diodes ROHS
+Hongjiacheng
+--
+MM3Z9V1
+C22399893
+Independent Type 8.5V~9.6V 200mW 9.1V SOD-323 Zener Diodes ROHS
+Hongjiacheng
+--
+MMSZ5225B
+C22399894
+Independent Type 2.85V~3.15V 500mW 3V SOD-123 Zener Diodes ROHS
+Hongjiacheng
+--
+MMSZ5228B
+C22399895
+Independent Type 3.71V~4.1V 500mW 3.9V SOD-123 Zener Diodes ROHS
+Hongjiacheng
+--
+MMSZ5229B
+C22399896
+Independent Type 500mW 4.09V~4.52V 4.3V SOD-123 Zener Diodes ROHS
+Hongjiacheng
+--
+MMSZ5238B
+C22399897
+Independent Type 8.27V~9.14V 500mW 8.7V SOD-123 Zener Diodes ROHS
+Hongjiacheng
+--
+MMSZ5257B
+C22399898
+Independent Type 500mW 31.35V~34.65V 33V SOD-123 Zener Diodes ROHS
+Hongjiacheng
+--
+MMSZ5258B
+C22399899
+Independent Type 34.2V~37.8V 500mW 36V SOD-123 Zener Diodes ROHS
+Hongjiacheng
+--
+MMSZ5259B
+C22399900
+Independent Type 37.05V~40.95V 500mW 39V SOD-123 Zener Diodes ROHS
+Hongjiacheng
+--
+MM1W5V6
+C22435086
+Independent Type 5.32V~5.92V 1W 5.6V SOD-123 Zener Diodes ROHS
+Hongjiacheng
+--
+MM1W6V8
+C22435087
+Independent Type 6.46V~7.18V 1W 6.8V SOD-123 Zener Diodes ROHS
+Hongjiacheng
+--
+MM1W91
+C22435088
+Independent Type 86V~96V 1W 91V SOD-123 Zener Diodes ROHS
+Hongjiacheng
+--
+MM1W36
+C22435089
+Independent Type 34.2V~37.9V 1W 36V SOD-123 Zener Diodes ROHS
+Hongjiacheng
+--
+MM1W100
+C22435090
+Independent Type 95V~105V 1W 100V SOD-123 Zener Diodes ROHS
+Hongjiacheng
+--
+MM1W6V2
+C22435091
+Independent Type 5.86V~6.51V 1W 6.2V SOD-123 Zener Diodes ROHS
+Hongjiacheng
+--
+MM1W12
+C22435092
+Independent Type 11.4V~12.6V 1W 12V SOD-123 Zener Diodes ROHS
+Hongjiacheng
+--
+MM1W20
+C22435093
+Independent Type 19V~21.2V 1W 20V SOD-123 Zener Diodes ROHS
+Hongjiacheng
+--
+MM1W9V1
+C22435094
+Independent Type 8.6V~9.59V 1W 9.1V SOD-123 Zener Diodes ROHS
+Hongjiacheng
+--
+MM1W15
+C22435095
+Independent Type 13.8V~15.8V 1W 15V SOD-123 Zener Diodes ROHS
+Hongjiacheng
+--
+MM1W4V7
+C22435096
+Independent Type 1W 4.5V~4.93V 4.7V SOD-123 Zener Diodes ROHS
+Hongjiacheng
+--
+MM1W7V5
+C22435097
+Independent Type 7.12V~7.88V 1W 7.5V SOD-123 Zener Diodes ROHS
+Hongjiacheng
+--
+MM1W8V2
+C22435098
+Independent Type 7.79V~8.67V 1W 8.2V SOD-123 Zener Diodes ROHS
+Hongjiacheng
+--
+MM1Z62B
+C22466338
+Independent Type 60.76V~63.24V 500mW 62V SOD-123 Zener Diodes ROHS
+Hongjiacheng
+--
+MM1Z30B
+C22466339
+Independent Type 29.4V~30.6V 500mW 30V SOD-123 Zener Diodes ROHS
+Hongjiacheng
+--
+MM1Z3V3B
+C22466340
+Independent Type 3.23V~3.37V 500mW 3.3V SOD-123 Zener Diodes ROHS
+Hongjiacheng
+--
+MM1Z10B
+C22466341
+Independent Type 9.8V~10.2V 500mW 10V SOD-123 Zener Diodes ROHS
+Hongjiacheng
+--
+MM1Z12B
+C22466342
+Independent Type 11.76V~12.24V 500mW 12V SOD-123 Zener Diodes ROHS
+Hongjiacheng
+--
+MM1Z5V1B
+C22466343
+Independent Type 5V~5.2V 500mW 5.1V SOD-123 Zener Diodes ROHS
+Hongjiacheng
+--
+MM1Z6V2B
+C22466344
+Independent Type 6.08V~6.32V 500mW 6.2V SOD-123 Zener Diodes ROHS
+Hongjiacheng
+--
+MM1Z47B
+C22466345
+Independent Type 46.06V~47.94V 500mW 47V SOD-123 Zener Diodes ROHS
+Hongjiacheng
+--
+SD107WS
+C22466346
+30V Independent Type 800mV@100mA 100mA SOD-323 Schottky Diodes ROHS
+Hongjiacheng
+--
+DSL34
+C22466347
+40V Independent Type 450mV@3A 4A SOD-123FL Schottky Diodes ROHS
+Hongjiacheng
+--
+DSL16
+C22466348
+60V Independent Type 1A 500mV@1A SOD-123FL Schottky Diodes ROHS
+Hongjiacheng
+--
+DSL14
+C22466349
+40V Independent Type 1A 450mV@1A SOD-123FL Schottky Diodes ROHS
+Hongjiacheng
+--
+BAT54C
+C22466350
+30V Independent Type 200mA 1V@100mA SOT-23 Schottky Diodes ROHS
+Hongjiacheng
+--
+DSK16
+C22466351
+60V Independent Type 1A 700mV@1A SOD-123FL Schottky Diodes ROHS
+Hongjiacheng
+--
+DSK24
+C22466352
+40V Independent Type 550mV@2A 2A SOD-123FL Schottky Diodes ROHS
+Hongjiacheng
+--
+DSK36
+C22466353
+60V Independent Type 700mV@3A 3A SOD-123FL Schottky Diodes ROHS
+Hongjiacheng
+--
+DSK110
+C22466354
+100V Independent Type 850mV@1A 1A SOD-123FL Schottky Diodes ROHS
+Hongjiacheng
+--
+DSK120
+C22466355
+200V Independent Type 1A 900mV@1A SOD-123FL Schottky Diodes ROHS
+Hongjiacheng
+--
+DSK12
+C22466356
+20V Independent Type 550mV@1A 1A SOD-123FL Schottky Diodes ROHS
+Hongjiacheng
+--
+SD103AWT
+C22466357
+40V Independent Type 600mV@200mA 350mA SOD-523 Schottky Diodes ROHS
+Hongjiacheng
+--
+BAT43W
+C22466358
+30V Independent Type 200mA 450mV@15mA SOD-123 Schottky Diodes ROHS
+Hongjiacheng
+--
+1SS357
+C22466359
+45V Independent Type 600mV@100mA 100mA SOD-323 Schottky Diodes ROHS
+Hongjiacheng
+--
+BAT42WS
+C22466360
+30V Independent Type 200mA 650mV@50mA SOD-323 Schottky Diodes ROHS
+Hongjiacheng
+--
+B5818WS
+C22466361
+30V Independent Type 550mV@1A 1A SOD-323 Schottky Diodes ROHS
+Hongjiacheng
+--
+BAT42W
+C22466362
+30V Independent Type 200mA 650mV@50mA SOD-123 Schottky Diodes ROHS
+Hongjiacheng
+--
+SD103CWS
+C22466363
+20V Independent Type 600mV@200mA 350mA SOD-323 Schottky Diodes ROHS
+Hongjiacheng
+--
+BAS70-06
+C22466364
+70V Independent Type 1V@15mA 70mA SOT-23 Schottky Diodes ROHS
+Hongjiacheng
+--
+B5818W
+C22466365
+30V Independent Type 550mV@1A 1A SOD-123 Schottky Diodes ROHS
+Hongjiacheng
+--
+BAS70W-05
+C22466366
+70V Independent Type 1V@15mA 70mA SOT-323 Schottky Diodes ROHS
+Hongjiacheng
+--
+BAT46X
+C22466367
+100V Independent Type 150mA 1V@250mA SOD-523 Schottky Diodes ROHS
+Hongjiacheng
+--
+BAT54
+C22466368
+30V Independent Type 200mA 1V@100mA SOT-23 Schottky Diodes ROHS
+Hongjiacheng
+--
+1SS389
+C22466369
+10V Independent Type 500mV@100mA 100mA SOD-523 Schottky Diodes ROHS
+Hongjiacheng
+--
+BAS40X
+C22466370
+40V Independent Type 200mA 1V@40mA SOD-523 Schottky Diodes ROHS
+Hongjiacheng
+--
+BAT720
+C22466371
+40V Independent Type 500mA 550mV@500mA SOT-23 Schottky Diodes ROHS
+Hongjiacheng
+--
+RB520S-40
+C22466372
+40V Independent Type 200mA 550mV@100mA SOD-523 Schottky Diodes ROHS
+Hongjiacheng
+--
+BAT54SW
+C22466373
+30V 1 pair in series 200mA 1V@100mA SOT-323 Schottky Diodes ROHS
+Hongjiacheng
+--
+BAT54AW
+C22466374
+30V 1 pair common anode 200mA 1V@100mA SOT-323 Schottky Diodes ROHS
+Hongjiacheng
+--
+B1040WS
+C22466375
+40V Independent Type 1A 530mV@700mA SOD-323 Schottky Diodes ROHS
+Hongjiacheng
+--
+BAT54TW
+C22466376
+30V 3 Independent 200mA 1V@100mA SOT-363 Schottky Diodes ROHS
+Hongjiacheng
+--
+B1040W
+C22466377
+40V Independent Type 1A 550mV@700mA SOD-123 Schottky Diodes ROHS
+Hongjiacheng
+--
+HL3400
+C22469448
+30V 5.6A 1.2W 21mΩ@10V,5.6A 900mV@250uA 1 N-Channel SOT-23 MOSFETs ROHS
+Hongjiacheng
+--
+HL3401
+C22469449
+30V 4.4A 1.2W 55mΩ@10V,4.4A 900mV@250uA 1 Piece P-Channel SOT-23 MOSFETs ROHS
+Hongjiacheng
+--
+BAS40WS
+C28646260
+40V Independent Type 200mA 1V@40mA SOD-323 Schottky Diodes ROHS
+Hongjiacheng
+--
+HL2305
+C28646261
+12V 3.6A 30mΩ@4.5V,2.6A 1.25W 900mV@250uA 1 Piece P-Channel SOT-23 MOSFETs ROHS
+Hongjiacheng
+--
+HL2306
+C28646262
+30V 3.5A 1.25W 29.5mΩ@10V,3A 2.2V@250uA 1 N-Channel SOT-23 MOSFETs ROHS
+Hongjiacheng
+--
+HL2309
+C28646263
+60V 1.25A 340mΩ@10V,1.25A 1.25W 3V@250uA 1 Piece P-Channel SOT-23 MOSFETs ROHS
+Hongjiacheng
+--
+HL6042
+C28646264
+20V 4A 1.5W 43mΩ@4.5V,4A 900mV@250uA 1 Piece P-Channel SOT-23 MOSFETs ROHS
+Hongjiacheng
+--
+BSS138W
+C28646265
+50V 220mA 3.5Ω@10V,0.22A 300mW 1.5V@250uA 1 N-Channel SOT-323 MOSFETs ROHS
+Hongjiacheng
+--
+2SC3356
+C28646266
+12V 200mW 250@20mA,10V 100mA NPN SOT-23 Bipolar (BJT) ROHS
+Hongjiacheng
+--
+2SC4672
+C28646267
+50V 500mW 390@500mA,2V 2A NPN SOT-89 Bipolar (BJT) ROHS
+Hongjiacheng
+--
+HL2302
+C28646268
+20V 3A 700mW 55mΩ@4.5V,2.5A 750mV@250uA 1 N-Channel SOT-23 MOSFETs ROHS
+Hongjiacheng
+--
+HL3407A
+C28646269
+30V 4.1A 1.2W 55mΩ@10V,4.1A 2.4V@250uA 1 Piece P-Channel SOT-23 MOSFETs ROHS
+Hongjiacheng
+--
+HL3415A
+C28646270
+20V 5.6A 42mΩ@4.5V,5A 1.3W 620mV@250uA 1 Piece P-Channel SOT-23 MOSFETs ROHS
+Hongjiacheng
+--
+HL3402
+C28646271
+30V 2.5A 50mΩ@10V,2.5A 1W 1.5V@250uA 1 N-Channel SOT-23 MOSFETs ROHS
+Hongjiacheng
+--
+HL2312
+C28646272
+20V 5.5A 1.2W 25mΩ@4.5V,4.5A 620mV@250uA 1 N-Channel SOT-23 MOSFETs ROHS
+Hongjiacheng
+--
+HL3416
+C28646273
+20V 6.5A 22mΩ@4.5V,6.5A 1.3W 620mV@250uA 1 N-Channel SOT-23 MOSFETs ROHS
+Hongjiacheng
+--
+HL2307
+C28646274
+30V 2.6A 90mΩ@10V,2.6A 1W 2.2V@250uA 1 Piece P-Channel SOT-23 MOSFETs ROHS
+Hongjiacheng
+--
+FMMT493
+C28646275
+100V 500mW 100@1mA,10V 1A NPN SOT-23 Bipolar (BJT) ROHS
+Hongjiacheng
+--
+2SC2884
+C28646276
+30V 500mW 320@100mA,1V 800mA NPN SOT-89 Bipolar (BJT) ROHS
+Hongjiacheng
+--
+SSL34B
+C28646277
+40V Independent Type 450mV@3A 3A SMB Schottky Diodes ROHS
+Hongjiacheng
+--
+SSL54B
+C28646278
+40V Independent Type 450mV@5A 5A SMB Schottky Diodes ROHS
+Hongjiacheng
+--
+SSL56B
+C28646279
+60V Independent Type 500mV@5A 5A SMB Schottky Diodes ROHS
+Hongjiacheng
+--
+SSL24B
+C28646280
+40V Independent Type 450mV@2A 2A SMB Schottky Diodes ROHS
+Hongjiacheng
+--
+SSL36F
+C28646281
+60V Independent Type 3A 500mV@3A SMAF Schottky Diodes ROHS
+Hongjiacheng
+--
+SSL34F
+C28646282
+40V Independent Type 450mV@3A 3A SMAF Schottky Diodes ROHS
+Hongjiacheng
+--
+SSL54F
+C28646283
+40V Independent Type 450mV@5A 5A SMAF Schottky Diodes ROHS
+Hongjiacheng
+--
+SSL345F
+C28646284
+45V Independent Type 450mV@3A 3A SMAF Schottky Diodes ROHS
+Hongjiacheng
+--
+SSL36
+C28646286
+60V Independent Type 3A 500mV@3A SMA Schottky Diodes ROHS
+Hongjiacheng
+--
+DSK115
+C28646287
+150V Independent Type 850mV@1A 1A SOD-123FL Schottky Diodes ROHS
+Hongjiacheng
+--
+DSK220
+C28646288
+200V Independent Type 950mV@2A 2A SOD-123FL Schottky Diodes ROHS
+Hongjiacheng
+--
+DSK310
+C28646289
+100V Independent Type 3A 850mV@3A SOD-123FL Schottky Diodes ROHS
+Hongjiacheng
+--
+DSK22
+C28646290
+20V Independent Type 550mV@2A 2A SOD-123FL Schottky Diodes ROHS
+Hongjiacheng
+--
+DSK38
+C28646291
+80V Independent Type 3A 850mV@3A SOD-123FL Schottky Diodes ROHS
+Hongjiacheng
+--
+DSK320
+C28646292
+200V Independent Type 3A 950mV@3A SOD-123FL Schottky Diodes ROHS
+Hongjiacheng
+--
+SK84C
+C28646293
+40V Independent Type 8A 550mV@8A SMC Schottky Diodes ROHS
+Hongjiacheng
+--
+SS33
+C28646294
+30V Independent Type 3A 550mV@3A SMA Schottky Diodes ROHS
+Hongjiacheng
+--
+SS215
+C28646295
+150V Independent Type 950mV@2A 2A SMA Schottky Diodes ROHS
+Hongjiacheng
+--
+SS515C
+C28646296
+150V Independent Type 950mV@5A 5A SMC Schottky Diodes ROHS
+Hongjiacheng
+--
+SS320C
+C28646297
+200V Independent Type 3A 950mV@3A SMC Schottky Diodes ROHS
+Hongjiacheng
+--
+SS28
+C28646298
+80V Independent Type 2A 850mV@2A SMA Schottky Diodes ROHS
+Hongjiacheng
+--
+SK810B
+C28646299
+100V Independent Type 8A 850mV@8A SMB Schottky Diodes ROHS
+Hongjiacheng
+--
+SK1045B
+C28646300
+45V Independent Type 10A 550mV@10A SMB Schottky Diodes ROHS
+Hongjiacheng
+--
+SK106B
+C28646301
+60V Independent Type 10A 700mV@10A SMB Schottky Diodes ROHS
+Hongjiacheng
+--
+SS220B
+C28646302
+200V Independent Type 950mV@2A 2A SMB Schottky Diodes ROHS
+Hongjiacheng
+--
+SS18
+C28646303
+80V Independent Type 850mV@1A 1A SMA Schottky Diodes ROHS
+Hongjiacheng
+--
+BCP56-16
+C41375109
+80V 1.33W 250@150mA,2V 1A NPN SOT-223 Bipolar (BJT) ROHS
+Hongjiacheng
+--
+BCP53-16
+C41375110
+80V 1.5W 250@150mA,3V 1A PNP SOT-223 Bipolar (BJT) ROHS
+Hongjiacheng
+--
+BCP51-16
+C41375111
+SOT-223 Bipolar (BJT) ROHS
+Hongjiacheng
+--
+FZT955
+C41375112
+SOT-223 Bipolar (BJT) ROHS
+Hongjiacheng
+--
+MMBTA94
+C41375113
+400V 350mW 300@10mA,10V 200mA PNP SOT-23 Bipolar (BJT) ROHS
+Hongjiacheng
+--
+MMBTA05
+C41375114
+60V 300mW 400@10mA,1V 500mA NPN SOT-23 Bipolar (BJT) ROHS
+Hongjiacheng
+--
+MMBTA55
+C41375115
+60V 225mW 400@10mA,1V 500mA PNP SOT-23 Bipolar (BJT) ROHS
+Hongjiacheng
+--
+MMDT5551
+C41375116
+NPN SOT-363 Bipolar (BJT) ROHS
+Hongjiacheng
+--
+MMDT2227
+C41375117
+NPN+PNP SOT-363 Bipolar (BJT) ROHS
+Hongjiacheng
+--
+2SD1898
+C41375118
+SOT-89 Bipolar (BJT)
+Hongjiacheng
+--
+2SD1664
+C41375119
+32V 500mW 390@500mA,3V 1A NPN SOT-89 Bipolar (BJT) ROHS
+Hongjiacheng
+--
+BCX55-16
+C41375120
+60V 500mW 250@150mA,2V 1A NPN SOT-89 Bipolar (BJT) ROHS
+Hongjiacheng
+--
+2SA1201
+C41375121
+120V 500mW 240@100mA,5V 800mA PNP SOT-89 Bipolar (BJT) ROHS
+Hongjiacheng
+--
+D882H
+C41375123
+70V 500mW 320@1mA,2V 3A NPN SOT-89 Bipolar (BJT) ROHS
+Hongjiacheng
+--
+MMDT3904
+C41375125
+NPN SOT-363 Bipolar (BJT) ROHS
+Hongjiacheng
+--
+BC847BS
+C41375126
+SOT-363 Bipolar (BJT) ROHS
+Hongjiacheng
+--
+2SD2391
+C41375127
+60V 500mW 390@500mA,2V 2A NPN SOT-89 Bipolar (BJT) ROHS
+Hongjiacheng
+--
+FMMT491
+C41375128
+60V 250mW 300@500mA,5V 1A NPN SOT-23 Bipolar (BJT) ROHS
+Hongjiacheng
+--
+A1015
+C41375129
+50V 200mW 400@2mA,6V 150mA PNP SOT-23 Bipolar (BJT) ROHS
+Hongjiacheng
+--
+S9018
+C41375130
+15V 200mW 200@1mA,5V 50mA NPN SOT-23 Bipolar (BJT) ROHS
+Hongjiacheng
+--
+2SC2412
+C41375131
+50V 200mW 560@1A,6V 150mA NPN SOT-23 Bipolar (BJT) ROHS
+Hongjiacheng
+--
+FMMT591
+C41375132
+60V 250mW 300@500mA,5V 1A PNP SOT-23 Bipolar (BJT) ROHS
+Hongjiacheng
+--
+BC807-16
+C41375133
+45V 300mW 250@100mA,1V 500mA PNP SOT-23 Bipolar (BJT) ROHS
+Hongjiacheng
+--
+B772
+C41375134
+30V 500mW 400@1A,2V 3A PNP SOT-89 Bipolar (BJT) ROHS
+Hongjiacheng
+--
+BCX53-16
+C41375135
+80V 1.3W 250@150mA,2V 1A PNP SOT-89 Bipolar (BJT) ROHS
+Hongjiacheng
+--
+PXT8050
+C41375136
+25V 500mW 400@100mA,1V 1.5A NPN SOT-89 Bipolar (BJT) ROHS
+Hongjiacheng
+--
+CXT5551
+C41375138
+160V 500mW 300@10mA,5V 600mA NPN SOT-89 Bipolar (BJT) ROHS
+Hongjiacheng
+--
+2SA1013
+C41375139
+SOT-89 Bipolar (BJT) ROHS
+Hongjiacheng
+--
+2SD965A
+C41375140
+30V 750mW 800@500mA,2V 5A NPN SOT-89 Bipolar (BJT) ROHS
+Hongjiacheng
+--
+BCP55-16
+C41376085
+60V 1.5W 250@150mA,2V 1A NPN SOT-223 Bipolar (BJT) ROHS
+Hongjiacheng
+--
+SMF36A
+C41376086
+3.44A 58.1V 200W 44.2V Unidirectional 36V SOD-123FL ESD and Surge Protection (TVS/ESD) ROHS
+Hongjiacheng
+--
+SMF13A
+C41376087
+SOD-123FL ESD and Surge Protection (TVS/ESD) ROHS
+Hongjiacheng
+--
+SMF6.5A
+C41376089
+11.2V 17.86A 250uA 6.5V 200W 7.98V Unidirectional TVS Single channel SOD-123FL ESD and Surge Protection (TVS/ESD)
+Hongjiacheng
+--
+SMF26A
+C41376090
+26V 42.1V 4.8A 1uA 200W 31.9V Unidirectional TVS Single channel -55℃~+150℃ SOD-123FL ESD and Surge Protection (TVS/ESD)
+Hongjiacheng
+--
+SMF28A
+C41376091
+28V 45.4V 1uA 4.41A 200W 34.4V Unidirectional TVS Single channel SOD-123FL ESD and Surge Protection (TVS/ESD)
+Hongjiacheng
+--
+SMF60CA
+C41376092
+60V 96.8V 73.7V 2.1A 1uA 200W Bidirectional TVS Dual channel -55℃~+150℃ SOD-123FL ESD and Surge Protection (TVS/ESD)
+Hongjiacheng
+--
+SMCJ6.0CA
+C41376094
+6V 10.3V 145.7A 800uA 1.5kW 7.37V Bidirectional TVS Dual channel -55℃~+150℃ SMC ESD and Surge Protection (TVS/ESD)
+Hongjiacheng
+--
+SMBJ14CA
+C41376097
+25.86A 600W 23.2V 17.2V Bidirectional 14V SMB ESD and Surge Protection (TVS/ESD) ROHS
+Hongjiacheng
+--
+SMBJ43CA
+C41376098
+8.65A 600W 69.4V 52.8V Bidirectional 43V SMB ESD and Surge Protection (TVS/ESD) ROHS
+Hongjiacheng
+--
+SMBJ64CA
+C41376099
+5.83A 600W 103V 78.6V Bidirectional 64V SMB ESD and Surge Protection (TVS/ESD) ROHS
+Hongjiacheng
+--
+SMBJ8.0CA
+C41376100
+44.12A 600W 13.6V 9.83V Bidirectional 8V SMB ESD and Surge Protection (TVS/ESD) ROHS
+Hongjiacheng
+--
+SMBJ51CA
+C41376101
+7.28A 600W 82.4V 62.7V Bidirectional 51V SMB ESD and Surge Protection (TVS/ESD) ROHS
+Hongjiacheng
+--
+SMBJ58A
+C41376102
+6.41A 600W 93.6V 71.2V Unidirectional 58V SMB ESD and Surge Protection (TVS/ESD) ROHS
+Hongjiacheng
+--
+SMBJ170A
+C41376104
+170V 275V 209V 2.18A 5uA 600W Unidirectional TVS Single channel -55℃~+150℃ SMB ESD and Surge Protection (TVS/ESD)
+Hongjiacheng
+--
+SMBJ90CA
+C41376398
+4.11A 600W 146V 111V Bidirectional 90V SMB ESD and Surge Protection (TVS/ESD) ROHS
+Hongjiacheng
+--
+SMAJ33A
+C41376399
+400W 53.3V 40.6V Unidirectional 33V SMA ESD and Surge Protection (TVS/ESD) ROHS
+Hongjiacheng
+--
+SMAJ43CA
+C41376400
+400W 69.4V 52.8V Bidirectional 43V SMA ESD and Surge Protection (TVS/ESD) ROHS
+Hongjiacheng
+--
+SMAJ48A
+C41376401
+77.4V 400W 58.9V Unidirectional 48V SMA ESD and Surge Protection (TVS/ESD) ROHS
+Hongjiacheng
+--
+SMAJ43A
+C41376402
+400W 69.4V 52.8V Unidirectional 43V SMA ESD and Surge Protection (TVS/ESD) ROHS
+Hongjiacheng
+--
+SMAJ22A
+C41376403
+35.5V 400W 26.9V Unidirectional 22V SMA ESD and Surge Protection (TVS/ESD) ROHS
+Hongjiacheng
+--
+SMAJ51CA
+C41376404
+4.9A 82.4V 400W 62.7V Bidirectional 51V SMA ESD and Surge Protection (TVS/ESD) ROHS
+Hongjiacheng
+--
+SMAJ16A
+C41376405
+26V 400W 19.7V Unidirectional 16V SMA ESD and Surge Protection (TVS/ESD) ROHS
+Hongjiacheng
+--
+SMAJ14A
+C41376406
+400W 23.2V 17.2V Unidirectional 14V SMA ESD and Surge Protection (TVS/ESD) ROHS
+Hongjiacheng
+--
+SMAJ10A
+C41376407
+17V 400W 12.3V Unidirectional 10V SMA ESD and Surge Protection (TVS/ESD) ROHS
+Hongjiacheng
+--
+SMAJ20A
+C41376408
+400W 32.4V 24.5V Unidirectional 20V SMA ESD and Surge Protection (TVS/ESD) ROHS
+Hongjiacheng
+--
+SMAJ200A
+C41376409
+324V 400W 247V Unidirectional 200V SMA ESD and Surge Protection (TVS/ESD) ROHS
+Hongjiacheng
+--
+SSL54
+C41410770
+40V Independent Type 480mV@5A 5A SMA Schottky Diodes ROHS
+Hongjiacheng
+--
+SSL34
+C41410771
+3A 40V Independent Type 300uA@40V 0.5V@3.0A SMA Schottky Diodes
+Hongjiacheng
+--
+SK810C
+C41410772
+100V Independent Type 8A 850mV@8A SMC Schottky Diodes ROHS
+Hongjiacheng
+--
+SSL310
+C41410773
+3A Independent Type 500uA@100V 100V 0.6V@3.0A SMA Schottky Diodes
+Hongjiacheng
+--
+SK84B
+C41410774
+8A 40V Independent Type 100uA@40V 550mV@8.0A SMB Schottky Diodes
+Hongjiacheng
+--
+SSL510B
+C41410776
+5A Independent Type 1mA@100V 100V 0.6V@5.0A SMB Schottky Diodes
+Hongjiacheng
+--
+SS32C
+C41410779
+20V Independent Type 3A 550mV@3A SMC Schottky Diodes ROHS
+Hongjiacheng
+--
+SSL310B
+C41410780
+3A Independent Type 300uA@100V 100V 0.6V@3.0A SMB Schottky Diodes
+Hongjiacheng
+--
+SS52B
+C41410781
+20V Independent Type 550mV@5A 5A SMB Schottky Diodes ROHS
+Hongjiacheng
+--
+SS58B
+C41410782
+80V Independent Type 850mV@5A 5A SMB Schottky Diodes ROHS
+Hongjiacheng
+--
+SS38B
+C41410783
+3A 80V Independent Type 850mV@3.0A 0.2mA@80V SMB Schottky Diodes
+Hongjiacheng
+--
+SS52C
+C41410784
+5A 20V Independent Type 550mV@5.0A 0.15mA@20V SMC Schottky Diodes
+Hongjiacheng
+--
+SS58C
+C41410785
+5A 80V Independent Type 850mV@5.0A 0.15mA@80V SMC Schottky Diodes
+Hongjiacheng
+--
+SS22B
+C41410788
+20V Independent Type 1mA@20V 2A 550mV@2.0A SMB Schottky Diodes
+Hongjiacheng
+--
+SS32B
+C41410789
+3A 20V Independent Type 200uA@20V 550mV@3.0A SMB Schottky Diodes
+Hongjiacheng
+--
+SSL510C
+C41410793
+100V Independent Type 700mV@5A 5A SMC Schottky Diodes ROHS
+Hongjiacheng
+--
+SSL545B
+C41410794
+5A 45V Independent Type 1mA@45V 0.45V@5.0A SMB Schottky Diodes
+Hongjiacheng
+--
+BZT52C2V0
+C41410795
+Independent Type 1.8V~2.15V 350mW 2V SOD-123 Zener Diodes ROHS
+Hongjiacheng
+--
+MMSZ4693
+C41410796
+500mW 7.5V Independent Type 7.13V~7.88V 10uA SOD-123 Zener Diodes
+Hongjiacheng
+--
+MMSZ5251BS
+C41410797
+22V 200mW Independent Type 600Ω 20.9V~23.1V 100nA SOD-323 Zener Diodes
+Hongjiacheng
+--
+MM3Z16
+C41410798
+16V 200mW Independent Type 400Ω 15.3V~17.1V 50nA@11.2V SOD-323 Zener Diodes
+Hongjiacheng
+--
+MMSZ5245BS
+C41410799
+15V 200mW Independent Type 600Ω 14.25V~15.75V 100nA SOD-323 Zener Diodes
+Hongjiacheng
+--
+MMSZ5256BS
+C41410800
+30V 200mW Independent Type 49Ω 28.5V~31.5V 100nA SOD-323 Zener Diodes
+Hongjiacheng
+--
+MMSZ5234BS
+C41410801
+Independent Type 200mW 5.89V~6.51V 6.2V SOD-323 Zener Diodes ROHS
+Hongjiacheng
+--
+MMSZ5226BS
+C41410802
+3.3V 200mW Independent Type 28Ω 3.14V~3.47V 25uA SOD-323 Zener Diodes
+Hongjiacheng
+--
+1SMAF4741A
+C41411741
+11V Independent Type 8Ω 1W 5uA SMAF Zener Diodes
+Hongjiacheng
+--
+1SMAF4737A
+C41411742
+7.5V Independent Type 4Ω 1W SMAF Zener Diodes
+Hongjiacheng
+--
+RS2MF
+C41411743
+SMAF Fast Recovery / High Efficiency Diodes ROHS
+Hongjiacheng
+--
+SMCJ100CA
+C41411744
+100V 162V 9.3A 1uA 1.5kW 123V Bidirectional TVS Dual channel -55℃~+150℃ SMC ESD and Surge Protection (TVS/ESD)
+Hongjiacheng
+--
+SMCJ43CA
+C41411745
+43V 69.4V 21.7A 1uA 1.5kW 52.8V Bidirectional TVS Dual channel -55℃~+150℃ SMC ESD and Surge Protection (TVS/ESD)
+Hongjiacheng
+--
+SMCJ70CA
+C41411746
+70V 113V 13.3A 1uA 86V 1.5kW Bidirectional TVS Dual channel -55℃~+150℃ SMC ESD and Surge Protection (TVS/ESD)
+Hongjiacheng
+--
+SMCJ24CA
+C41411747
+38.6A 1.5kW 38.9V 29.5V Bidirectional 24V SMC ESD and Surge Protection (TVS/ESD) ROHS
+Hongjiacheng
+--
+SMCJ12CA
+C41411748
+75.4A 19.9V 1.5kW 14.7V Bidirectional 12V SMC ESD and Surge Protection (TVS/ESD) ROHS
+Hongjiacheng
+--
+SMCJ64CA
+C41411749
+64V 103V 14.6A 1uA 1.5kW 78.6V Bidirectional TVS Dual channel -55℃~+150℃ SMC ESD and Surge Protection (TVS/ESD)
+Hongjiacheng
+--
+SMCJ45CA
+C41411750
+20.6A 72.7V 1.5kW 55.3V Bidirectional 45V SMC ESD and Surge Protection (TVS/ESD) ROHS
+Hongjiacheng
+--
+SMCJ51CA
+C41411751
+51V 82.4V 18.2A 1uA 1.5kW 62.7V Bidirectional TVS Dual channel -55℃~+150℃ SMC ESD and Surge Protection (TVS/ESD)
+Hongjiacheng
+--
+SMCJ5.0CA
+C41411752
+163A 9.2V 1.5kW 7V Bidirectional 5V SMC ESD and Surge Protection (TVS/ESD) ROHS
+Hongjiacheng
+--
+SMCJ18CA
+C41411753
+51.4A 29.2V 1.5kW 22.1V Bidirectional 18V SMC ESD and Surge Protection (TVS/ESD) ROHS
+Hongjiacheng
+--
+SMCJ20CA
+C41411754
+46.3A 1.5kW 32.4V 24.5V Bidirectional 20V SMC ESD and Surge Protection (TVS/ESD) ROHS
+Hongjiacheng
+--
+SMCJ75CA
+C41411755
+75V 121V 12.4A 1uA 1.5kW 92.1V Bidirectional TVS Dual channel -55℃~+150℃ SMC ESD and Surge Protection (TVS/ESD)
+Hongjiacheng
+--
+SMCJ60CA
+C41411756
+15.5A 96.8V 1.5kW 73.7V Bidirectional 60V SMC ESD and Surge Protection (TVS/ESD) ROHS
+Hongjiacheng
+--
+SMCJ150CA
+C41411757
+150V 243V 6.2A 1uA 1.5kW 185V Bidirectional TVS Dual channel -55℃~+150℃ SMC ESD and Surge Protection (TVS/ESD)
+Hongjiacheng
+--
+SMCJ6.5CA
+C41411758
+11.2V 134A 500uA 6.5V 1.5kW 7.98V Bidirectional TVS Dual channel -55℃~+150℃ SMC ESD and Surge Protection (TVS/ESD)
+Hongjiacheng
+--
+SMCJ22CA
+C41411759
+22V 35.5V 42.3A 1uA 1.5kW 26.9V Bidirectional TVS Dual channel -55℃~+150℃ SMC ESD and Surge Protection (TVS/ESD)
+Hongjiacheng
+--
+SMCJ10CA
+C41411760
+10V 17V 88.3A 5uA 12.3V 1.5kW Bidirectional TVS Dual channel -55℃~+150℃ SMC ESD and Surge Protection (TVS/ESD)
+Hongjiacheng
+--
+SMCJ54CA
+C41411761
+54V 87.1V 17.3A 1uA 1.5kW 66.3V Bidirectional TVS Dual channel -55℃~+150℃ SMC ESD and Surge Protection (TVS/ESD)
+Hongjiacheng
+--
+SMCJ13CA
+C41411763
+13V 21.5V 69.8A 1uA 1.5kW 15.9V Bidirectional TVS Dual channel -55℃~+150℃ SMC ESD and Surge Protection (TVS/ESD)
+Hongjiacheng
+--
+SMCJ16CA
+C41411764
+57.7A 26V 1.5kW 19.7V Bidirectional 16V SMC ESD and Surge Protection (TVS/ESD) ROHS
+Hongjiacheng
+--
+SMCJ48CA
+C41411765
+48V 77.4V 58.9V 19.4A 1uA 1.5kW Bidirectional TVS Dual channel -55℃~+150℃ SMC ESD and Surge Protection (TVS/ESD)
+Hongjiacheng
+--
+SMCJ7.0CA
+C41411766
+125A 12V 1.5kW 8.6V Bidirectional 7V SMC ESD and Surge Protection (TVS/ESD) ROHS
+Hongjiacheng
+--
+SS210F
+C41411768
+Independent Type 50uA@100V 100V 2A 950mV@2.0A SMAF Schottky Diodes
+Hongjiacheng
+--
+SS16F
+C41411769
+1A 60V Independent Type 500uA@60V 700mV@1.0A SMAF Schottky Diodes
+Hongjiacheng
+--
+SS110F
+C41411770
+100V Independent Type 850mV@1A 1A SMAF Schottky Diodes ROHS
+Hongjiacheng
+--
+SS220F
+C41411772
+200V Independent Type 950mV@2A 2A SMAF Schottky Diodes ROHS
+Hongjiacheng
+--
+SS510F
+C41411774
+5A Independent Type 50uA@100V 100V 850mV@5.0A SMAF Schottky Diodes
+Hongjiacheng
+--
+SS56F
+C41411775
+5A 60V Independent Type 850mV@5.0A 0.05mA@60V SMAF Schottky Diodes
+Hongjiacheng
+--
+SS120F
+C41411776
+SMAF Schottky Diodes
+Hongjiacheng
+--
+SSL310F
+C41411777
+3A Independent Type 500uA@100V 100V 0.6V@3.0A SMAF Schottky Diodes
+Hongjiacheng
+--
+SS52F
+C41411778
+5A 20V Independent Type 500uA@20V 550mV@5.0A SMAF Schottky Diodes
+Hongjiacheng
+--
+SS36F
+C41411779
+3A 60V Independent Type 200uA@60V 700mV@3.0A SMAF Schottky Diodes
+Hongjiacheng
+--
+SS310F
+C41411780
+Independent Type SMAF Schottky Diodes ROHS
+Hongjiacheng
+--
+SMAJ150A
+C41411781
+SMA ESD and Surge Protection (TVS/ESD) ROHS
+Hongjiacheng
+--
+SMF20A
+C41411782
+SOD-123FL ESD and Surge Protection (TVS/ESD) ROHS
+Hongjiacheng
+--
+SMF14CA
+C41411783
+SOD-123FL ESD and Surge Protection (TVS/ESD) ROHS
+Hongjiacheng
+--
+SMCJ28A
+C42371538
+28V 45.4V 33.1A 1uA 1.5kW 34.4V -55℃~+150℃ SMC ESD and Surge Protection (TVS/ESD)
+Hongjiacheng
+--
+SMCJ100A
+C42371542
+100V 162V 9.3A 1uA 1.5kW 123V -55℃~+150℃ SMC ESD and Surge Protection (TVS/ESD)
+Hongjiacheng
+--
+SMCJ78A
+C42371543
+78V 126V 11.9A 1uA 1.5kW 95.8V -55℃~+150℃ SMC ESD and Surge Protection (TVS/ESD)
+Hongjiacheng
+--
+SMCJ22A
+C42371544
+22V 35.5V 42.3A 1uA 1.5kW 26.9V -55℃~+150℃ SMC ESD and Surge Protection (TVS/ESD)
+Hongjiacheng
+--
+SMCJ26A
+C42371545
+SMC ESD and Surge Protection (TVS/ESD)
+Hongjiacheng
+--
+SMCJ58A
+C42371547
+58V 93.6V 16.1A 1uA 1.5kW 71.2V -55℃~+150℃ SMC ESD and Surge Protection (TVS/ESD)
+Hongjiacheng
+--
+SMCJ33A
+C42371548
+SMC ESD and Surge Protection (TVS/ESD)
+Hongjiacheng
+--
+SMCJ51A
+C42371549
+SMC ESD and Surge Protection (TVS/ESD)
+Hongjiacheng
+--
+SMCJ15A
+C42371550
+15V 24.4V 18.5V 61.5A 1uA 1.5kW -55℃~+150℃ SMC ESD and Surge Protection (TVS/ESD)
+Hongjiacheng
+--
+SMDJ64CA
+C42371551
+SMC ESD and Surge Protection (TVS/ESD) ROHS
+Hongjiacheng
+--
+SMDJ30CA
+C42371552
+30V 48.4V 62A 2uA 3kW 36.8V -55℃~+150℃ SMC ESD and Surge Protection (TVS/ESD)
+Hongjiacheng
+--
+SMDJ33CA
+C42371555
+SMC ESD and Surge Protection (TVS/ESD)
+Hongjiacheng
+--
+SMDJ36CA
+C42371556
+36V 58.1V 51.6A 2uA 3kW 44.2V -55℃~+150℃ SMC ESD and Surge Protection (TVS/ESD)
+Hongjiacheng
+--
+SMDJ40CA
+C42371557
+SMC ESD and Surge Protection (TVS/ESD)
+Hongjiacheng
+--
+SMDJ85CA
+C42371558
+SMC ESD and Surge Protection (TVS/ESD)
+Hongjiacheng
+--
+SMDJ26CA
+C42371716
+26V 42.1V 71.3A 2uA 3kW 31.9V -55℃~+150℃ SMC ESD and Surge Protection (TVS/ESD)
+Hongjiacheng
+--
+SMDJ45CA
+C42371719
+45V 72.7V 41.3A 2uA 3kW 55.3V -55℃~+150℃ SMC ESD and Surge Protection (TVS/ESD)
+Hongjiacheng
+--
+SMDJ28A
+C42371721
+SMC ESD and Surge Protection (TVS/ESD)
+Hongjiacheng
+--
+SMDJ24CA
+C42371722
+24V 38.9V 29.5V 77.1A 2uA 3kW -55℃~+150℃ SMC ESD and Surge Protection (TVS/ESD)
+Hongjiacheng
+--
+SMDJ16A
+C42371723
+16V 26V 115.4A 2uA 3kW 19.7V -55℃~+150℃ SMC ESD and Surge Protection (TVS/ESD)
+Hongjiacheng
+--
+SMDJ58A
+C42371724
+SMC ESD and Surge Protection (TVS/ESD)
+Hongjiacheng
+--
+SMDJ15CA
+C42371725
+15V 24.4V 18.5V 123A 2uA 3kW -55℃~+150℃ SMC ESD and Surge Protection (TVS/ESD)
+Hongjiacheng
+--
+5.0SMDJ28CA
+C42371727
+28V 45.4V 5uA 5kW 110.1A 34.4V -55℃~+150℃ SMC ESD and Surge Protection (TVS/ESD)
+Hongjiacheng
+--
+5.0SMDJ30CA
+C42371730
+SMC ESD and Surge Protection (TVS/ESD)
+Hongjiacheng
+--
+1SMAF4747A
+C42371731
+1W 1W 20V 20V 22Ω 22Ω 19V~21.2V 19V~21.2V 5uA 5uA SMAF Zener Diodes
+Hongjiacheng
+--
+SSL34BF
+C42371733
+3A 40V 450mV@3A 500uA SMBF Schottky Diodes
+Hongjiacheng
+--
+SSL510BF
+C42371737
+5A 700mV@5A 200uA 100V SMBF Schottky Diodes
+Hongjiacheng
+--
+SS520BF
+C42371738
+5A 950mV@5A 50uA 200V SMBF Schottky Diodes
+Hongjiacheng
+--
+SS34BF
+C42371739
+3A 40V 500uA SMBF Schottky Diodes
+Hongjiacheng
+--
+SS510BF
+C42371741
+5A 950mV@5A 50uA 100V SMBF Schottky Diodes
+Hongjiacheng
+--
+SMBJ150CA
+C42371743
+150V 243V 2.47A 5uA 600W 185V -55℃~+150℃ SMB ESD and Surge Protection (TVS/ESD)
+Hongjiacheng
+--
+SMBJ150A
+C42371745
+SMB ESD and Surge Protection (TVS/ESD)
+Hongjiacheng
+--
+SMF20CA
+C42371747
+20V 32.4V 6.2A 1uA 200W 24.5V -55℃~+150℃ SOD-123FL ESD and Surge Protection (TVS/ESD)
+Hongjiacheng
+--
+SMF40CA
+C42371749
+40V 64.5V 3.1A 1uA 200W 49.1V -55℃~+150℃ SOD-123FL ESD and Surge Protection (TVS/ESD)
+Hongjiacheng
+--
+SMF7.5A
+C42371750
+7.5V 12.9V 15.5A 50uA 200W 9.21V -55℃~+150℃ SOD-123FL ESD and Surge Protection (TVS/ESD)
+Hongjiacheng
+--
+SMF150CA
+C42371752
+150V 243V 1uA 800mA 200W 185V -55℃~+150℃ SOD-123FL ESD and Surge Protection (TVS/ESD)
+Hongjiacheng
+--
+SMF58CA
+C42371753
+58V 93.6V 2.1A 1uA 200W 71.2V -55℃~+150℃ SOD-123FL ESD and Surge Protection (TVS/ESD)
+Hongjiacheng
+--
+SMF48A
+C42371754
+48V 77.4V 58.9V 2.6A 1uA 200W -55℃~+150℃ SOD-123FL ESD and Surge Protection (TVS/ESD)
+Hongjiacheng
+--
+MMSZ4680
+C42371755
+500mW 500mW 2.2V 2.2V 2.09V~2.31V 2.09V~2.31V 4uA 4uA SOD-123 Zener Diodes
+Hongjiacheng
+--
+MMSZ4696
+C42371756
+500mW 500mW 9.1V 9.1V 8.65V~9.56V 8.65V~9.56V 1uA 1uA SOD-123 Zener Diodes
+Hongjiacheng
+--
+MMSZ4697
+C42371757
+500mW 500mW 10V 10V 9.5V~10.5V 9.5V~10.5V 1uA 1uA SOD-123 Zener Diodes
+Hongjiacheng
+--
+MMSZ5221B
+C42371760
+500mW 500mW 2.4V 2.4V 30Ω 30Ω 2.28V~2.52V 2.28V~2.52V 100uA 100uA SOD-123 Zener Diodes
+Hongjiacheng
+--
+BZT52B11S
+C42387454
+200mW 200mW 11V 11V 150Ω 150Ω 100nA 100nA SOD-323 Zener Diodes
+Hongjiacheng
+--
+P4SMA6.8A
+C42394394
+5.8V 10.5V 38.1A 1mA 7.14V 400W -55℃~+150℃ SMA ESD and Surge Protection (TVS/ESD)
+Hongjiacheng
+--
+SMAJ7.0A
+C42394395
+7V 12V 33.3A 200uA 400W 8.6V -55℃~+150℃ SMA ESD and Surge Protection (TVS/ESD)
+Hongjiacheng
+--
+SMAJ14CA
+C42394396
+14V 23.2V 17.2A 1uA 17.2V 400W -55℃~+150℃ SMA ESD and Surge Protection (TVS/ESD)
+Hongjiacheng
+--
+SMAJ22CA
+C42394397
+SMA ESD and Surge Protection (TVS/ESD)
+Hongjiacheng
+--
+SMAJ60A
+C42394398
+SMA ESD and Surge Protection (TVS/ESD)
+Hongjiacheng
+--
+SMAJ60CA
+C42394399
+SMA ESD and Surge Protection (TVS/ESD)
+Hongjiacheng
+--
+SMAJ64A
+C42394400
+SMA ESD and Surge Protection (TVS/ESD)
+Hongjiacheng
+--
+SMAJ85CA
+C42394401
+137V 2.9A 1uA 85V 400W 104V -55℃~+150℃ SMA ESD and Surge Protection (TVS/ESD)
+Hongjiacheng
+--
+SMAJ90CA
+C42394402
+SMA ESD and Surge Protection (TVS/ESD)
+Hongjiacheng
+--
+SMAJ90A
+C42394403
+111V 146V 2.7A 1uA 90V 400W -55℃~+150℃ SMA ESD and Surge Protection (TVS/ESD)
+Hongjiacheng
+--
+SMAJ300CA
+C42394406
+SMA ESD and Surge Protection (TVS/ESD)
+Hongjiacheng
+--
+P6SMB7.5A
+C42394408
+6.4V 11.3V 53.1A 500uA 7.88V 600W -55℃~+150℃ SMB ESD and Surge Protection (TVS/ESD)
+Hongjiacheng
+--
+P6SMB39A
+C42394410
+SMB ESD and Surge Protection (TVS/ESD)
+Hongjiacheng
+--
+P6SMB200A
+C42394412
+SMB ESD and Surge Protection (TVS/ESD)
+Hongjiacheng
+--
+SMBJ400CA
+C42394417
+400V 648V 494V 5uA 930mA 600W -55℃~+150℃ SMB ESD and Surge Protection (TVS/ESD)
+Hongjiacheng
+--
+SMCJ6.0A
+C42394420
+SMC ESD and Surge Protection (TVS/ESD)
+Hongjiacheng
+--
+SMCJ85CA
+C42394428
+SMC ESD and Surge Protection (TVS/ESD)
+Hongjiacheng
+--
+SMDJ60CA
+C42394438
+60V 96.8V 73.7V 31A 2uA 3kW -55℃~+150℃ SMC ESD and Surge Protection (TVS/ESD)
+Hongjiacheng
+--
+5.0SMDJ85CA
+C42394457
+137V 36.5A 5uA 85V 5kW 104V -55℃~+150℃ SMC ESD and Surge Protection (TVS/ESD)
+Hongjiacheng
+--
+ABS10
+C42406051
+ABS Bridge Rectifiers
+Hongjiacheng
+--
+ABS210
+C42406052
+-55℃~+150℃ 5uA 14.9A ABS Bridge Rectifiers
+Hongjiacheng
+--
+MSB30M
+C42406053
+UMSB Bridge Rectifiers
+Hongjiacheng
+--
+GBJ5008
+C42406055
+GBJ Bridge Rectifiers
+Hongjiacheng
+--
+GBJ1510
+C42406056
+GBJ Bridge Rectifiers
+Hongjiacheng
+--
+GBJ5010
+C42406057
+GBJ Bridge Rectifiers
+Hongjiacheng
+--
+GBJL1508A
+C42406058
+GBJ Bridge Rectifiers
+Hongjiacheng
+--
+GBJL1508
+C42406059
+GBJ Bridge Rectifiers
+Hongjiacheng
+--
+GBJ3510
+C42406060
+GBJ Bridge Rectifiers
+Hongjiacheng
+--
+GBJ2510A
+C42406061
+GBJ Bridge Rectifiers
+Hongjiacheng
+--
+GBJ2506A
+C42406062
+GBJ Bridge Rectifiers
+Hongjiacheng
+--
+GBJL1506
+C42406063
+GBJ Bridge Rectifiers
+Hongjiacheng
+--
+GBU406A
+C42406064
+1.1V@4A -55℃~+150℃ 10uA GBU Bridge Rectifiers
+Hongjiacheng
+--
+GBU606
+C42406065
+1.1V@3A -55℃~+150℃ 10uA GBU Bridge Rectifiers
+Hongjiacheng
+--
+GBU1510
+C42406066
+1.1V@7.5A -55℃~+150℃ 10uA GBU Bridge Rectifiers
+Hongjiacheng
+--
+GBU610
+C42406067
+1.1V@3A -55℃~+150℃ 10uA GBU Bridge Rectifiers
+Hongjiacheng
+--
+GBU410A
+C42406068
+1.1V@4A -55℃~+150℃ 10uA GBU Bridge Rectifiers
+Hongjiacheng
+--
+GBU2510
+C42406069
+1.1V@12.5A -55℃~+150℃ 10uA GBU Bridge Rectifiers
+Hongjiacheng
+--
+GBU810
+C42406070
+1.1V@8A -55℃~+150℃ 10uA GBU Bridge Rectifiers
+Hongjiacheng
+--
+GBU1010
+C42406071
+1.1V@5A -55℃~+150℃ 10uA GBU Bridge Rectifiers
+Hongjiacheng
+--
+GBU808
+C42406072
+1.1V@8A -55℃~+150℃ 10uA GBU Bridge Rectifiers
+Hongjiacheng
+--
+KBJ410
+C42406073
+KBJ Bridge Rectifiers
+Hongjiacheng
+--
+GBP310
+C42406074
+1.1V@3A -55℃~+150℃ 10uA GBP Bridge Rectifiers
+Hongjiacheng
+--
+GBP410A
+C42406075
+1.1V@4A -55℃~+150℃ 10uA GBP Bridge Rectifiers
+Hongjiacheng
+--
+H36VND3U
+C42413887
+SOD-323 ESD and Surge Protection (TVS/ESD)
+Hongjiacheng
+--
+H5VL10BH
+C42413893
+DFN1006-2L ESD and Surge Protection (TVS/ESD)
+Hongjiacheng
+--
+H5VND5BA
+C42413899
+SOD-523 ESD and Surge Protection (TVS/ESD)
+Hongjiacheng
+--
+SM08
+C42413902
+SOT-23 ESD and Surge Protection (TVS/ESD)
+Hongjiacheng
+--
+SM12
+C42413903
+SOT-23 ESD and Surge Protection (TVS/ESD)
+Hongjiacheng
+--
+SM18
+C42413904
+SOT-23 ESD and Surge Protection (TVS/ESD)
+Hongjiacheng
+--
+SM24
+C42413905
+SOT-23 ESD and Surge Protection (TVS/ESD)
+Hongjiacheng
+--
+SM36
+C42413906
+SOT-23 ESD and Surge Protection (TVS/ESD)
+Hongjiacheng
+--
+ULN2803ADWR
+C9683
+SOIC-18-300mil Darlington Transistor Arrays ROHS
+Texas Instruments
+--
+CD4051BM96
+C21379
+1 240Ω SOIC-16-150mil Analog Switches, Multiplexers ROHS
+Texas Instruments
+--
+FEMDRM008G-58A39
+C719499
+eMMC 5.1 FBGA-153 eMMC ROHS
+Foresee
+--
+5KP6.5CA
+C5125145
+455.4A 5kW 11.2V 7.22V 6.5V P600 ESD and Surge Protection (TVS/ESD) ROHS
+Liown
+--
+F35UQA512M-WWT
+C5126825
+1.8V 104MHz 512Mbit WSON-8-EP(6x8) NAND FLASH ROHS
+Foresee
+--
+BAT54CWT
+C7502704
+hongjiacheng BAT54CWT
+Hongjiacheng
+--
+MMBD4448HTW
+C7502728
+SOT-363 Switching Diodes ROHS
+Hongjiacheng
+--
+SMF3.3CA
+C19077496
+27.4A 7.3V 200W 5.3V Bidirectional 3.3V SOD-123FL ESD and Surge Protection (TVS/ESD) ROHS
+Hongjiacheng
+--
+SMAJ3.3CA
+C19077522
+43.8A 400W 8V 6V Bidirectional 3.3V SMA ESD and Surge Protection (TVS/ESD) ROHS
+Hongjiacheng
+--
+P6SMB36CA
+C19077602
+12A 600W 49.9V 37.8V Bidirectional 30.8V SMB ESD and Surge Protection (TVS/ESD) ROHS
+Hongjiacheng
+--
+H18VU10B
+C20615793
+2.5A 80W 33V 20.5V Bidirectional 18V DFN1006-2L ESD and Surge Protection (TVS/ESD) ROHS
+Hongjiacheng
+--
+SMF7.0A
+C41376088
+16.67A 12V 200W 8.6V Unidirectional 7V SOD-123FL ESD and Surge Protection (TVS/ESD) ROHS
+Hongjiacheng
