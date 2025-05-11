@@ -1,0 +1,6 @@
+*.log
+*.lck
+*-backups
+*.bak
+.*.swp
+*-cache
