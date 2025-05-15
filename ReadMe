@@ -10,6 +10,10 @@ The EasyEDA symbols, footprints and models were fetched using easyeda2kicad (see
 Files renamed from ~/Documents/Kicad/easyeda2kicad/easyeda2kicad.* to jlcpreferred.*
 Edit the kicad_sym and .pretty files to change library references
 
+Automated cleanup using two scripts (fixup.rb and add_scrapings.rb)
+Re-ordering using the KiCd symbol library editor, then kicad_beautify
+De-duped using kicad_dedup_symbols
+
 brew install easyeda2kicad
 easyeda2kicad --full --lcsc_id=
 

@@ -1,3 +1,4 @@
+*.kicad_prl
 *.log
 *.lck
 *-backups
