@@ -1,4 +1,5 @@
 *.kicad_prl
+*-lib-table
 *.log
 *.lck
 *-backups
