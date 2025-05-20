@@ -43134,7 +43134,10 @@
 		)
 		(property "Description" "Step-down type 2A 4.5V~40V SOIC-8 DC-DC Converters ROHS"
 			(at 0 0 0)
-			(effects (font (size 1.27 1.27)))
+			(effects
+				(font (size 1.27 1.27))
+				(hide yes)
+			)
 		)
 		(property "LCSC Part" "C74192"
 			(at 0 -16.51 0)
