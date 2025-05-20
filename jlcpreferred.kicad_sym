@@ -506,7 +506,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "1N4002W_C18199086"
+		(property "Value" "1N4002W"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -616,7 +616,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "1N4007W_C18199088"
+		(property "Value" "1N4007W"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -706,7 +706,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "1N4148WS_C437156"
+		(property "Value" "1N4148WS"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -796,7 +796,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "1N4148WS_C7420319"
+		(property "Value" "1N4148WS"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -906,7 +906,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "1SMAF4737A_C41411742"
+		(property "Value" "1SMAF4737A"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -1014,7 +1014,7 @@
 			(at 0 13.97 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "1SS181_C7502730"
+		(property "Value" "1SS181"
 			(at 0 -13.97 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -1170,7 +1170,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "1SS355_C7502718"
+		(property "Value" "1SS355"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -1374,7 +1374,7 @@
 			(at 0 10.16 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "2N7002W_C7420322"
+		(property "Value" "2N7002W"
 			(at 0 -10.16 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -1590,6 +1590,7 @@
 	)
 	(symbol "2N7002_C7420321"
 		(pin_numbers (hide yes))
+		(pin_names (hide yes))
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -1597,7 +1598,7 @@
 			(at 0 10.16 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "2N7002_C7420321"
+		(property "Value" "2N7002"
 			(at 0 -10.16 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -1779,7 +1780,7 @@
 			(at 0 10.16 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "2SA1013_C41375139"
+		(property "Value" "2SA1013"
 			(at 0 -10.16 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -1895,7 +1896,7 @@
 			(at 0 10.16 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "2SA1201_C41375121"
+		(property "Value" "2SA1201"
 			(at 0 -10.16 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -2011,7 +2012,7 @@
 			(at 0 10.16 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "2SA812_C7420323"
+		(property "Value" "2SA812"
 			(at 0 -10.16 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -2127,7 +2128,7 @@
 			(at 0 10.16 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "2SC1623_C7420324"
+		(property "Value" "2SC1623"
 			(at 0 -10.16 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -2244,7 +2245,7 @@
 			(at 0 10.16 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "2SC1815_C20069143"
+		(property "Value" "2SC1815"
 			(at 0 -10.16 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -2360,7 +2361,7 @@
 			(at 0 10.16 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "2SC2873_C20069145"
+		(property "Value" "2SC2873"
 			(at 0 -10.16 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -2476,7 +2477,7 @@
 			(at 0 10.16 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "2SC3356_C28646266"
+		(property "Value" "2SC3356"
 			(at 0 -10.16 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -2592,7 +2593,7 @@
 			(at 0 10.16 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "2SD1664_C41375119"
+		(property "Value" "2SD1664"
 			(at 0 -10.16 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -2708,7 +2709,7 @@
 			(at 0 10.16 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "2SD1898_C41375118"
+		(property "Value" "2SD1898"
 			(at 0 -10.16 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -2824,7 +2825,7 @@
 			(at 0 10.16 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "2SK3018W_C20069149"
+		(property "Value" "2SK3018W"
 			(at 0 -10.16 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -3047,7 +3048,7 @@
 			(at 0 11.43 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "2SK3018_C20069148"
+		(property "Value" "2SK3018"
 			(at 0 -11.43 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -3364,7 +3365,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "1SMA4728A_C19077474"
+		(property "Value" "1SMA4728A"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -4520,7 +4521,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "5.0SMDJ30CA_C42371730"
+		(property "Value" "5.0SMDJ30CA"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -4624,7 +4625,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "5.0SMDJ64CA_C2990414"
+		(property "Value" "5.0SMDJ64CA"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -4728,7 +4729,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "5KP6.5CA_C5125145"
+		(property "Value" "5KP6.5CA"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -6217,7 +6218,7 @@
 			(at 0 10.16 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "A1015_C41375129"
+		(property "Value" "A1015"
 			(at 0 -10.16 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -6332,7 +6333,7 @@
 			(at 0 7.62 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "ABS10_C42406051"
+		(property "Value" "ABS10"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -6441,7 +6442,7 @@
 			(at 0 6.35 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "ABS210_C42406052"
+		(property "Value" "ABS210"
 			(at 0 -6.35 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -6685,7 +6686,7 @@
 			(at 0 10.16 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "AO3401_C427383"
+		(property "Value" "AO3401"
 			(at 0 -10.16 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -7393,7 +7394,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "B1040WS_C22466375"
+		(property "Value" "B1040WS"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -7503,7 +7504,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "B1040W_C22466377"
+		(property "Value" "B1040W"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -7613,7 +7614,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "B5818WS_C22466361"
+		(property "Value" "B5818WS"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -7839,7 +7840,7 @@
 			(at 0 10.16 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "B772_C41375134"
+		(property "Value" "B772"
 			(at 0 -10.16 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -7955,7 +7956,7 @@
 			(at 0 13.97 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "BAS21S_C7502726"
+		(property "Value" "BAS21S"
 			(at 0 -13.97 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -8111,7 +8112,7 @@
 			(at 0 13.97 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "BAS40-04_C7502688"
+		(property "Value" "BAS40-04"
 			(at 0 -13.97 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -8286,7 +8287,7 @@
 			(at 0 13.97 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "BAS40_C7502685"
+		(property "Value" "BAS40"
 			(at 0 -12.7 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -8419,7 +8420,7 @@
 			(at 0 12.7 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "BAS70-06_C22466364"
+		(property "Value" "BAS70-06"
 			(at 0 -10.16 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -8555,7 +8556,7 @@
 			(at 0 7.62 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "BAS70W-05_C22466366"
+		(property "Value" "BAS70W-05"
 			(at 0 -7.62 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -8722,7 +8723,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "BAT46X_C22466367"
+		(property "Value" "BAT46X"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -9003,7 +9004,7 @@
 			(at 0 12.7 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "BAT54CW_C22392482"
+		(property "Value" "BAT54CW"
 			(at 0 -10.16 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -9139,7 +9140,7 @@
 			(at 0 10.16 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "BAT54C_C22466350"
+		(property "Value" "BAT54C"
 			(at 0 -11.43 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -9305,7 +9306,7 @@
 			(at 0 12.7 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "BAT54SW_C22466373"
+		(property "Value" "BAT54SW"
 			(at 0 -10.16 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -9441,7 +9442,7 @@
 			(at 0 7.62 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "BAT54S_C7420333"
+		(property "Value" "BAT54S"
 			(at 0 -7.62 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -9577,7 +9578,7 @@
 			(at 0 10.16 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "BAT54_C22466368"
+		(property "Value" "BAT54"
 			(at 0 -10.16 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -9719,7 +9720,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "BAV21WS_C7420334"
+		(property "Value" "BAV21WS"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -9829,7 +9830,7 @@
 			(at 0 7.62 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "BAV70_C7420335"
+		(property "Value" "BAV70"
 			(at 0 -7.62 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -9957,7 +9958,7 @@
 			(at 0 7.62 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "BAV99_C7420336"
+		(property "Value" "BAV99"
 			(at 0 -7.62 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -10109,7 +10110,7 @@
 			(at 0 10.16 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "BC807-40_C20069142"
+		(property "Value" "BC807-40"
 			(at 0 -10.16 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -10225,7 +10226,7 @@
 			(at 0 10.16 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "BC817-25_C20069154"
+		(property "Value" "BC817-25"
 			(at 0 -10.16 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -10340,7 +10341,7 @@
 			(at 0 10.16 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "BC847BS_C41375126"
+		(property "Value" "BC847BS"
 			(at 0 -10.16 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -10544,7 +10545,7 @@
 			(at 0 10.16 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "BC856B_C20069136"
+		(property "Value" "BC856B"
 			(at 0 -10.16 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -10660,7 +10661,7 @@
 			(at 0 10.16 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "BC857C_C20069137"
+		(property "Value" "BC857C"
 			(at 0 -10.16 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -10775,7 +10776,7 @@
 			(at 0 10.16 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "BCP53-16_C41375110"
+		(property "Value" "BCP53-16"
 			(at 0 -10.16 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -10908,7 +10909,7 @@
 			(at 0 10.16 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "BCP56-16_C41375109"
+		(property "Value" "BCP56-16"
 			(at 0 -10.16 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -11042,7 +11043,7 @@
 			(at 0 10.16 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "BCX56-10_C20069156"
+		(property "Value" "BCX56-10"
 			(at 0 -10.16 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -11158,7 +11159,7 @@
 			(at 0 10.16 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "BSS123_C7420338"
+		(property "Value" "BSS123"
 			(at 0 -10.16 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -11340,7 +11341,7 @@
 			(at 0 10.16 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "BSS138W_C28646265"
+		(property "Value" "BSS138W"
 			(at 0 -10.16 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -11514,7 +11515,7 @@
 			(at 0 10.16 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "BSS84_C7420340"
+		(property "Value" "BSS84"
 			(at 0 -10.16 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -11698,7 +11699,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "BZT52C22S_C22375288"
+		(property "Value" "BZT52C22S"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -11806,7 +11807,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "BZT52C22_C22375295"
+		(property "Value" "BZT52C22"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -11916,7 +11917,7 @@
 			(at 0 6.35 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "BZT52C2V0_C41410795"
+		(property "Value" "BZT52C2V0"
 			(at 0 -3.81 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -12024,7 +12025,7 @@
 			(at 0 12.7 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "BZX84C10_C19077470"
+		(property "Value" "BZX84C10"
 			(at 0 -12.7 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -12156,7 +12157,7 @@
 			(at 0 12.7 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "BZX84C15_C19077472"
+		(property "Value" "BZX84C15"
 			(at 0 -12.7 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -12288,7 +12289,7 @@
 			(at 0 11.43 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "BZX84C16_C22379471"
+		(property "Value" "BZX84C16"
 			(at 0 -11.43 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -12420,7 +12421,7 @@
 			(at 0 13.97 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "BZX84C18_C19077473"
+		(property "Value" "BZX84C18"
 			(at 0 -11.43 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -12552,7 +12553,7 @@
 			(at 0 12.7 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "BZX84C30_C22379472"
+		(property "Value" "BZX84C30"
 			(at 0 -15.24 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -12671,7 +12672,7 @@
 			(at 0 12.7 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "BZX84C4V7_C22395521"
+		(property "Value" "BZX84C4V7"
 			(at 0 -10.16 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -12797,7 +12798,7 @@
 			(at 0 12.7 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "BZX84C5V6_C19077469"
+		(property "Value" "BZX84C5V6"
 			(at 0 -12.7 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -12929,7 +12930,7 @@
 			(at 0 13.97 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "BZX84C6V8_C22379473"
+		(property "Value" "BZX84C6V8"
 			(at 0 -13.97 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -13048,7 +13049,7 @@
 			(at 0 12.7 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "BZX84C8V2_C22395522"
+		(property "Value" "BZX84C8V2"
 			(at 0 -10.16 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -13967,7 +13968,7 @@
 			(at 0 10.16 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "CXT5551_C41375138"
+		(property "Value" "CXT5551"
 			(at 0 -10.16 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -14082,7 +14083,7 @@
 			(at 0 6.35 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "DB107S_C5377"
+		(property "Value" "DB107S"
 			(at 0 -6.35 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -14329,7 +14330,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "DSK22_C28646290"
+		(property "Value" "DSK22"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -14439,7 +14440,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "DSK24_C22466352"
+		(property "Value" "DSK24"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -14531,7 +14532,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "DSK320_C28646292"
+		(property "Value" "DSK320"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -14641,7 +14642,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "ES1M_C18199160"
+		(property "Value" "ES1M"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -14897,7 +14898,7 @@
 			(at 0 12.7 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "FDV301N_C20069151"
+		(property "Value" "FDV301N"
 			(at 0 -10.16 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -16760,7 +16761,7 @@
 			(at 0 10.16 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "FMMT491_C41375128"
+		(property "Value" "FMMT491"
 			(at 0 -10.16 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -16875,7 +16876,7 @@
 			(at 0 10.16 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "GBJ2510A_C42406061"
+		(property "Value" "GBJ2510A"
 			(at 0 -7.62 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -16978,7 +16979,7 @@
 			(at 0 8.89 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "GBJ3510_C42406060"
+		(property "Value" "GBJ3510"
 			(at 0 -8.89 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -17081,7 +17082,7 @@
 			(at 0 10.16 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "GBJ5010_C42406057"
+		(property "Value" "GBJ5010"
 			(at 0 -7.62 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -17355,7 +17356,7 @@
 			(at 0 8.89 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "GBU1510_C42406066"
+		(property "Value" "GBU1510"
 			(at 0 -8.89 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -17458,7 +17459,7 @@
 			(at 0 10.16 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "GBU2510_C42406069"
+		(property "Value" "GBU2510"
 			(at 0 -7.62 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -17561,7 +17562,7 @@
 			(at 0 6.35 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "GBU610_C42406067"
+		(property "Value" "GBU610"
 			(at 0 -6.35 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -23886,7 +23887,7 @@
 			(at 0 10.16 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "HL2300_C7420343"
+		(property "Value" "HL2300"
 			(at 0 -10.16 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -25775,7 +25776,7 @@
 			(at 0 34.29 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "HT1621B_C7532"
+		(property "Value" "HT1621B"
 			(at 0 -34.29 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -26319,7 +26320,7 @@
 			(at 0 10.16 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "HT7550-1_C16106"
+		(property "Value" "HT7550-1"
 			(at 0 -10.16 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -26540,7 +26541,7 @@
 			(at 0 10.16 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "KBJ410_C42406073"
+		(property "Value" "KBJ410"
 			(at 0 -7.62 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -28220,7 +28221,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "MM1W18_C22395529"
+		(property "Value" "MM1W18"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -28328,7 +28329,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "MM1Z7V5B_C22395537"
+		(property "Value" "MM1Z7V5B"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -28436,7 +28437,7 @@
 			(at 0 15.24 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "MMBD4148CC_C17179589"
+		(property "Value" "MMBD4148CC"
 			(at 0 -12.7 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -28708,7 +28709,7 @@
 			(at 0 10.16 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "MMBTA06_C20069139"
+		(property "Value" "MMBTA06"
 			(at 0 -10.16 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -28824,7 +28825,7 @@
 			(at 0 6.35 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "MMBTA42_C20069138"
+		(property "Value" "MMBTA42"
 			(at 0 -6.35 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -28918,7 +28919,7 @@
 			(at 0 10.16 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "MMBTA55_C41375115"
+		(property "Value" "MMBTA55"
 			(at 0 -10.16 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -29034,7 +29035,7 @@
 			(at 0 12.7 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "MMBTA94_C41375113"
+		(property "Value" "MMBTA94"
 			(at 0 -12.7 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -29150,7 +29151,7 @@
 			(at 0 10.16 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "MMBZ5226B_C22395543"
+		(property "Value" "MMBZ5226B"
 			(at 0 -10.16 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -29274,7 +29275,7 @@
 			(at 0 7.62 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "MMDT3904_C41375125"
+		(property "Value" "MMDT3904"
 			(at 0 -7.62 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -29403,7 +29404,7 @@
 			(at 0 10.16 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "MMDT5551_C41375116"
+		(property "Value" "MMDT5551"
 			(at 0 -10.16 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -29611,7 +29612,7 @@
 			(at 0 10.16 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "MMST3904_C22388837"
+		(property "Value" "MMST3904"
 			(at 0 -10.16 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -29727,7 +29728,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "MMSZ5237B_C22395557"
+		(property "Value" "MMSZ5237B"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -29835,7 +29836,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "MMSZ5241B_C22395559"
+		(property "Value" "MMSZ5241B"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -29942,7 +29943,7 @@
 			(at 0 24.13 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "MPU-6050_C24112"
+		(property "Value" "MPU-6050"
 			(at 0 -19.05 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -30491,7 +30492,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "P6SMB15CA_C19077597"
+		(property "Value" "P6SMB15CA"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -30595,7 +30596,7 @@
 			(at 0 6.35 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "P6SMB7.5A_C42394408"
+		(property "Value" "P6SMB7.5A"
 			(at 0 -3.81 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -30833,7 +30834,7 @@
 			(at 0 10.16 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "PXT8050_C41375136"
+		(property "Value" "PXT8050"
 			(at 0 -10.16 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -30949,7 +30950,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "RS2MF_C41411743"
+		(property "Value" "RS2MF"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -31039,7 +31040,7 @@
 			(at 0 10.16 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "S9012_C20069129"
+		(property "Value" "S9012"
 			(at 0 -10.16 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -31271,7 +31272,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "SD103AWS_C7420360"
+		(property "Value" "SD103AWS"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -31381,7 +31382,7 @@
 			(at 0 10.16 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "SI2302_C427390"
+		(property "Value" "SI2302"
 			(at 0 -10.16 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -31563,7 +31564,7 @@
 			(at 0 10.16 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "SM12_C42413903"
+		(property "Value" "SM12"
 			(at 0 -10.16 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -31896,7 +31897,7 @@
 			(at 0 12.7 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "SM712_C7420375"
+		(property "Value" "SM712"
 			(at 0 -12.7 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -32164,7 +32165,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "SMAJ12A_C19077531"
+		(property "Value" "SMAJ12A"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -32286,7 +32287,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "SMAJ14A_C41376406"
+		(property "Value" "SMAJ14A"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -32378,7 +32379,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "SMAJ14CA_C42394396"
+		(property "Value" "SMAJ14CA"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -32482,7 +32483,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "SMAJ18CA_C19077539"
+		(property "Value" "SMAJ18CA"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -32586,7 +32587,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "SMAJ200A_C41376409"
+		(property "Value" "SMAJ200A"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -32678,7 +32679,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "SMAJ20A_C41376408"
+		(property "Value" "SMAJ20A"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -32768,7 +32769,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "SMAJ24A_C19077541"
+		(property "Value" "SMAJ24A"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -32874,7 +32875,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "SMAJ300CA_C42394406"
+		(property "Value" "SMAJ300CA"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -32976,7 +32977,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "SMAJ40CA_C19077552"
+		(property "Value" "SMAJ40CA"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -33108,7 +33109,7 @@
 			(at 0 6.35 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "SMAJ43A_C41376402"
+		(property "Value" "SMAJ43A"
 			(at 0 -3.81 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -33218,7 +33219,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "SMAJ43CA_C41376400"
+		(property "Value" "SMAJ43CA"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -33334,7 +33335,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "SMAJ48CA_C19077553"
+		(property "Value" "SMAJ48CA"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -33438,7 +33439,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "SMAJ5.0CA_C19077524"
+		(property "Value" "SMAJ5.0CA"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -33540,7 +33541,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "SMAJ51CA_C41376404"
+		(property "Value" "SMAJ51CA"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -33650,7 +33651,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "SMAJ58A_C19077554"
+		(property "Value" "SMAJ58A"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -33756,7 +33757,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "SMAJ6.0CA_C19077526"
+		(property "Value" "SMAJ6.0CA"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -33888,7 +33889,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "SMAJ90CA_C42394402"
+		(property "Value" "SMAJ90CA"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -33992,7 +33993,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "SMBJ14CA_C41376097"
+		(property "Value" "SMBJ14CA"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -34116,7 +34117,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "SMBJ150CA_C42371743"
+		(property "Value" "SMBJ150CA"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -34220,7 +34221,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "SMBJ18A_C19077573"
+		(property "Value" "SMBJ18A"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -34312,7 +34313,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "SMBJ20CA_C19077576"
+		(property "Value" "SMBJ20CA"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -34416,7 +34417,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "SMBJ3.3CA_C19077557"
+		(property "Value" "SMBJ3.3CA"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -34520,7 +34521,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "SMBJ58A_C41376102"
+		(property "Value" "SMBJ58A"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -34630,7 +34631,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "SMBJ6.0CA_C2925451"
+		(property "Value" "SMBJ6.0CA"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -34732,7 +34733,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "SMBJ64A_C19077594"
+		(property "Value" "SMBJ64A"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -34840,7 +34841,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "SMBJ64CA_C41376099"
+		(property "Value" "SMBJ64CA"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -34944,7 +34945,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "SMBJ8.0CA_C41376100"
+		(property "Value" "SMBJ8.0CA"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -35048,7 +35049,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "SMCJ24CA_C41411747"
+		(property "Value" "SMCJ24CA"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -35172,7 +35173,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "SMCJ28CA_C19077606"
+		(property "Value" "SMCJ28CA"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -35296,7 +35297,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "SMCJ43CA_C41411745"
+		(property "Value" "SMCJ43CA"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -35400,7 +35401,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "SMCJ45CA_C41411750"
+		(property "Value" "SMCJ45CA"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -35518,7 +35519,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "SMCJ48A_C19077611"
+		(property "Value" "SMCJ48A"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -35612,7 +35613,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "SMCJ51A_C42371549"
+		(property "Value" "SMCJ51A"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -35722,7 +35723,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "SMCJ6.0A_C42394420"
+		(property "Value" "SMCJ6.0A"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -35814,7 +35815,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "SMCJ7.0CA_C41411766"
+		(property "Value" "SMCJ7.0CA"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -35938,7 +35939,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "SMDJ26CA_C42371716"
+		(property "Value" "SMDJ26CA"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -36042,7 +36043,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "SMDJ30CA_C42371552"
+		(property "Value" "SMDJ30CA"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -36166,7 +36167,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "SMDJ36CA_C42371556"
+		(property "Value" "SMDJ36CA"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -36268,7 +36269,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "SMF12A_C19077506"
+		(property "Value" "SMF12A"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -36376,7 +36377,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "SMF13CA_C19077508"
+		(property "Value" "SMF13CA"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -36496,7 +36497,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "SMF14CA_C41411783"
+		(property "Value" "SMF14CA"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -36600,7 +36601,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "SMF15CA_C19077510"
+		(property "Value" "SMF15CA"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -36720,7 +36721,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "SMF26A_C41376090"
+		(property "Value" "SMF26A"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -36830,7 +36831,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "SMF28A_C41376091"
+		(property "Value" "SMF28A"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -36922,7 +36923,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "SMF28CA_C19077517"
+		(property "Value" "SMF28CA"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -37040,7 +37041,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "SMF30CA_C19077519"
+		(property "Value" "SMF30CA"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -37160,7 +37161,7 @@
 			(at 0 6.35 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "SMF33CA_C19077520"
+		(property "Value" "SMF33CA"
 			(at 0 -3.81 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -37268,7 +37269,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "SMF36CA_C19077521"
+		(property "Value" "SMF36CA"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -37388,7 +37389,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "SMF60CA_C41376092"
+		(property "Value" "SMF60CA"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -38603,7 +38604,7 @@
 			(at 0 10.16 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "SRV05-4_C7420376"
+		(property "Value" "SRV05-4"
 			(at 0 -9.91 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -39024,7 +39025,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "SS16F_C41411769"
+		(property "Value" "SS16F"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -39118,7 +39119,7 @@
 			(at 0 6.35 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "SS215_C28646295"
+		(property "Value" "SS215"
 			(at 0 -3.81 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -39228,7 +39229,7 @@
 			(at 0 6.35 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "SS220F_C41411772"
+		(property "Value" "SS220F"
 			(at 0 -3.81 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -39322,7 +39323,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "SS32B_C41410789"
+		(property "Value" "SS32B"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -39416,7 +39417,7 @@
 			(at 0 5.33 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "SS34_C7420365"
+		(property "Value" "SS34"
 			(at 0 -4.83 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -39526,7 +39527,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "SS515C_C28646296"
+		(property "Value" "SS515C"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -39616,7 +39617,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "SS52B_C41410781"
+		(property "Value" "SS52B"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -39710,7 +39711,7 @@
 			(at 0 6.35 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "SS52F_C41411778"
+		(property "Value" "SS52F"
 			(at 0 -3.81 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -39804,7 +39805,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "SS54_C7420369"
+		(property "Value" "SS54"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -39902,7 +39903,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "SS58B_C41410782"
+		(property "Value" "SS58B"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -39992,7 +39993,7 @@
 			(at 0 6.35 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "SSL36F_C28646281"
+		(property "Value" "SSL36F"
 			(at 0 -3.81 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -42857,7 +42858,7 @@
 			(at 0 5.33 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "US2MB_C18199134"
+		(property "Value" "US2MB"
 			(at 0 -4.83 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -43601,7 +43602,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "SSL510C_C41410793"
+		(property "Value" "SSL510C"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -43905,7 +43906,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "BZX584C11_C22395578"
+		(property "Value" "BZX584C11"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -44166,7 +44167,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "BZX584C12_C22395579"
+		(property "Value" "BZX584C12"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -44301,7 +44302,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "BZX584C13_C22395580"
+		(property "Value" "BZX584C13"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -45124,7 +45125,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "BZX584C18_C22395581"
+		(property "Value" "BZX584C18"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -45299,7 +45300,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "1N4004W_C18199087"
+		(property "Value" "1N4004W"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -45345,7 +45346,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "1N4148WT_C7420320"
+		(property "Value" "1N4148WT"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -45391,7 +45392,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "1N4148W_C7420318"
+		(property "Value" "1N4148W"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -45437,7 +45438,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "1SMA4729A_C19077475"
+		(property "Value" "1SMA4729A"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -45483,7 +45484,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "1SMA4733A_C19077476"
+		(property "Value" "1SMA4733A"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -45529,7 +45530,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "1SMA4734A_C19077477"
+		(property "Value" "1SMA4734A"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -45575,7 +45576,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "1SMA4737A_C19077478"
+		(property "Value" "1SMA4737A"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -45621,7 +45622,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "1SMA4740A_C19077479"
+		(property "Value" "1SMA4740A"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -45667,7 +45668,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "1SMA4742A_C19077480"
+		(property "Value" "1SMA4742A"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -45713,7 +45714,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "1SMA4743A_C19077481"
+		(property "Value" "1SMA4743A"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -45759,7 +45760,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "1SMA4744A_C19077482"
+		(property "Value" "1SMA4744A"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -45805,7 +45806,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "1SMA4746A_C19077483"
+		(property "Value" "1SMA4746A"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -45851,7 +45852,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "1SMA4749A_C19077485"
+		(property "Value" "1SMA4749A"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -45897,7 +45898,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "1SMA5913A_C19077486"
+		(property "Value" "1SMA5913A"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -45943,7 +45944,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "1SMA5918A_C19077487"
+		(property "Value" "1SMA5918A"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -45989,7 +45990,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "1SMA5919A_C19077488"
+		(property "Value" "1SMA5919A"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -46035,7 +46036,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "1SMA5928A_C19077490"
+		(property "Value" "1SMA5928A"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -46081,7 +46082,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "1SMA5929A_C19077491"
+		(property "Value" "1SMA5929A"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -46127,7 +46128,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "1SMA5930A_C19077492"
+		(property "Value" "1SMA5930A"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -46173,7 +46174,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "1SS357_C22466359"
+		(property "Value" "1SS357"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -46821,7 +46822,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "1SMA4747A_C19077484"
+		(property "Value" "1SMA4747A"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -47644,7 +47645,7 @@
 			(at 0 10.16 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "2SD965A_C41375140"
+		(property "Value" "2SD965A"
 			(at 0 -10.16 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -47733,7 +47734,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "BZX584C3V3_C19077462"
+		(property "Value" "BZX584C3V3"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -47908,7 +47909,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "BZX584C3V9_C22395575"
+		(property "Value" "BZX584C3V9"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -48169,7 +48170,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "RB160M-30_C7502715"
+		(property "Value" "RB160M-30"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -48258,7 +48259,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "BAT43W_C22466358"
+		(property "Value" "BAT43W"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -48304,7 +48305,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "SS33_C28646294"
+		(property "Value" "SS33"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -49729,7 +49730,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "SSL34F_C28646282"
+		(property "Value" "SSL34F"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -50334,7 +50335,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "5.0SMDJ75CA_C2990416"
+		(property "Value" "5.0SMDJ75CA"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -50423,7 +50424,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "BZX584C5V1_C19077463"
+		(property "Value" "BZX584C5V1"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -50512,7 +50513,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "BZX584C5V6_C19077464"
+		(property "Value" "BZX584C5V6"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -52763,7 +52764,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "BZX584C9V1_C19077465"
+		(property "Value" "BZX584C9V1"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -52895,7 +52896,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "B0520W_C7502707"
+		(property "Value" "B0520W"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -52941,7 +52942,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "B0530WS_C7502697"
+		(property "Value" "B0530WS"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -52987,7 +52988,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "B0530W_C7502708"
+		(property "Value" "B0530W"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -53033,7 +53034,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "B0540WS_C7420326"
+		(property "Value" "B0540WS"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -53079,7 +53080,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "B0540W_C7420325"
+		(property "Value" "B0540W"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -53125,7 +53126,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "B16WS_C7420327"
+		(property "Value" "B16WS"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -53171,7 +53172,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "B16W_C7502710"
+		(property "Value" "B16W"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -53217,7 +53218,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "B5817WS_C7420329"
+		(property "Value" "B5817WS"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -53263,7 +53264,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "B5817W_C7420328"
+		(property "Value" "B5817W"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -53309,7 +53310,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "B5818W_C22466365"
+		(property "Value" "B5818W"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -53398,7 +53399,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "B5819WS_C7420331"
+		(property "Value" "B5819WS"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -53444,7 +53445,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "B5819WT_C7502714"
+		(property "Value" "B5819WT"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -53490,7 +53491,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "B5819W_C7420330"
+		(property "Value" "B5819W"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -53536,7 +53537,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "BAS316_C7502720"
+		(property "Value" "BAS316"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -53582,7 +53583,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "BAS40WS_C28646260"
+		(property "Value" "BAS40WS"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -53628,7 +53629,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "BAS416_C7502719"
+		(property "Value" "BAS416"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -53674,7 +53675,7 @@
 			(at 0 13.97 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "BAS70-04_C7502687"
+		(property "Value" "BAS70-04"
 			(at 0 -13.97 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -53720,7 +53721,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "BAS70WS_C7502716"
+		(property "Value" "BAS70WS"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -53766,7 +53767,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "BAT42W_C22466362"
+		(property "Value" "BAT42W"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -53812,7 +53813,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "BAT43WS_C7502693"
+		(property "Value" "BAT43WS"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -53858,7 +53859,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "BAT46WS_C7502692"
+		(property "Value" "BAT46WS"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -53904,7 +53905,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "BAT46W_C7420332"
+		(property "Value" "BAT46W"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -53950,7 +53951,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "BAT54WS_C7502694"
+		(property "Value" "BAT54WS"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -53996,7 +53997,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "BAT60B_C7502695"
+		(property "Value" "BAT60B"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -54042,7 +54043,7 @@
 			(at 0 10.16 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "BAT720_C22466371"
+		(property "Value" "BAT720"
 			(at 0 -10.16 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -54088,7 +54089,7 @@
 			(at 0 13.97 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "BAW56_C7502729"
+		(property "Value" "BAW56"
 			(at 0 -13.97 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -54134,7 +54135,7 @@
 			(at 0 10.16 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "BC807-16_C41375133"
+		(property "Value" "BC807-16"
 			(at 0 -10.16 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -54180,7 +54181,7 @@
 			(at 0 10.16 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "BC817-40_C20069155"
+		(property "Value" "BC817-40"
 			(at 0 -10.16 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -54226,7 +54227,7 @@
 			(at 0 10.16 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "BC846B_C20069134"
+		(property "Value" "BC846B"
 			(at 0 -10.16 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -54272,7 +54273,7 @@
 			(at 0 10.16 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "BC847B_C20069135"
+		(property "Value" "BC847B"
 			(at 0 -10.16 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -54318,7 +54319,7 @@
 			(at 0 10.16 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "BC847C_C7420337"
+		(property "Value" "BC847C"
 			(at 0 -10.16 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -54364,7 +54365,7 @@
 			(at 0 10.16 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "BCX53-16_C41375135"
+		(property "Value" "BCX53-16"
 			(at 0 -10.16 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -54410,7 +54411,7 @@
 			(at 0 10.16 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "BCX55-16_C41375120"
+		(property "Value" "BCX55-16"
 			(at 0 -10.16 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -54456,7 +54457,7 @@
 			(at 0 10.16 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "BCX56-16_C20069133"
+		(property "Value" "BCX56-16"
 			(at 0 -10.16 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -54502,7 +54503,7 @@
 			(at 0 10.16 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "BSS138_C7420339"
+		(property "Value" "BSS138"
 			(at 0 -10.16 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -54548,7 +54549,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "BZT52B10S_C22399886"
+		(property "Value" "BZT52B10S"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -54594,7 +54595,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "BZT52B10_C22395568"
+		(property "Value" "BZT52B10"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -54640,7 +54641,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "BZT52B12S_C22395572"
+		(property "Value" "BZT52B12S"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -54686,7 +54687,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "BZT52B12_C22395569"
+		(property "Value" "BZT52B12"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -54732,7 +54733,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "BZT52B13_C22399883"
+		(property "Value" "BZT52B13"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -54778,7 +54779,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "BZT52B15_C22395570"
+		(property "Value" "BZT52B15"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -54824,7 +54825,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "BZT52B3V3_C19077392"
+		(property "Value" "BZT52B3V3"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -54870,7 +54871,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "BZT52B5V1S_C19077434"
+		(property "Value" "BZT52B5V1S"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -54916,7 +54917,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "BZT52B5V1_C19077393"
+		(property "Value" "BZT52B5V1"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -54962,7 +54963,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "BZT52B5V6S_C19077435"
+		(property "Value" "BZT52B5V6S"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -55008,7 +55009,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "BZT52B5V6_C22399881"
+		(property "Value" "BZT52B5V6"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -55054,7 +55055,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "BZT52B8V2S_C22399884"
+		(property "Value" "BZT52B8V2S"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -55100,7 +55101,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "BZT52B8V2_C22399882"
+		(property "Value" "BZT52B8V2"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -55146,7 +55147,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "BZT52B9V1S_C22399885"
+		(property "Value" "BZT52B9V1S"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -55192,7 +55193,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "BZT52C10S_C19077446"
+		(property "Value" "BZT52C10S"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -55238,7 +55239,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "BZT52C10_C19077408"
+		(property "Value" "BZT52C10"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -55284,7 +55285,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "BZT52C11S_C22375287"
+		(property "Value" "BZT52C11S"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -55330,7 +55331,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "BZT52C11_C19077409"
+		(property "Value" "BZT52C11"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -55376,7 +55377,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "BZT52C12S_C19077447"
+		(property "Value" "BZT52C12S"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -55422,7 +55423,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "BZT52C12_C19077410"
+		(property "Value" "BZT52C12"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -55468,7 +55469,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "BZT52C13S_C22399889"
+		(property "Value" "BZT52C13S"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -55514,7 +55515,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "BZT52C13_C19077411"
+		(property "Value" "BZT52C13"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -55560,7 +55561,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "BZT52C15S_C19077448"
+		(property "Value" "BZT52C15S"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -55606,7 +55607,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "BZT52C15_C19077412"
+		(property "Value" "BZT52C15"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -55652,7 +55653,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "BZT52C16S_C19077449"
+		(property "Value" "BZT52C16S"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -55698,7 +55699,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "BZT52C16_C19077413"
+		(property "Value" "BZT52C16"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -55744,7 +55745,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "BZT52C18S_C19077450"
+		(property "Value" "BZT52C18S"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -55790,7 +55791,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "BZT52C18_C19077414"
+		(property "Value" "BZT52C18"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -55836,7 +55837,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "BZT52C20S_C19077451"
+		(property "Value" "BZT52C20S"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -55882,7 +55883,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "BZT52C20_C19077415"
+		(property "Value" "BZT52C20"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -55928,7 +55929,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "BZT52C24S_C22375289"
+		(property "Value" "BZT52C24S"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -55974,7 +55975,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "BZT52C24_C19077416"
+		(property "Value" "BZT52C24"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -56020,7 +56021,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "BZT52C27S_C22375300"
+		(property "Value" "BZT52C27S"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -56066,7 +56067,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "BZT52C27_C19077417"
+		(property "Value" "BZT52C27"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -56112,7 +56113,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "BZT52C2V4S_C22375290"
+		(property "Value" "BZT52C2V4S"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -56158,7 +56159,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "BZT52C2V4_C22375296"
+		(property "Value" "BZT52C2V4"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -56204,7 +56205,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "BZT52C2V7S_C22375298"
+		(property "Value" "BZT52C2V7S"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -56250,7 +56251,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "BZT52C2V7_C19077394"
+		(property "Value" "BZT52C2V7"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -56296,7 +56297,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "BZT52C30S_C22375291"
+		(property "Value" "BZT52C30S"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -56342,7 +56343,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "BZT52C30_C19077418"
+		(property "Value" "BZT52C30"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -56388,7 +56389,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "BZT52C33S_C22375292"
+		(property "Value" "BZT52C33S"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -56434,7 +56435,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "BZT52C33_C19077419"
+		(property "Value" "BZT52C33"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -56480,7 +56481,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "BZT52C36S_C22375293"
+		(property "Value" "BZT52C36S"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -56526,7 +56527,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "BZT52C36_C19077420"
+		(property "Value" "BZT52C36"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -56572,7 +56573,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "BZT52C3V0S_C19077436"
+		(property "Value" "BZT52C3V0S"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -56618,7 +56619,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "BZT52C3V0_C19077395"
+		(property "Value" "BZT52C3V0"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -56664,7 +56665,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "BZT52C3V3S_C19077437"
+		(property "Value" "BZT52C3V3S"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -56710,7 +56711,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "BZT52C3V3_C19077396"
+		(property "Value" "BZT52C3V3"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -56756,7 +56757,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "BZT52C3V6S_C19077438"
+		(property "Value" "BZT52C3V6S"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -56802,7 +56803,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "BZT52C3V6_C19077397"
+		(property "Value" "BZT52C3V6"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -56848,7 +56849,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "BZT52C3V9S_C22375299"
+		(property "Value" "BZT52C3V9S"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -56894,7 +56895,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "BZT52C3V9_C19077398"
+		(property "Value" "BZT52C3V9"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -56940,7 +56941,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "BZT52C43_C22395571"
+		(property "Value" "BZT52C43"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -56986,7 +56987,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "BZT52C47_C22399887"
+		(property "Value" "BZT52C47"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -57032,7 +57033,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "BZT52C4V3S_C22399888"
+		(property "Value" "BZT52C4V3S"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -57078,7 +57079,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "BZT52C4V3_C19077399"
+		(property "Value" "BZT52C4V3"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -57124,7 +57125,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "BZT52C4V7S_C19077439"
+		(property "Value" "BZT52C4V7S"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -57170,7 +57171,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "BZT52C4V7_C19077400"
+		(property "Value" "BZT52C4V7"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -57216,7 +57217,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "BZT52C5V1S_C19077440"
+		(property "Value" "BZT52C5V1S"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -57262,7 +57263,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "BZT52C5V1_C19077401"
+		(property "Value" "BZT52C5V1"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -57308,7 +57309,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "BZT52C5V6S_C19077441"
+		(property "Value" "BZT52C5V6S"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -57354,7 +57355,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "BZT52C5V6_C19077402"
+		(property "Value" "BZT52C5V6"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -57400,7 +57401,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "BZT52C6V2S_C19077442"
+		(property "Value" "BZT52C6V2S"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -57446,7 +57447,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "BZT52C6V2_C19077403"
+		(property "Value" "BZT52C6V2"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -57492,7 +57493,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "BZT52C6V8S_C19077443"
+		(property "Value" "BZT52C6V8S"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -57538,7 +57539,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "BZT52C6V8_C19077404"
+		(property "Value" "BZT52C6V8"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -57584,7 +57585,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "BZT52C75_C22375297"
+		(property "Value" "BZT52C75"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -57630,7 +57631,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "BZT52C7V5S_C19077444"
+		(property "Value" "BZT52C7V5S"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -57676,7 +57677,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "BZT52C7V5_C19077405"
+		(property "Value" "BZT52C7V5"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -57722,7 +57723,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "BZT52C8V2S_C22375294"
+		(property "Value" "BZT52C8V2S"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -57768,7 +57769,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "BZT52C8V2_C19077406"
+		(property "Value" "BZT52C8V2"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -57814,7 +57815,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "BZT52C9V1S_C19077445"
+		(property "Value" "BZT52C9V1S"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -57860,7 +57861,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "BZT52C9V1_C19077407"
+		(property "Value" "BZT52C9V1"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -57906,7 +57907,7 @@
 			(at 0 12.7 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "BZX84C12_C19077471"
+		(property "Value" "BZX84C12"
 			(at 0 -12.7 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -57952,7 +57953,7 @@
 			(at 0 12.7 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "BZX84C33_C22379474"
+		(property "Value" "BZX84C33"
 			(at 0 -15.24 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -57998,7 +57999,7 @@
 			(at 0 12.7 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "BZX84C3V3_C19077467"
+		(property "Value" "BZX84C3V3"
 			(at 0 -12.7 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -58044,7 +58045,7 @@
 			(at 0 12.7 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "BZX84C5V1_C19077468"
+		(property "Value" "BZX84C5V1"
 			(at 0 -12.7 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -58090,7 +58091,7 @@
 			(at 0 11.43 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "BZX84C7V5_C22379470"
+		(property "Value" "BZX84C7V5"
 			(at 0 -11.43 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -58136,7 +58137,7 @@
 			(at 0 10.16 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "D882H_C41375123"
+		(property "Value" "D882H"
 			(at 0 -10.16 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -58182,7 +58183,7 @@
 			(at 0 10.16 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "D882_C20069128"
+		(property "Value" "D882"
 			(at 0 -10.16 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -58228,7 +58229,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "DSK110_C22466354"
+		(property "Value" "DSK110"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -58274,7 +58275,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "DSK120_C22466355"
+		(property "Value" "DSK120"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -58320,7 +58321,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "DSK12_C22466356"
+		(property "Value" "DSK12"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -58366,7 +58367,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "DSK16_C22466351"
+		(property "Value" "DSK16"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -58412,7 +58413,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "DSK210_C7502713"
+		(property "Value" "DSK210"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -58458,7 +58459,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "DSK26_C7502712"
+		(property "Value" "DSK26"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -58504,7 +58505,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "DSK36_C22466353"
+		(property "Value" "DSK36"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -58550,7 +58551,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "DSL14_C22466349"
+		(property "Value" "DSL14"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -58596,7 +58597,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "DSL16_C22466348"
+		(property "Value" "DSL16"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -58642,7 +58643,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "ES1B_C18199157"
+		(property "Value" "ES1B"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -58688,7 +58689,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "ES1DW_C18199155"
+		(property "Value" "ES1DW"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -58734,7 +58735,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "ES1D_C18199158"
+		(property "Value" "ES1D"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -58866,7 +58867,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "ES1JW_C18199137"
+		(property "Value" "ES1JW"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -58912,7 +58913,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "ES2A_C18199139"
+		(property "Value" "ES2A"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -58958,7 +58959,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "ES2D_C18199161"
+		(property "Value" "ES2D"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -59004,7 +59005,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "ES2G_C18199140"
+		(property "Value" "ES2G"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -59050,7 +59051,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "ES2JB_C18199141"
+		(property "Value" "ES2JB"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -59096,7 +59097,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "ES2JF_C7420342"
+		(property "Value" "ES2JF"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -59142,7 +59143,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "ES2JW_C18199156"
+		(property "Value" "ES2JW"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -59188,7 +59189,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "ES2J_C7420341"
+		(property "Value" "ES2J"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -59234,7 +59235,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "ES3DC_C18199164"
+		(property "Value" "ES3DC"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -59280,7 +59281,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "ES5DC_C18199144"
+		(property "Value" "ES5DC"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -59326,7 +59327,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "ES5JBF_C18199154"
+		(property "Value" "ES5JBF"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -59372,7 +59373,7 @@
 			(at 0 10.16 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "FMMT591_C41375132"
+		(property "Value" "FMMT591"
 			(at 0 -10.16 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -59418,7 +59419,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "FR107W_C18199114"
+		(property "Value" "FR107W"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -59464,7 +59465,7 @@
 			(at 0 8.89 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "GBU410A_C42406068"
+		(property "Value" "GBU410A"
 			(at 0 -8.89 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -59510,7 +59511,7 @@
 			(at 0 10.16 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "GBU606_C42406065"
+		(property "Value" "GBU606"
 			(at 0 -7.62 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -59556,7 +59557,7 @@
 			(at 0 10.16 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "GBU810_C42406070"
+		(property "Value" "GBU810"
 			(at 0 -7.62 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -61712,7 +61713,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "M4_C18199095"
+		(property "Value" "M4"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -61801,7 +61802,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "M7F_C18199090"
+		(property "Value" "M7F"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -61847,7 +61848,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "M7_C7420350"
+		(property "Value" "M7"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -61893,7 +61894,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "MM1W100_C22435090"
+		(property "Value" "MM1W100"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -61939,7 +61940,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "MM1W10_C22395527"
+		(property "Value" "MM1W10"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -61985,7 +61986,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "MM1W11_C22395528"
+		(property "Value" "MM1W11"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -62031,7 +62032,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "MM1W12_C22435092"
+		(property "Value" "MM1W12"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -62077,7 +62078,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "MM1W15_C22435095"
+		(property "Value" "MM1W15"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -62123,7 +62124,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "MM1W20_C22435093"
+		(property "Value" "MM1W20"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -62169,7 +62170,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "MM1W22_C22395530"
+		(property "Value" "MM1W22"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -62215,7 +62216,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "MM1W24_C22395531"
+		(property "Value" "MM1W24"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -62261,7 +62262,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "MM1W30_C22395532"
+		(property "Value" "MM1W30"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -62307,7 +62308,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "MM1W36_C22435089"
+		(property "Value" "MM1W36"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -62353,7 +62354,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "MM1W3V3_C22395523"
+		(property "Value" "MM1W3V3"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -62399,7 +62400,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "MM1W3V6_C22395524"
+		(property "Value" "MM1W3V6"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -62445,7 +62446,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "MM1W3V9_C22395525"
+		(property "Value" "MM1W3V9"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -62491,7 +62492,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "MM1W4V7_C22435096"
+		(property "Value" "MM1W4V7"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -62537,7 +62538,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "MM1W5V1_C22395526"
+		(property "Value" "MM1W5V1"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -62583,7 +62584,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "MM1W5V6_C22435086"
+		(property "Value" "MM1W5V6"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -62629,7 +62630,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "MM1W6V2_C22435091"
+		(property "Value" "MM1W6V2"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -62675,7 +62676,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "MM1W6V8_C22435087"
+		(property "Value" "MM1W6V8"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -62721,7 +62722,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "MM1W75_C22395541"
+		(property "Value" "MM1W75"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -62767,7 +62768,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "MM1W7V5_C22435097"
+		(property "Value" "MM1W7V5"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -62813,7 +62814,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "MM1W8V2_C22435098"
+		(property "Value" "MM1W8V2"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -62859,7 +62860,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "MM1W91_C22435088"
+		(property "Value" "MM1W91"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -62905,7 +62906,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "MM1W9V1_C22435094"
+		(property "Value" "MM1W9V1"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -62951,7 +62952,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "MM1Z12_C22379459"
+		(property "Value" "MM1Z12"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -62997,7 +62998,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "MM1Z15_C22379462"
+		(property "Value" "MM1Z15"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -63043,7 +63044,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "MM1Z16_C22379461"
+		(property "Value" "MM1Z16"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -63089,7 +63090,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "MM1Z18B_C22379455"
+		(property "Value" "MM1Z18B"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -63135,7 +63136,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "MM1Z18_C22379466"
+		(property "Value" "MM1Z18"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -63181,7 +63182,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "MM1Z20_C22379467"
+		(property "Value" "MM1Z20"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -63227,7 +63228,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "MM1Z24_C22379465"
+		(property "Value" "MM1Z24"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -63273,7 +63274,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "MM1Z27_C22379469"
+		(property "Value" "MM1Z27"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -63319,7 +63320,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "MM1Z2V0B_C22395534"
+		(property "Value" "MM1Z2V0B"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -63365,7 +63366,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "MM1Z2V7B_C22395535"
+		(property "Value" "MM1Z2V7B"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -63411,7 +63412,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "MM1Z2V7_C22379468"
+		(property "Value" "MM1Z2V7"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -63457,7 +63458,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "MM1Z30B_C22466339"
+		(property "Value" "MM1Z30B"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -63503,7 +63504,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "MM1Z3V0_C22379463"
+		(property "Value" "MM1Z3V0"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -63549,7 +63550,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "MM1Z3V3_C22379456"
+		(property "Value" "MM1Z3V3"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -63595,7 +63596,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "MM1Z3V6_C22379457"
+		(property "Value" "MM1Z3V6"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -63641,7 +63642,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "MM1Z47B_C22466345"
+		(property "Value" "MM1Z47B"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -63687,7 +63688,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "MM1Z4V7_C22379458"
+		(property "Value" "MM1Z4V7"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -63733,7 +63734,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "MM1Z5V1B_C22466343"
+		(property "Value" "MM1Z5V1B"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -63779,7 +63780,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "MM1Z5V1_C22395538"
+		(property "Value" "MM1Z5V1"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -63825,7 +63826,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "MM1Z5V6B_C22395536"
+		(property "Value" "MM1Z5V6B"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -63871,7 +63872,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "MM1Z5V6_C22395539"
+		(property "Value" "MM1Z5V6"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -63917,7 +63918,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "MM1Z62B_C22466338"
+		(property "Value" "MM1Z62B"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -63963,7 +63964,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "MM1Z62_C22395540"
+		(property "Value" "MM1Z62"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -64009,7 +64010,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "MM1Z6V2_C22379464"
+		(property "Value" "MM1Z6V2"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -64055,7 +64056,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "MM1Z6V8_C22379460"
+		(property "Value" "MM1Z6V8"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -64101,7 +64102,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "MM3Z10_C19077459"
+		(property "Value" "MM3Z10"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -64147,7 +64148,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "MM3Z12_C19077460"
+		(property "Value" "MM3Z12"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -64193,7 +64194,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "MM3Z15_C22399890"
+		(property "Value" "MM3Z15"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -64239,7 +64240,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "MM3Z16_C41410798"
+		(property "Value" "MM3Z16"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -64285,7 +64286,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "MM3Z18_C19077461"
+		(property "Value" "MM3Z18"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -64331,7 +64332,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "MM3Z3V0_C19077452"
+		(property "Value" "MM3Z3V0"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -64377,7 +64378,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "MM3Z3V3_C19077453"
+		(property "Value" "MM3Z3V3"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -64423,7 +64424,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "MM3Z3V6_C19077454"
+		(property "Value" "MM3Z3V6"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -64469,7 +64470,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "MM3Z4V7_C22399891"
+		(property "Value" "MM3Z4V7"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -64515,7 +64516,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "MM3Z51_C22395542"
+		(property "Value" "MM3Z51"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -64561,7 +64562,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "MM3Z56_C22399892"
+		(property "Value" "MM3Z56"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -64607,7 +64608,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "MM3Z5V1B_C22379454"
+		(property "Value" "MM3Z5V1B"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -64653,7 +64654,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "MM3Z5V1_C19077455"
+		(property "Value" "MM3Z5V1"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -64699,7 +64700,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "MM3Z5V6_C19077456"
+		(property "Value" "MM3Z5V6"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -64745,7 +64746,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "MM3Z6V2_C19077457"
+		(property "Value" "MM3Z6V2"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -64791,7 +64792,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "MM3Z6V8_C19077458"
+		(property "Value" "MM3Z6V8"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -64837,7 +64838,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "MM3Z9V1_C22399893"
+		(property "Value" "MM3Z9V1"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -64883,7 +64884,7 @@
 			(at 0 10.16 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "MMBT2222A_C7420351"
+		(property "Value" "MMBT2222A"
 			(at 0 -10.16 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -64929,7 +64930,7 @@
 			(at 0 10.16 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "MMBT2907A_C7420352"
+		(property "Value" "MMBT2907A"
 			(at 0 -10.16 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -64975,7 +64976,7 @@
 			(at 0 10.16 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "MMBT3904_C7420353"
+		(property "Value" "MMBT3904"
 			(at 0 -10.16 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -65021,7 +65022,7 @@
 			(at 0 10.16 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "MMBT3906_C7420354"
+		(property "Value" "MMBT3906"
 			(at 0 -10.16 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -65067,7 +65068,7 @@
 			(at 0 10.16 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "MMBT4401_C7420355"
+		(property "Value" "MMBT4401"
 			(at 0 -10.16 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -65113,7 +65114,7 @@
 			(at 0 10.16 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "MMBT5401_C7420356"
+		(property "Value" "MMBT5401"
 			(at 0 -10.16 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -65159,7 +65160,7 @@
 			(at 0 10.16 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "MMBT5551_C408396"
+		(property "Value" "MMBT5551"
 			(at 0 -10.16 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -65205,7 +65206,7 @@
 			(at 0 10.16 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "MMBT5551_C7420357"
+		(property "Value" "MMBT5551"
 			(at 0 -10.16 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -65251,7 +65252,7 @@
 			(at 0 10.16 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "MMBTA05_C41375114"
+		(property "Value" "MMBTA05"
 			(at 0 -10.16 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -65297,7 +65298,7 @@
 			(at 0 10.16 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "MMBTA44_C20069141"
+		(property "Value" "MMBTA44"
 			(at 0 -10.16 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -65343,7 +65344,7 @@
 			(at 0 10.16 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "MMBTA92_C20069146"
+		(property "Value" "MMBTA92"
 			(at 0 -10.16 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -65389,7 +65390,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "MMSZ4685_C22395546"
+		(property "Value" "MMSZ4685"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -65435,7 +65436,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "MMSZ4691_C22395549"
+		(property "Value" "MMSZ4691"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -65481,7 +65482,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "MMSZ4692_C22395550"
+		(property "Value" "MMSZ4692"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -65527,7 +65528,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "MMSZ4696_C42371756"
+		(property "Value" "MMSZ4696"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -65573,7 +65574,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "MMSZ4699_C22395551"
+		(property "Value" "MMSZ4699"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -65619,7 +65620,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "MMSZ5225B_C22399894"
+		(property "Value" "MMSZ5225B"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -65665,7 +65666,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "MMSZ5226B_C19077421"
+		(property "Value" "MMSZ5226B"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -65711,7 +65712,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "MMSZ5227B_C22395553"
+		(property "Value" "MMSZ5227B"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -65757,7 +65758,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "MMSZ5228B_C22399895"
+		(property "Value" "MMSZ5228B"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -65803,7 +65804,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "MMSZ5229B_C22399896"
+		(property "Value" "MMSZ5229B"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -65849,7 +65850,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "MMSZ5230B_C22395554"
+		(property "Value" "MMSZ5230B"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -65895,7 +65896,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "MMSZ5231BS_C22395562"
+		(property "Value" "MMSZ5231BS"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -65941,7 +65942,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "MMSZ5232BS_C22395563"
+		(property "Value" "MMSZ5232BS"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -65987,7 +65988,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "MMSZ5232B_C19077423"
+		(property "Value" "MMSZ5232B"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -66033,7 +66034,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "MMSZ5234BS_C41410801"
+		(property "Value" "MMSZ5234BS"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -66079,7 +66080,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "MMSZ5234B_C22395555"
+		(property "Value" "MMSZ5234B"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -66125,7 +66126,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "MMSZ5235B_C19077424"
+		(property "Value" "MMSZ5235B"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -66171,7 +66172,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "MMSZ5236B_C22395556"
+		(property "Value" "MMSZ5236B"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -66217,7 +66218,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "MMSZ5238B_C22399897"
+		(property "Value" "MMSZ5238B"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -66263,7 +66264,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "MMSZ5239BS_C22395564"
+		(property "Value" "MMSZ5239BS"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -66309,7 +66310,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "MMSZ5239B_C22395558"
+		(property "Value" "MMSZ5239B"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -66355,7 +66356,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "MMSZ5240B_C19077425"
+		(property "Value" "MMSZ5240B"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -66401,7 +66402,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "MMSZ5242B_C19077426"
+		(property "Value" "MMSZ5242B"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -66447,7 +66448,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "MMSZ5243B_C19077427"
+		(property "Value" "MMSZ5243B"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -66493,7 +66494,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "MMSZ5245BS_C41410799"
+		(property "Value" "MMSZ5245BS"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -66539,7 +66540,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "MMSZ5245B_C19077428"
+		(property "Value" "MMSZ5245B"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -66585,7 +66586,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "MMSZ5246BS_C22395565"
+		(property "Value" "MMSZ5246BS"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -66631,7 +66632,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "MMSZ5246B_C19077429"
+		(property "Value" "MMSZ5246B"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -66677,7 +66678,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "MMSZ5248BS_C22395566"
+		(property "Value" "MMSZ5248BS"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -66723,7 +66724,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "MMSZ5248B_C19077430"
+		(property "Value" "MMSZ5248B"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -66769,7 +66770,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "MMSZ5250BS_C22395567"
+		(property "Value" "MMSZ5250BS"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -66815,7 +66816,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "MMSZ5250B_C19077431"
+		(property "Value" "MMSZ5250B"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -66861,7 +66862,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "MMSZ5251BS_C41410797"
+		(property "Value" "MMSZ5251BS"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -66907,7 +66908,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "MMSZ5251B_C22395560"
+		(property "Value" "MMSZ5251B"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -66953,7 +66954,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "MMSZ5252B_C19077432"
+		(property "Value" "MMSZ5252B"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -66999,7 +67000,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "MMSZ5254B_C22395561"
+		(property "Value" "MMSZ5254B"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -67045,7 +67046,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "MMSZ5256B_C19077433"
+		(property "Value" "MMSZ5256B"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -67091,7 +67092,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "MMSZ5257B_C22399898"
+		(property "Value" "MMSZ5257B"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -67137,7 +67138,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "MMSZ5258B_C22399899"
+		(property "Value" "MMSZ5258B"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -67183,7 +67184,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "MMSZ5259B_C22399900"
+		(property "Value" "MMSZ5259B"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -67229,7 +67230,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "P4SMA6.8CA_C19077555"
+		(property "Value" "P4SMA6.8CA"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -67275,7 +67276,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "P6SMB200A_C42394412"
+		(property "Value" "P6SMB200A"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -67321,7 +67322,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "P6SMB30CA_C19077601"
+		(property "Value" "P6SMB30CA"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -67367,7 +67368,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "P6SMB36CA_C19077602"
+		(property "Value" "P6SMB36CA"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -67413,7 +67414,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "P6SMB39A_C42394410"
+		(property "Value" "P6SMB39A"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -67459,7 +67460,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "P6SMB6.8A_C19077595"
+		(property "Value" "P6SMB6.8A"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -67505,7 +67506,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "RB501V-40_C7502717"
+		(property "Value" "RB501V-40"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -67551,7 +67552,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "RB520S-30_C7502701"
+		(property "Value" "RB520S-30"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -67597,7 +67598,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "RB520S-40_C22466372"
+		(property "Value" "RB520S-40"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -67643,7 +67644,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "RB521S-30_C7502702"
+		(property "Value" "RB521S-30"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -67689,7 +67690,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "RB551V-40_C7502699"
+		(property "Value" "RB551V-40"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -67735,7 +67736,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "RB751S-40_C7502700"
+		(property "Value" "RB751S-40"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -67781,7 +67782,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "RB751V-40_C7502691"
+		(property "Value" "RB751V-40"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -67827,7 +67828,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "RS1G_C18199117"
+		(property "Value" "RS1G"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -67873,7 +67874,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "RS1J_C18199118"
+		(property "Value" "RS1J"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -67919,7 +67920,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "RS1M_C7420358"
+		(property "Value" "RS1M"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -67965,7 +67966,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "RS2M_C7420359"
+		(property "Value" "RS2M"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -68011,7 +68012,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "RS3MB_C18199119"
+		(property "Value" "RS3MB"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -68057,7 +68058,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "RS3MC_C18199120"
+		(property "Value" "RS3MC"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -68103,7 +68104,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "RS3MF_C18199116"
+		(property "Value" "RS3MF"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -68149,7 +68150,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "RS5MC_C18199121"
+		(property "Value" "RS5MC"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -68195,7 +68196,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "S10JC_C18199110"
+		(property "Value" "S10JC"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -68241,7 +68242,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "S10MC_C18199111"
+		(property "Value" "S10MC"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -68287,7 +68288,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "S2MB_C18199101"
+		(property "Value" "S2MB"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -68333,7 +68334,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "S2M_C18199100"
+		(property "Value" "S2M"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -68379,7 +68380,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "S3MB_C18199102"
+		(property "Value" "S3MB"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -68425,7 +68426,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "S3MC_C18199103"
+		(property "Value" "S3MC"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -68471,7 +68472,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "S5BBF_C18199112"
+		(property "Value" "S5BBF"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -68560,7 +68561,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "S5MB_C18199105"
+		(property "Value" "S5MB"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -68606,7 +68607,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "S5MC_C18199106"
+		(property "Value" "S5MC"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -68652,7 +68653,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "S6MC_C18199107"
+		(property "Value" "S6MC"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -68744,7 +68745,7 @@
 			(at 0 10.16 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "S8050_C20069125"
+		(property "Value" "S8050"
 			(at 0 -10.16 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -68790,7 +68791,7 @@
 			(at 0 10.16 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "S8550_C20069126"
+		(property "Value" "S8550"
 			(at 0 -10.16 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -68836,7 +68837,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "S8KC_C18199108"
+		(property "Value" "S8KC"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -68882,7 +68883,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "S8MC_C18199109"
+		(property "Value" "S8MC"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -68928,7 +68929,7 @@
 			(at 0 10.16 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "S9013_C20069127"
+		(property "Value" "S9013"
 			(at 0 -10.16 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -68974,7 +68975,7 @@
 			(at 0 10.16 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "S9015_C20069131"
+		(property "Value" "S9015"
 			(at 0 -10.16 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -69020,7 +69021,7 @@
 			(at 0 10.16 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "S9018_C41375130"
+		(property "Value" "S9018"
 			(at 0 -10.16 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -69066,7 +69067,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "SD103AWT_C22466357"
+		(property "Value" "SD103AWT"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -69112,7 +69113,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "SD103CWS_C22466363"
+		(property "Value" "SD103CWS"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -69158,7 +69159,7 @@
 			(at 0 10.16 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "SI2301_C427391"
+		(property "Value" "SI2301"
 			(at 0 -10.16 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -69204,7 +69205,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "SK1010C_C18199193"
+		(property "Value" "SK1010C"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -69250,7 +69251,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "SMAJ10A_C41376407"
+		(property "Value" "SMAJ10A"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -69296,7 +69297,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "SMAJ10CA_C19077530"
+		(property "Value" "SMAJ10CA"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -69342,7 +69343,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "SMAJ12CA_C19077532"
+		(property "Value" "SMAJ12CA"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -69388,7 +69389,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "SMAJ13A_C19077533"
+		(property "Value" "SMAJ13A"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -69434,7 +69435,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "SMAJ13CA_C19077534"
+		(property "Value" "SMAJ13CA"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -69480,7 +69481,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "SMAJ15A_C19077535"
+		(property "Value" "SMAJ15A"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -69526,7 +69527,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "SMAJ15CA_C19077536"
+		(property "Value" "SMAJ15CA"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -69572,7 +69573,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "SMAJ16CA_C19077537"
+		(property "Value" "SMAJ16CA"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -69618,7 +69619,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "SMAJ20CA_C19077540"
+		(property "Value" "SMAJ20CA"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -69664,7 +69665,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "SMAJ26A_C19077543"
+		(property "Value" "SMAJ26A"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -69710,7 +69711,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "SMAJ28A_C19077545"
+		(property "Value" "SMAJ28A"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -69756,7 +69757,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "SMAJ28CA_C19077546"
+		(property "Value" "SMAJ28CA"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -69802,7 +69803,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "SMAJ30CA_C19077548"
+		(property "Value" "SMAJ30CA"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -69848,7 +69849,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "SMAJ33A_C41376399"
+		(property "Value" "SMAJ33A"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -69894,7 +69895,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "SMAJ48A_C41376401"
+		(property "Value" "SMAJ48A"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -69940,7 +69941,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "SMAJ5.0A_C2925443"
+		(property "Value" "SMAJ5.0A"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -69986,7 +69987,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "SMAJ6.0A_C19077525"
+		(property "Value" "SMAJ6.0A"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -70032,7 +70033,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "SMAJ60A_C42394398"
+		(property "Value" "SMAJ60A"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -70078,7 +70079,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "SMAJ64A_C42394400"
+		(property "Value" "SMAJ64A"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -70124,7 +70125,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "SMAJ7.0A_C42394395"
+		(property "Value" "SMAJ7.0A"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -70170,7 +70171,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "SMAJ7.0CA_C19077529"
+		(property "Value" "SMAJ7.0CA"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -70216,7 +70217,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "SMAJ90A_C42394403"
+		(property "Value" "SMAJ90A"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -70262,7 +70263,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "SMBJ12A_C19077565"
+		(property "Value" "SMBJ12A"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -70308,7 +70309,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "SMBJ12CA_C19077566"
+		(property "Value" "SMBJ12CA"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -70354,7 +70355,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "SMBJ13A_C19077567"
+		(property "Value" "SMBJ13A"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -70400,7 +70401,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "SMBJ13CA_C19077568"
+		(property "Value" "SMBJ13CA"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -70446,7 +70447,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "SMBJ15A_C19077569"
+		(property "Value" "SMBJ15A"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -70492,7 +70493,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "SMBJ15CA_C19077570"
+		(property "Value" "SMBJ15CA"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -70538,7 +70539,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "SMBJ16A_C19077571"
+		(property "Value" "SMBJ16A"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -70584,7 +70585,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "SMBJ16CA_C19077572"
+		(property "Value" "SMBJ16CA"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -70630,7 +70631,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "SMBJ18CA_C19077574"
+		(property "Value" "SMBJ18CA"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -70676,7 +70677,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "SMBJ20A_C19077575"
+		(property "Value" "SMBJ20A"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -70722,7 +70723,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "SMBJ22CA_C19077577"
+		(property "Value" "SMBJ22CA"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -70768,7 +70769,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "SMBJ24A_C19077578"
+		(property "Value" "SMBJ24A"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -70814,7 +70815,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "SMBJ24CA_C19077579"
+		(property "Value" "SMBJ24CA"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -70860,7 +70861,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "SMBJ26A_C19077580"
+		(property "Value" "SMBJ26A"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -70906,7 +70907,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "SMBJ28A_C19077582"
+		(property "Value" "SMBJ28A"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -70952,7 +70953,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "SMBJ28CA_C19077583"
+		(property "Value" "SMBJ28CA"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -70998,7 +70999,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "SMBJ3.3A_C19077556"
+		(property "Value" "SMBJ3.3A"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -71044,7 +71045,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "SMBJ30A_C19077584"
+		(property "Value" "SMBJ30A"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -71090,7 +71091,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "SMBJ30CA_C2925441"
+		(property "Value" "SMBJ30CA"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -71136,7 +71137,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "SMBJ33A_C19077586"
+		(property "Value" "SMBJ33A"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -71182,7 +71183,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "SMBJ33CA_C19077587"
+		(property "Value" "SMBJ33CA"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -71228,7 +71229,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "SMBJ36CA_C19077589"
+		(property "Value" "SMBJ36CA"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -71274,7 +71275,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "SMBJ40CA_C19077590"
+		(property "Value" "SMBJ40CA"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -71320,7 +71321,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "SMBJ43CA_C41376098"
+		(property "Value" "SMBJ43CA"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -71366,7 +71367,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "SMBJ5.0A_C19077558"
+		(property "Value" "SMBJ5.0A"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -71412,7 +71413,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "SMBJ5.0CA_C19077559"
+		(property "Value" "SMBJ5.0CA"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -71458,7 +71459,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "SMBJ51CA_C41376101"
+		(property "Value" "SMBJ51CA"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -71504,7 +71505,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "SMBJ5338B_C19077493"
+		(property "Value" "SMBJ5338B"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -71550,7 +71551,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "SMBJ5349B_C19077495"
+		(property "Value" "SMBJ5349B"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -71596,7 +71597,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "SMBJ58CA_C19077592"
+		(property "Value" "SMBJ58CA"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -71642,7 +71643,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "SMBJ6.0A_C19077560"
+		(property "Value" "SMBJ6.0A"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -71688,7 +71689,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "SMBJ6.0CA_C19077561"
+		(property "Value" "SMBJ6.0CA"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -71734,7 +71735,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "SMBJ6.5CA_C7420377"
+		(property "Value" "SMBJ6.5CA"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -71780,7 +71781,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "SMBJ60CA_C19077593"
+		(property "Value" "SMBJ60CA"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -71826,7 +71827,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "SMBJ7.0A_C19077563"
+		(property "Value" "SMBJ7.0A"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -71872,7 +71873,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "SMBJ7.0CA_C19077564"
+		(property "Value" "SMBJ7.0CA"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -71918,7 +71919,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "SMCJ12CA_C41411748"
+		(property "Value" "SMCJ12CA"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -71964,7 +71965,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "SMCJ150CA_C41411757"
+		(property "Value" "SMCJ150CA"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -72010,7 +72011,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "SMCJ15CA_C19077603"
+		(property "Value" "SMCJ15CA"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -72056,7 +72057,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "SMCJ18CA_C41411753"
+		(property "Value" "SMCJ18CA"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -72102,7 +72103,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "SMCJ20CA_C41411754"
+		(property "Value" "SMCJ20CA"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -72148,7 +72149,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "SMCJ22CA_C41411759"
+		(property "Value" "SMCJ22CA"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -72194,7 +72195,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "SMCJ26CA_C19077605"
+		(property "Value" "SMCJ26CA"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -72240,7 +72241,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "SMCJ28A_C42371538"
+		(property "Value" "SMCJ28A"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -72286,7 +72287,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "SMCJ30CA_C19077607"
+		(property "Value" "SMCJ30CA"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -72332,7 +72333,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "SMCJ33CA_C19077608"
+		(property "Value" "SMCJ33CA"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -72378,7 +72379,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "SMCJ36CA_C19077609"
+		(property "Value" "SMCJ36CA"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -72424,7 +72425,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "SMCJ40CA_C19077610"
+		(property "Value" "SMCJ40CA"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -72470,7 +72471,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "SMCJ5.0CA_C41411752"
+		(property "Value" "SMCJ5.0CA"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -72516,7 +72517,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "SMCJ54CA_C41411761"
+		(property "Value" "SMCJ54CA"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -72562,7 +72563,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "SMCJ58A_C42371547"
+		(property "Value" "SMCJ58A"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -72608,7 +72609,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "SMCJ6.0CA_C41376094"
+		(property "Value" "SMCJ6.0CA"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -72654,7 +72655,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "SMCJ60CA_C41411756"
+		(property "Value" "SMCJ60CA"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -72700,7 +72701,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "SMCJ64CA_C41411749"
+		(property "Value" "SMCJ64CA"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -72746,7 +72747,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "SMCJ70CA_C41411746"
+		(property "Value" "SMCJ70CA"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -72792,7 +72793,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "SMCJ75CA_C41411755"
+		(property "Value" "SMCJ75CA"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -72838,7 +72839,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "SMDJ15CA_C42371725"
+		(property "Value" "SMDJ15CA"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -72884,7 +72885,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "SMDJ16A_C42371723"
+		(property "Value" "SMDJ16A"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -72930,7 +72931,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "SMDJ24CA_C42371722"
+		(property "Value" "SMDJ24CA"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -72976,7 +72977,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "SMDJ28A_C42371721"
+		(property "Value" "SMDJ28A"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -73022,7 +73023,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "SMDJ40CA_C42371557"
+		(property "Value" "SMDJ40CA"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -73068,7 +73069,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "SMDJ45CA_C42371719"
+		(property "Value" "SMDJ45CA"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -73114,7 +73115,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "SMDJ60CA_C42394438"
+		(property "Value" "SMDJ60CA"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -73160,7 +73161,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "SMDJ64CA_C42371551"
+		(property "Value" "SMDJ64CA"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -73206,7 +73207,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "SMDJ85CA_C42371558"
+		(property "Value" "SMDJ85CA"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -73252,7 +73253,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "SMF10CA_C19077505"
+		(property "Value" "SMF10CA"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -73298,7 +73299,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "SMF12CA_C19077507"
+		(property "Value" "SMF12CA"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -73344,7 +73345,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "SMF13A_C41376087"
+		(property "Value" "SMF13A"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -73390,7 +73391,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "SMF150CA_C42371752"
+		(property "Value" "SMF150CA"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -73436,7 +73437,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "SMF15A_C19077509"
+		(property "Value" "SMF15A"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -73482,7 +73483,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "SMF18A_C19077512"
+		(property "Value" "SMF18A"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -73528,7 +73529,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "SMF18CA_C19077513"
+		(property "Value" "SMF18CA"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -73574,7 +73575,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "SMF20A_C41411782"
+		(property "Value" "SMF20A"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -73620,7 +73621,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "SMF20CA_C42371747"
+		(property "Value" "SMF20CA"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -73666,7 +73667,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "SMF24A_C19077514"
+		(property "Value" "SMF24A"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -73712,7 +73713,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "SMF24CA_C19077515"
+		(property "Value" "SMF24CA"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -73758,7 +73759,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "SMF26CA_C19077516"
+		(property "Value" "SMF26CA"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -73804,7 +73805,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "SMF30A_C19077518"
+		(property "Value" "SMF30A"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -73850,7 +73851,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "SMF30CA_C2990493"
+		(property "Value" "SMF30CA"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -73896,7 +73897,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "SMF36A_C41376086"
+		(property "Value" "SMF36A"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -73942,7 +73943,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "SMF40CA_C42371749"
+		(property "Value" "SMF40CA"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -73988,7 +73989,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "SMF5.0A_C19077497"
+		(property "Value" "SMF5.0A"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -74034,7 +74035,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "SMF5.0CA_C19077498"
+		(property "Value" "SMF5.0CA"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -74080,7 +74081,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "SMF6.0A_C19077499"
+		(property "Value" "SMF6.0A"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -74126,7 +74127,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "SMF6.0CA_C2990473"
+		(property "Value" "SMF6.0CA"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -74172,7 +74173,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "SMF6.5A_C41376089"
+		(property "Value" "SMF6.5A"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -74218,7 +74219,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "SMF6.5CA_C19077501"
+		(property "Value" "SMF6.5CA"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -74264,7 +74265,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "SMF7.0A_C41376088"
+		(property "Value" "SMF7.0A"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -74310,7 +74311,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "SMF7.0CA_C19077502"
+		(property "Value" "SMF7.0CA"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -74356,7 +74357,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "SMF7.5CA_C19077503"
+		(property "Value" "SMF7.5CA"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -74402,7 +74403,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "SMF9.0CA_C19077504"
+		(property "Value" "SMF9.0CA"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -74448,7 +74449,7 @@
 			(at 0 17.78 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "SRV05-4A_C20615829"
+		(property "Value" "SRV05-4A"
 			(at 0 -17.78 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -74494,7 +74495,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "SS110F_C41411770"
+		(property "Value" "SS110F"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -74540,7 +74541,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "SS110_C18199178"
+		(property "Value" "SS110"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -74586,7 +74587,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "SS115_C18199198"
+		(property "Value" "SS115"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -74632,7 +74633,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "SS120_C18199197"
+		(property "Value" "SS120"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -74678,7 +74679,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "SS12_C18199177"
+		(property "Value" "SS12"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -74724,7 +74725,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "SS14F_C18199203"
+		(property "Value" "SS14F"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -74770,7 +74771,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "SS14_C7420316"
+		(property "Value" "SS14"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -74816,7 +74817,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "SS16_C18199176"
+		(property "Value" "SS16"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -74862,7 +74863,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "SS210F_C41411768"
+		(property "Value" "SS210F"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -74908,7 +74909,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "SS210_C18199175"
+		(property "Value" "SS210"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -74954,7 +74955,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "SS220B_C28646302"
+		(property "Value" "SS220B"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -75000,7 +75001,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "SS220_C7420361"
+		(property "Value" "SS220"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -75046,7 +75047,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "SS24F_C18199202"
+		(property "Value" "SS24F"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -75092,7 +75093,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "SS24_C7420362"
+		(property "Value" "SS24"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -75138,7 +75139,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "SS26B_C18199184"
+		(property "Value" "SS26B"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -75184,7 +75185,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "SS26_C7420363"
+		(property "Value" "SS26"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -75230,7 +75231,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "SS310B_C18199183"
+		(property "Value" "SS310B"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -75276,7 +75277,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "SS310F_C41411780"
+		(property "Value" "SS310F"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -75322,7 +75323,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "SS310_C7420364"
+		(property "Value" "SS310"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -75368,7 +75369,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "SS315_C18199174"
+		(property "Value" "SS315"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -75414,7 +75415,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "SS320B_C18199206"
+		(property "Value" "SS320B"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -75460,7 +75461,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "SS320_C18199172"
+		(property "Value" "SS320"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -75506,7 +75507,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "SS32_C18199173"
+		(property "Value" "SS32"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -75552,7 +75553,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "SS34B_C7420366"
+		(property "Value" "SS34B"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -75598,7 +75599,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "SS34C_C18199192"
+		(property "Value" "SS34C"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -75644,7 +75645,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "SS36_C7420367"
+		(property "Value" "SS36"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -75690,7 +75691,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "SS38_C18199196"
+		(property "Value" "SS38"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -75736,7 +75737,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "SS510B_C7420368"
+		(property "Value" "SS510B"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -75782,7 +75783,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "SS510C_C18199190"
+		(property "Value" "SS510C"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -75828,7 +75829,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "SS510_C18199171"
+		(property "Value" "SS510"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -75874,7 +75875,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "SS520C_C18199189"
+		(property "Value" "SS520C"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -75920,7 +75921,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "SS520_C18199170"
+		(property "Value" "SS520"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -75966,7 +75967,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "SS52C_C41410784"
+		(property "Value" "SS52C"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -76012,7 +76013,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "SS54BF_C18199195"
+		(property "Value" "SS54BF"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -76058,7 +76059,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "SS54B_C18199181"
+		(property "Value" "SS54B"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -76104,7 +76105,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "SS56BF_C18199194"
+		(property "Value" "SS56BF"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -76150,7 +76151,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "SS56C_C18199187"
+		(property "Value" "SS56C"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -76196,7 +76197,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "SS56F_C41411775"
+		(property "Value" "SS56F"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -76242,7 +76243,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "SS56_C18199169"
+		(property "Value" "SS56"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -76288,7 +76289,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "SS58C_C41410785"
+		(property "Value" "SS58C"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -76334,7 +76335,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "SS58_C18199168"
+		(property "Value" "SS58"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -76380,7 +76381,7 @@
 			(at 0 10.16 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "SS8050_C431710"
+		(property "Value" "SS8050"
 			(at 0 -10.16 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -76426,7 +76427,7 @@
 			(at 0 10.16 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "SS8050_C7420370"
+		(property "Value" "SS8050"
 			(at 0 -10.16 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -76472,7 +76473,7 @@
 			(at 0 10.16 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "SS8550_C7420371"
+		(property "Value" "SS8550"
 			(at 0 -10.16 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -76518,7 +76519,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "SSL310_C41410773"
+		(property "Value" "SSL310"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -76607,7 +76608,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "SSL34BF_C42371733"
+		(property "Value" "SSL34BF"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -76653,7 +76654,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "SSL34_C41410771"
+		(property "Value" "SSL34"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -76742,7 +76743,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "SSL510B_C41410776"
+		(property "Value" "SSL510B"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -76788,7 +76789,7 @@
 			(at 0 6.35 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "SSL545B_C41410794"
+		(property "Value" "SSL545B"
 			(at 0 -3.81 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -76834,7 +76835,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "SSL54B_C28646278"
+		(property "Value" "SSL54B"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -76880,7 +76881,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "SSL56B_C28646279"
+		(property "Value" "SSL56B"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -76926,7 +76927,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "US1A_C18199125"
+		(property "Value" "US1A"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -76972,7 +76973,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "US1B_C18199126"
+		(property "Value" "US1B"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -77018,7 +77019,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "US1DW_C18199122"
+		(property "Value" "US1DW"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -77064,7 +77065,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "US1G_C18199127"
+		(property "Value" "US1G"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -77110,7 +77111,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "US1J_C18199128"
+		(property "Value" "US1J"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -77199,7 +77200,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "US1MF_C18199124"
+		(property "Value" "US1MF"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -77245,7 +77246,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "US1MW_C18199123"
+		(property "Value" "US1MW"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -77291,7 +77292,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "US2D_C18199133"
+		(property "Value" "US2D"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -77337,7 +77338,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "US2M_C18199132"
+		(property "Value" "US2M"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
@@ -77383,7 +77384,7 @@
 			(at 0 5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "Value" "US8MC_C18199136"
+		(property "Value" "US8MC"
 			(at 0 -5.08 0)
 			(effects (font (size 1.27 1.27)))
 		)
